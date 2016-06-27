@@ -1,0 +1,614 @@
+
+NOTE: The DBLP search has moved
+CompleteSearch DBLP has moved to the new domain www.dblp.org. Please update any links or bookmarks you might have set accordingly. The pages under www. informatik.uni-trier.de will eventually be moved there, too. There will be a separate notification about that.
+dblp.uni-trier.de
+CompleteSearch DBLP
+
+Feedback     Help a DBLP mirror with extended search capabilities maintained by Hannah Bast, University of Freiburg (formerly MPII Saarbrücken)
+ 
+zoomed in on 540 documents ... NEW: get these search results as XML, JSON, JSONP
+
+Refine by WORD
+Anil K. Jain, the AUTHOR(540)
+
+Refine by AUTHOR
+Anil K. Jain(540)
+Rong Jin(32)
+Arun Ross(31)
+Unsang Park(22)
+[top 4] [top 50] [top 250]
+
+Refine by VENUE
+IEEE Trans. Pattern Anal. Mach. Intell. (PAMI)(94)
+ICPR(58)
+Pattern Recognition (PR)(48)
+IEEE Transactions on Information Forensics and Security (TIFS)(23)
+[top 4] [top 50] [all 118]
+
+Refine by YEAR
+2015(1)
+2014(13)
+2013(20)
+2012(32)
+[top 4] [all 38]
+
+Refine by TYPE
+Conference(280)
+Journal(243)
+Editor(12)
+Book(3)
+[top 4] [all 5]
+2015
+540	EE	Kai Cao, Anil K. Jain: Learning Fingerprint Reconstruction: From Minutiae to Image. IEEE Transactions on Information Forensics and Security (TIFS) 10(1):104-117 (2015)
+2014
+539	EE	Shengcai Liao, Anil K. Jain, Stan Z. Li: A Fast and Accurate Unconstrained Face Detector. CoRR abs/1408.1656 (2014)
+538	EE	Radha Chitta, Rong Jin, Timothy C. Havens, Anil K. Jain: Scalable Kernel Clustering: Approximate Kernel k-means. CoRR abs/1402.3849 (2014)
+537	EE	Zheyun Feng, Songhe Feng, Rong Jin, Anil K. Jain: Image Tag Completion by Noisy Matrix Recovery. ECCV 2014:424-438
+536	EE	Jinfeng Yi, Lijun Zhang, Jun Wang, Rong Jin, Anil K. Jain: A Single-Pass Algorithm for Efficiently Recovering Sparse Cluster Centers of High-dimensional Data. ICML 2014:658-666
+535	EE	Sunpreet S. Arora, Kai Cao, Anil K. Jain, Nicholas G. Paulter: 3D Fingerprint Phantoms. ICPR 2014:684-689
+534	EE	Unsang Park, Jongseung Park, Anil K. Jain: Robust Keypoint Detection Using Higher-Order Scale Space Derivatives: Application to Image Retrieval. IEEE Signal Process. Lett. (SPL) 21(8):962-965 (2014)
+533	EE	Kien Nguyen, Anindya Sarkar, Anil K. Jain: Prostate Cancer Grading: Use of Graph Cut and Spatial Arrangement of Nuclei. IEEE Trans. Med. Imaging (TMI) 33(12):2254-2270 (2014)
+532	EE	Serhat Selcuk Bucak, Rong Jin, Anil K. Jain: Multiple Kernel Learning for Visual Object Recognition: A Review. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 36(7):1354-1369 (2014)
+531	EE	Kai Cao, Eryun Liu, Anil K. Jain: Segmentation and Enhancement of Latent Fingerprints: A Coarse to Fine RidgeStructure Dictionary. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 36(9):1847-1859 (2014)
+530	EE	Sunpreet S. Arora, Eryun Liu, Kai Cao, Anil K. Jain: Latent Fingerprint Matching: Performance Gain via Feedback from Exemplar Prints. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 36(12):2452-2465 (2014)
+529	EE	Lacey Best-Rowden, Hu Han, Charles Otto, Brendan Klare, Anil K. Jain: Unconstrained Face Recognition: Identifying a Person of Interest From a Media Collection. IEEE Transactions on Information Forensics and Security (TIFS) 9(12):2144-2157 (2014)
+528	EE	Scott Klum, Hu Han, Brendan Klare, Anil K. Jain: The FaceSketchID System: Matching Facial Composites to Mugshots. IEEE Transactions on Information Forensics and Security (TIFS) 9(12):2248-2263 (2014)
+527	EE	Dongoh Kang, Hu Han, Anil K. Jain, Seong-Whan Lee: Nighttime face recognition at large standoff: Cross-distance and cross-spectral matching. Pattern Recognition (PR) 47(12):3750-3766 (2014)
+2013
+526	EE	Jinfeng Yi, Rong Jin, Shaili Jain, Anil K. Jain: Inferring Users' Preferences from Crowdsourced Pairwise Comparisons: A Matrix Completion Approach. HCOMP 2013
+525	EE	Hu Han, Anil K. Jain: Tattoo based identification: Sketch to image matching. ICB 2013:1-8
+524	EE	Soweon Yoon, Anil K. Jain: Is there a fingerprint pattern in the image? ICB 2013:1-8
+523	EE	Qijun Zhao, Yi Zhang, Anil K. Jain, Nicholas G. Paulter, Melissa Taylor: A generative model for fingerprint minutiae. ICB 2013:1-8
+522	EE	Hu Han, Charles Otto, Anil K. Jain: Age estimation from face images: Human vs. machine performance. ICB 2013:1-8
+521	EE	Eryun Liu, Sunpreet S. Arora, Kai Cao, Anil K. Jain: A feedback paradigm for latent fingerprint matching. ICB 2013:1-8
+520	EE	Scott Klum, Hu Han, Anil K. Jain, Brendan Klare: Sketch based face recognition: Forensic vs. composite sketches. ICB 2013:1-8
+519	EE	Zheyun Feng, Rong Jin, Anil K. Jain: Large-Scale Image Annotation by Efficient and Robust Kernel Metric Learning. ICCV 2013:1609-1616
+518	EE	Jinfeng Yi, Lijun Zhang, Rong Jin, Qi Qian, Anil K. Jain: Semi-supervised Clustering by Input Pattern Assisted Pairwise Similarity Matrix Completion. ICML 2013:1400-1408
+517	EE	Joshua C. Klontz, Anil K. Jain: A Case Study of Automated Face Recognition: The Boston Marathon Bombings Suspects. IEEE Computer (COMPUTER) 46(11):91-94 (2013)
+516	EE	Lei Wu, Rong Jin, Anil K. Jain: Tag Completion for Image Retrieval. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 35(3):716-727 (2013)
+515	EE	Jianjiang Feng, Jie Zhou, Anil K. Jain: Orientation Field Estimation for Latent Fingerprint Enhancement. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 35(4):925-940 (2013)
+514	EE	ShengCai Liao, Anil K. Jain, Stan Z. Li: Partial Face Recognition: Alignment-Free Approach. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 35(5):1193-1205 (2013)
+513	EE	Brendan Klare, Anil K. Jain: Heterogeneous Face Recognition Using Kernel Prototype Similarities. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 35(6):1410-1422 (2013)
+512	EE	Eryun Liu, Anil K. Jain, Jie Tian: A Coarse to Fine Minutiae-Based Latent Palmprint Matching. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 35(10):2307-2322 (2013)
+511	EE	Alessandra A. Paulino, Jianjiang Feng, Anil K. Jain: Latent Fingerprint Matching Using Descriptor-Based Hough Transform. IEEE Transactions on Information Forensics and Security (TIFS) 8(1):31-45 (2013)
+510	EE	Hu Han, Brendan Klare, Kathryn Bonnen, Anil K. Jain: Matching Composite Sketches to Face Photos: A Component-Based Approach. IEEE Transactions on Information Forensics and Security (TIFS) 8(1):191-204 (2013)
+509	EE	Kathryn Bonnen, Brendan Klare, Anil K. Jain: Component-Based Representation in Automated Face Recognition. IEEE Transactions on Information Forensics and Security (TIFS) 8(1):239-253 (2013)
+508	EE	Unsang Park, Hyun-Cheol Choi, Anil K. Jain, Seong-Whan Lee: Face Tracking and Recognition at a Distance: A Coaxial and Concentric PTZ Camera System. IEEE Transactions on Information Forensics and Security (TIFS) 8(10):1665-1677 (2013)
+507	EE	Anil K. Jain, Karthik Nandakumar, Abhishek Nagar: Fingerprint Template Protection: From Theory to Practice. Security and Privacy in Biometrics 2013:187-214
+2012
+506	EE	Hyunju Maeng, ShengCai Liao, Dongoh Kang, Seong-Whan Lee, Anil K. Jain: Nighttime Face Recognition at Long Distance: Cross-Distance and Cross-Spectral Matching. ACCV 2012:708-721
+505	EE	Adrienne Walcer, Jason Gilder, Anil K. Jain: Comparison of Ontologies to Derive Pharmacologic Classes from Medications in Clinical Information Systems. AMIA 2012
+504	EE	Yu Zhong, Yunbin Deng, Anil K. Jain: Keystroke dynamics for user authentication. CVPR Workshops 2012:117-123
+503	EE	Prakash Mandayam Comar, Pang-Ning Tan, Anil K. Jain: Simultaneous classification and community detection on heterogeneous network data. Data Min. Knowl. Discov. (DATAMINE) 25(3):420-449 (2012)
+502	EE	Charles Otto, Hu Han, Anil K. Jain: How Does Aging Affect Facial Components? ECCV Workshops 2012:189-198
+501	EE	Anil K. Jain, Arun Ross, Salil Prabhakar, Jaihie Kim: 5th IAPR International Conference on Biometrics, ICB 2012, New Delhi, India, March 29 - April 1, 2012 ICB 2012
+500	EE	Zhen Lei, Changtao Zhou, Dong Yi, Anil K. Jain, Stan Z. Li: An improved coupled spectral regression for heterogeneous face recognition. ICB 2012:7-12
+499	EE	Brendan Klare, Serhat Selcuk Bucak, Anil K. Jain, Tayfun Akgul: Towards automated caricature recognition. ICB 2012:139-146
+498	EE	Soweon Yoon, Qijun Zhao, Anil K. Jain: On matching altered fingerprints. ICB 2012:222-229
+497	EE	Sunpreet S. Arora, Mayank Vatsa, Richa Singh, Anil K. Jain: Iris recognition under alcohol influence: A preliminary study. ICB 2012:336-341
+496	EE	Radha Chitta, Rong Jin, Anil K. Jain: Efficient Kernel Clustering Using Random Fourier Features. ICDM 2012:161-170
+495	EE	Jinfeng Yi, Tianbao Yang, Rong Jin, Anil K. Jain, Mehrdad Mahdavi: Robust Ensemble Clustering by Matrix Completion. ICDM 2012:1176-1181
+494	EE	Roman V. Yampolskiy, Brendan Klare, Anil K. Jain: Face Recognition in the Virtual World: Recognizing Avatar Faces. ICMLA 2012:40-45
+493	EE	Anil K. Jain, Soweon Yoon: Automatic Detection of Altered Fingerprints. IEEE Computer (COMPUTER) 45(1):79-82 (2012)
+492	EE	Anil K. Jain, Karthik Nandakumar: Biometric Authentication: System Security and User Privacy. IEEE Computer (COMPUTER) 45(11):87-92 (2012)
+491	EE	Anil K. Jain, Rong Jin, Jung-Eun Lee: Tattoo Image Matching and Retrieval. IEEE Computer (COMPUTER) 45(5):93-96 (2012)
+490	EE	Anil K. Jain, Brendan Klare, Unsang Park: Face Matching and Retrieval in Forensics Applications. IEEE MultiMedia (IEEEMM) 19(1):20 (2012)
+489	EE	Jung-Eun Lee, Rong Jin, Anil K. Jain, Wei Tong: Image Retrieval in Forensics: Tattoo Image Database Application. IEEE MultiMedia (IEEEMM) 19(1):40-49 (2012)
+488	EE	Soweon Yoon, Jianjiang Feng, Anil K. Jain: Altered Fingerprints: Analysis and Detection. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 34(3):451-464 (2012)
+487	EE	Abhishek Nagar, Karthik Nandakumar, Anil K. Jain: Multibiometric Cryptosystems Based on Feature-Level Fusion. IEEE Transactions on Information Forensics and Security (TIFS) 7(1):255-268 (2012)
+486	EE	Qijun Zhao, Anil K. Jain: Model Based Separation of Overlapping Latent Fingerprints. IEEE Transactions on Information Forensics and Security (TIFS) 7(3):904-918 (2012)
+485	EE	Zhen Lei, ShengCai Liao, Anil K. Jain, Stan Z. Li: Coupled Discriminant Analysis for Heterogeneous Face Recognition. IEEE Transactions on Information Forensics and Security (TIFS) 7(6):1707-1716 (2012)
+484	EE	Abhishek Nagar, Heeseung Choi, Anil K. Jain: Evidential Value of Automated Latent Fingerprint Comparison: An Empirical Approach. IEEE Transactions on Information Forensics and Security (TIFS) 7(6):1752-1765 (2012)
+483	EE	Brendan Klare, Mark J. Burge, Joshua C. Klontz, Richard W. Vorder Bruegge, Anil K. Jain: Face Recognition Performance: Role of Demographic Information. IEEE Transactions on Information Forensics and Security (TIFS) 7(6):1789-1801 (2012)
+482	EE	Wei Tong, Fengjie Li, Rong Jin, Anil K. Jain: Large-scale near-duplicate image retrieval by kernel density estimation. IJMIR 1(1):45-58 (2012)
+481	EE	David C. Kaelber, Wendy Foster, Jason Gilder, Thomas E. Love, Anil K. Jain: Patient characteristics associated with venous thromboembolic events: a cohort study using pooled electronic health record data. JAMIA 19(6):965-972 (2012)
+480	EE	Kien Nguyen, Anindya Sarkar, Anil K. Jain: Structure and Context in Prostatic Gland Segmentation and Classification. MICCAI 2012:115-123
+479	EE	Jinfeng Yi, Rong Jin, Anil K. Jain, Shaili Jain, Tianbao Yang: Semi-Crowdsourced Clustering: Generalizing Crowd Labeling by Robust Distance Metric Learning. NIPS 2012:1781-1789
+478	EE	Prakash Mandayam Comar, Pang-Ning Tan, Anil K. Jain: A framework for joint community detection across multiple related networks. Neurocomputing (IJON) 76(1):93-104 (2012)
+477	EE	Kim Boyer, Müjdat Çetin, Anil K. Jain, Seong-Whan Lee: Special Issue on Awards from ICPR 2010. Pattern Recognition Letters (PRL) 33(7):808-810 (2012)
+476	EE	Young-Beom Lee, Unsang Park, Anil K. Jain, Seong-Whan Lee: Pill-ID: Matching and retrieval of drug pill images. Pattern Recognition Letters (PRL) 33(7):904-910 (2012)
+475	EE	Kien Nguyen, Bikash Sabata, Anil K. Jain: Prostate cancer grading: Gland segmentation and structural features. Pattern Recognition Letters (PRL) 33(7):951-961 (2012)
+2011
+474	EE	Serhat Selcuk Bucak, Rong Jin, Anil K. Jain: Multi-label learning with incomplete class assignments. CVPR 2011:2801-2808
+473	EE	Anil K. Jain, Brendan Klare, Unsang Park: Face recognition: Some challenges in forensics. FG 2011:726-733
+472	EE	Timothy C. Havens, Radha Chitta, Anil K. Jain, Rong Jin: Speedup of fuzzy and possibilistic kernel c-means for large-scale clustering. FUZZ-IEEE 2011:463-470
+471	EE	Stan Z. Li, Anil K. Jain: Introduction. Handbook of Face Recognition 2011:1-15
+470	EE	Unsang Park, Anil K. Jain: Face Aging Modeling. Handbook of Face Recognition 2011:251-274
+469	EE	Stan Z. Li, Anil K. Jain: Handbook of Face Recognition, 2nd Edition. Springer 2011
+468	EE	Prakash Mandayam Comar, Pang-Ning Tan, Anil K. Jain: LinkBoost: A Novel Cost-Sensitive Boosting Framework for Community-Level Network Link Prediction. ICDM 2011:131-140
+467	EE	Wei Tong, Fengjie Li, Tianbao Yang, Rong Jin, Anil K. Jain: A kernel density based approach for large scale image retrieval. ICMR 2011:28
+466	EE	Anil K. Jain, Brendan Klare: Matching Forensic Sketches and Mug Shots to Apprehend Criminals. IEEE Computer (COMPUTER) 44(5):94-96 (2011)
+465	EE	Heung-Il Suk, Anil K. Jain, Seong-Whan Lee: A Network of Dynamic Probabilistic Models for Human Interaction Analysis. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 21(7):932-945 (2011)
+464	EE	Anil K. Jain, Jianjiang Feng: Latent Fingerprint Matching. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 33(1):88-100 (2011)
+463	EE	Jianjiang Feng, Anil K. Jain: Fingerprint Reconstruction: From Minutiae to Phase. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 33(2):209-223 (2011)
+462	EE	Brendan Klare, Zhifeng Li, Anil K. Jain: Matching Forensic Sketches to Mug Shot Photos. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 33(3):639-646 (2011)
+461	EE	Unsang Park, Raghavender R. Jillela, Arun Ross, Anil K. Jain: Periocular Biometrics in the Visible Spectrum. IEEE Transactions on Information Forensics and Security (TIFS) 6(1):96-106 (2011)
+460	EE	F. Chen, J. Feng, Anil K. Jain, J. Zhou, J. Zhang: Separating Overlapped Fingerprints. IEEE Transactions on Information Forensics and Security (TIFS) 6(2):346-359 (2011)
+459	EE	Thirimachos Bourlai, Arun Ross, Anil K. Jain: Restoring Degraded Face Images: A Case Study in Matching Faxed, Printed, and Scanned Photos. IEEE Transactions on Information Forensics and Security (TIFS) 6(2):371-384 (2011)
+458	EE	Zhifeng Li, Unsang Park, Anil K. Jain: A Discriminative Model for Age Invariant Face Recognition. IEEE Transactions on Information Forensics and Security (TIFS) 6(3-2):1028-1037 (2011)
+457	EE	Koichiro Niinuma, Unsang Park, Anil K. Jain: Erratum to "Soft Biometric Traits for Continuous User Authentication". IEEE Transactions on Information Forensics and Security (TIFS) 6(3-2):1180 (2011)
+456	EE	Qijun Zhao, Anil K. Jain, Gil Abramovich: 3D to 2D fingerprints: Unrolling and distortion correction. IJCB 2011:1-8
+455	EE	Heeseung Choi, Abhishek Nagar, Anil K. Jain: On the evidential value of fingerprints. IJCB 2011:1-8
+454	EE	Alessandra A. Paulino, Jianjiang Feng, Anil K. Jain: Latent fingerprint matching using descriptor-based hough transform. IJCB 2011:1-7
+453	EE	ShengCai Liao, Anil K. Jain: Partial face recognition: An alignment free approach. IJCB 2011:1-8
+452	EE	Brendan Klare, Anil K. Jain: Face recognition across time lapse: On learning feature subspaces. IJCB 2011:1-8
+451	EE	Rubisley de P. Lemes, Olga Regina Pereira Bellon, Luciano Silva, Anil K. Jain: Biometric recognition of newborns: Identification using palmprints. IJCB 2011:1-6
+450	EE	Hyunju Maeng, Hyun-Cheol Choi, Unsang Park, Seong-Whan Lee, Anil K. Jain: NFRAD: Near-Infrared Face Recognition at a Distance. IJCB 2011:1-7
+449	EE	Brendan Klare, Alessandra A. Paulino, Anil K. Jain: Analysis of facial features in identical twins. IJCB 2011:1-8
+448	EE	Soweon Yoon, Jianjiang Feng, Anil K. Jain: Latent fingerprint enhancement via robust orientation field estimation. IJCB 2011:1-8
+447	EE	Radha Chitta, Rong Jin, Timothy C. Havens, Anil K. Jain: Approximate kernel k-means: solution to large scale kernel clustering. KDD 2011:895-903
+2010
+446	EE	Pavan Kumar Mallapragada, Rong Jin, Anil K. Jain: Online visual vocabulary pruning using pairwise constraints. CVPR 2010:3073-3080
+445	EE	Tianbao Yang, Rong Jin, Anil K. Jain: Learning from Noisy Side Information by Generalized Maximum Entropy Model. ICML 2010:1199-1206
+444	EE	André Lourenço, Ana L. N. Fred, Anil K. Jain: On the Scalability of Evidence Accumulation Clustering. ICPR 2010:782-785
+443	EE	Kien Nguyen, Anil K. Jain, Ronald L. Allen: Automated Gland Segmentation and Classification for Gleason Grading of Prostate Tissue Images. ICPR 2010:1497-1500
+442	EE	Brendan Klare, Anil K. Jain: Heterogeneous Face Recognition: Matching NIR to Visible Light Images. ICPR 2010:1513-1516
+441	EE	Brendan Klare, Pavan Kumar Mallapragada, Anil K. Jain, Kent Davis: Clustering Face Carvings: Exploring the Devatas of Angkor Wat. ICPR 2010:1517-1520
+440	EE	Jianjiang Feng, Anil K. Jain, Arun Ross: Detecting Altered Fingerprints. ICPR 2010:1622-1625
+439	EE	Young-Beom Lee, Unsang Park, Anil K. Jain: PILL-ID: Matching and Retrieval of Drug Pill Imprint Images. ICPR 2010:2632-2635
+438	EE	Jung-Eun Lee, Rong Jin, Anil K. Jain: Unsupervised Ensemble Ranking: Application to Large-Scale Image Retrieval. ICPR 2010:3902-3906
+437	EE	Anil K. Jain, Jianjiang Feng, Karthik Nandakumar: Fingerprint Matching. IEEE Computer (COMPUTER) 43(2):36-44 (2010)
+436	EE	Unsang Park, Yiying Tong, Anil K. Jain: Age-Invariant Face Recognition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 32(5):947-954 (2010)
+435	EE	Yi Cheng Feng, Pong Chi Yuen, Anil K. Jain: A hybrid approach for generating secure and discriminating face template. IEEE Transactions on Information Forensics and Security (TIFS) 5(1):103-117 (2010)
+434	EE	Unsang Park, Anil K. Jain: Face matching and retrieval using soft biometrics. IEEE Transactions on Information Forensics and Security (TIFS) 5(3):406-415 (2010)
+433	EE	Koichiro Niinuma, Unsang Park, Anil K. Jain: Soft Biometric Traits for Continuous User Authentication. IEEE Transactions on Information Forensics and Security (TIFS) 5(4):771-780 (2010)
+432	EE	Tianbao Yang, Rong Jin, Anil K. Jain, Yang Zhou, Wei Tong: Unsupervised transfer classification: application to text categorization. KDD 2010:1159-1168
+431	EE	Abhishek Nagar, Karthik Nandakumar, Anil K. Jain: Biometric template transformation: a security analysis. Media Forensics and Security 2010:75410
+430	EE	Serhat Selcuk Bucak, Rong Jin, Anil K. Jain: Multi-label Multiple Kernel Learning by Stochastic Approximation: Application to Visual Object Recognition. NIPS 2010:325-333
+429	EE	Anil K. Jain: Data clustering: 50 years beyond K-means. Pattern Recognition Letters (PRL) 31(8):651-666 (2010)
+428	EE	Abhishek Nagar, Karthik Nandakumar, Anil K. Jain: A hybrid biometric cryptosystem for securing fingerprint minutiae templates. Pattern Recognition Letters (PRL) 31(8):733-741 (2010)
+427	EE	Alessandra A. Paulino, Anil K. Jain, Jianjiang Feng: Latent Fingerprint Matching: Fusion of Manually Marked and Derived Minutiae. SIBGRAPI 2010:63-70
+426	EE	Pavan Kumar Mallapragada, Rong Jin, Anil K. Jain: Non-parametric Mixture Models for Clustering. SSPR/SPR 2010:334-343
+2009
+425	EE	Feilong Chen, Pang-Ning Tan, Anil K. Jain: A co-classification framework for detecting web spam and spammers in social media web sites. CIKM 2009:1807-1810
+424	EE	Stan Z. Li, Anil K. Jain: Encyclopedia of Biometrics Springer US 2009
+423	EE	Hong Chen, Anil K. Jain: Dental Biometrics. Encyclopedia of Biometrics 2009:216-223
+422	EE	Karthik Nandakumar, Anil K. Jain: Soft Biometrics. Encyclopedia of Biometrics 2009:1235-1239
+421	EE	Yi Chen, Anil K. Jain: Beyond Minutiae: A Fingerprint Individuality Model with Pattern, Ridge and Pore Features. ICB 2009:523-533
+420	EE	Jianjiang Feng, Anil K. Jain: FM Model Based Fingerprint Reconstruction from Minutiae Template. ICB 2009:544-553
+419	EE	Jianjiang Feng, Soweon Yoon, Anil K. Jain: Latent Fingerprint Matching: Fusion of Rolled and Plain Fingerprints. ICB 2009:695-704
+418	EE	Karthik Nandakumar, Anil K. Jain, Arun Ross: Fusion in Multibiometric Identification Systems: What about the Missing Data?. ICB 2009:743-752
+417	EE	Serhat Selcuk Bucak, Pavan Kumar Mallapragada, Rong Jin, Anil K. Jain: Efficient multi-label ranking for multi-class learning: Application to object recognition. ICCV 2009:2098-2105
+416	EE	Anil K. Jain, Unsang Park: Facial marks: Soft biometric for face recognition. ICIP 2009:37-40
+415	EE	Anil K. Jain, Jung-Eun Lee, Rong Jin, Nicholas Gregg: Content-based image retrieval: An application to tattoo images. ICIP 2009:2745-2748
+414	EE	Anil K. Jain, Jianjiang Feng: Latent Palmprint Matching. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 31(6):1032-1047 (2009)
+413	EE	Pavan Kumar Mallapragada, Rong Jin, Anil K. Jain, Yi Liu: SemiBoost: Boosting for Semi-Supervised Learning. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 31(11):2000-2014 (2009)
+2008
+412	EE	Peter J. Embi, Anil K. Jain, C. Martin Harris: Physicians' perceptions of an electronic health record-based clinical trial alert approach to subject recruitment: A survey. BMC Med. Inf. & Decision Making (MIDM) 8:13 (2008)
+411	EE	Jung-Eun Lee, Rong Jin, Anil K. Jain: Rank-based distance metric learning: An application to image retrieval. CVPR 2008
+410	EE	Anil K. Jain: Data Clustering: 50 Years Beyond K-means. ECML/PKDD 2008:3-4
+409	EE	Hamed Valizadegan, Rong Jin, Anil K. Jain: Semi-Supervised Boosting for Multi-Class Classification. ECML/PKDD 2008:522-537
+408	EE	Anil K. Jain, Karthik Nandakumar, Abhishek Nagar: Biometric Template Security. EURASIP J. Adv. Sig. Proc. (EJASP) 2008 (2008)
+407	EE	Unsang Park, Yiying Tong, Anil K. Jain: Face recognition with temporal invariance: A 3D aging model. FG 2008:1-7
+406	EE	Jianjiang Feng, Anil K. Jain: Filtering large fingerprint database for latent matching. ICPR 2008:1-4
+405	EE	Pavan Kumar Mallapragada, Rong Jin, Anil K. Jain: Active query selection for semi-supervised clustering. ICPR 2008:1-4
+404	EE	Abhishek Nagar, Karthik Nandakumar, Anil K. Jain: Securing fingerprint template: Fuzzy vault with minutiae descriptors. ICPR 2008:1-4
+403	EE	Ana L. N. Fred, Anil K. Jain: Cluster validation using a probabilistic attributed graph. ICPR 2008:1-4
+402	EE	Karthik Nandakumar, Yi Chen, Sarat C. Dass, Anil K. Jain: Likelihood Ratio-Based Biometric Score Fusion. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 30(2):342-347 (2008)
+401	EE	Xiaoguang Lu, Anil K. Jain: Deformation Modeling for Robust 3D Face Matching. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 30(8):1346-1357 (2008)
+400	EE	Anil K. Jain: Biometric authentication. Scholarpedia 3(6):3716 (2008)
+2007
+399	EE	Arun Ross, Anil K. Jain: Human recognition using biometrics: an overview. Annales des Télécommunications (ADT) 62(1-2):11-35 (2007)
+398	EE	Anil K. Jain: Biometric Recognition: Overview and Recent Advances. CIARP 2007:13-19
+397	EE	Unsang Park, Anil K. Jain, Arun Ross: Face Recognition in Video: Adaptive Fusion of Multiple Matchers. CVPR 2007
+396	EE	Hany H. Ammar, Mohamed Abdel-Mottaleb, Anil K. Jain: Automated dental identification system (ADIS). DG.O 2007:248-249
+395	EE	Karthik Nandakumar, Abhishek Nagar, Anil K. Jain: Hardening Fingerprint Fuzzy Vault Using Password. ICB 2007:927-937
+394	EE	Unsang Park, Anil K. Jain: 3D Model-Based Face Recognition in Video. ICB 2007:1085-1094
+393	EE	Michael E. Farmer, Anil K. Jain: Smart Automotive Airbags: Occupant Classification and Tracking. IEEE T. Vehicular Technology (TVT) 56(1):60-80 (2007)
+392	EE	Anil K. Jain, Yi Chen, Meltem Demirkus: Pores and Ridges: High-Resolution Fingerprint Matching Using Level 3 Features. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 29(1):15-27 (2007)
+391	EE	Arun Ross, Jidnya Shah, Anil K. Jain: From Template to Image: Reconstructing Fingerprints from Minutiae Points. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 29(4):544-560 (2007)
+390	EE	Yongfang Zhu, Sarat C. Dass, Anil K. Jain: Statistical Models for Assessing the Individuality of Fingerprints. IEEE Transactions on Information Forensics and Security (TIFS) 2(3-1):391-401 (2007)
+389	EE	Karthik Nandakumar, Anil K. Jain, Sharath Pankanti: Fingerprint-Based Fuzzy Vault: Implementation and Performance. IEEE Transactions on Information Forensics and Security (TIFS) 2(4):744-757 (2007)
+388	EE	Yi Liu, Rong Jin, Anil K. Jain: BoostCluster: boosting clustering by pairwise constraints. KDD 2007:450-459
+387	EE	Anil K. Jain: Data Clustering: User's Dilemma. MLDM 2007:1
+386	EE	Anil K. Jain, Jung-Eun Lee, Rong Jin: Tattoo-ID: Automatic Tattoo Image Retrieval for Suspect and Victim Identification. PCM 2007:256-265
+385	   	Ana L. N. Fred, Anil K. Jain: Pattern Recognition in Information Systems, Proceedings of the 7th International Workshop on Pattern Recognition in Information Systems, PRIS 2007, In conjunction with ICEIS 2007, Funchal, Madeira, Portugal, June 2007 PRIS 2007
+2006
+384	EE	Rajeev Kapoor, Janet Fuchs, Cathy Lutz, Anil K. Jain: A Model for Extending Physician-Specific Process Measures to the Advanced Practice Nurses. AMIA 2006
+383	EE	Ashish Atreja, Barbara Messinger-Rapport, Anil K. Jain, Neil Mehta: Using Web 2.0 Technologies to Develop a Resource for Evidence Based Medicine. AMIA 2006
+382	EE	Unsang Park, Anil K. Jain: 3D Face Reconstruction from Stereo Video. CRV 2006:41
+381	EE	Xiaoguang Lu, Anil K. Jain: Deformation Modeling for Robust 3D Face Matching. CVPR 2006:1377-1383
+380	EE	Hany H. Ammar, Robert Howell, Mohamed Abdel-Mottaleb, Anil K. Jain: Automated dental identification system (ADIS). DG.O 2006:369-370
+379	EE	Xiaoguang Lu, Anil K. Jain: Automatic Feature Extraction for Multiview 3D Face Recognition. FG 2006:585-590
+378	   	David Zhang, Anil K. Jain: Advances in Biometrics, International Conference, ICB 2006, Hong Kong, China, January 5-7, 2006, Proceedings ICB 2006
+377	EE	Yunhong Wang, Yiding Wang, Anil K. Jain, Tieniu Tan: Face Verification Based on Bagging RBF Networks. ICB 2006:69-77
+376	EE	Julian Fiérrez-Aguilar, Yi Chen, Javier Ortega-Garcia, Anil K. Jain: Incorporating Image Quality in Multi-algorithm Fingerprint Verification. ICB 2006:213-220
+375	EE	Yi Chen, Sarat C. Dass, Anil K. Jain: Localized Iris Image Quality Using 2-D Wavelets. ICB 2006:373-381
+374	EE	Xiaoguang Lu, Hong Chen, Anil K. Jain: Multimodal Facial Gender and Ethnicity Identification. ICB 2006:554-561
+373	   	Anil K. Jain: Biometric Recognition: How Do I Know Who You Are? ICEIS 2006:17-18
+372	EE	Ana L. N. Fred, Anil K. Jain: Learning Pairwise Similarity for Data Clustering. ICPR 2006:925-928
+371	EE	Anil K. Jain, Pavan Kumar Mallapragada, Martin H. C. Law: Bayesian Feedback in Data Clustering. ICPR 2006:374-378
+370	EE	Yongfang Zhu, Sarat C. Dass, Anil K. Jain: Compound Stochastic Models For Fingerprint Individuality. ICPR 2006:532-535
+369	EE	Unsang Park, Anil K. Jain, Itaru Kitahara, Kiyoshi Kogure, Norihiro Hagita: ViSE: Visual Search Engine Using Multiple Networked Cameras. ICPR 2006:1204-1207
+368	EE	Karthik Nandakumar, Yi Chen, Anil K. Jain, Sarat C. Dass: Quality-based Score Level Fusion in Multibiometric Systems. ICPR 2006:473-476
+367	EE	Anil K. Jain, Yi Chen, Meltem Demirkus: Pores and Ridges: Fingerprint Matching Using Level 3 Features. ICPR 2006:477-480
+366	EE	Choonwoo Ryu, Hakil Kim, Anil K. Jain: Template Adaptation based Fingerprint Verification. ICPR 2006:582-585
+365	EE	Raffaele Cappelli, Dario Maio, Davide Maltoni, James L. Wayman, Anil K. Jain: Performance Evaluation of Fingerprint Verification Systems. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 28(1):3-18 (2006)
+364	EE	Arun Ross, Sarat C. Dass, Anil K. Jain: Fingerprint Warping Using Ridge Curve Correspondences. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 28(1):19-30 (2006)
+363	EE	Xiaoguang Lu, Anil K. Jain, Dirk Colbry: Matching 2.5D Face Scans to 3D Models. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 28(1):31-43 (2006)
+362	EE	Martin H. C. Law, Anil K. Jain: Incremental Nonlinear Dimensionality Reduction by Manifold Learning. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 28(3):377-391 (2006)
+361	EE	Sarat C. Dass, Yongfang Zhu, Anil K. Jain: Validating a Biometric Authentication System: Sample Size Requirements. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 28(12):1902-1319 (2006)
+360	EE	Anil K. Jain, Arun Ross, Sharath Pankanti: Biometrics: a tool for information security. IEEE Transactions on Information Forensics and Security (TIFS) 1(2):125-143 (2006)
+359	   	Bilge Günsel, Anil K. Jain, A. Murat Tekalp, Bülent Sankur: Multimedia Content Representation, Classification and Security, International Workshop, MRCS 2006, Istanbul, Turkey, September 11-13, 2006, Proceedings MRCS 2006
+358	EE	Ajay Kumar, David C. M. Wong, Helen C. Shen, Anil K. Jain: Personal authentication using hand images. Pattern Recognition Letters (PRL) 27(13):1478-1486 (2006)
+357	   	Aparecido Nilceu Marana, Fernanda Pereira Sartori Falguera, Juan Rogelio Falguera, Anil K. Jain: Biometrics for Human Identification. RITA 13(2):103-130 (2006)
+2005
+356	EE	Michel Avital, Ashish Atreja, Neil Mehta, Anil K. Jain: Development and Psychometric Validation of a Brief Instrument to Measure Satisfaction with Online Training. AMIA 2005
+355	EE	Peter J. Embi, Anil K. Jain, Jeffrey Clark, C. Martin Harris: Development of an Electronic Health Record-based Clinical Trial Alert System to Enhance Recruitment at the Point of Care. AMIA 2005
+354	EE	Ashish Atreja, Michael Buck, Anil K. Jain, Cherie Brunker, Theodore T. Suh, C. Martin Harris, Robert Palmer, Adam B. Wilcox: Drug-Age Alerting for Outpatient Geriatric Prescriptions: A Joint Study using Interoperable Drug Standards. AMIA 2005
+353	EE	Peter J. Embi, Anil K. Jain, C. Martin Harris: Physician Perceptions of an Electronic Health Record-based Clinical Trial Alert System: A Survey of Study Participants. AMIA 2005
+352	EE	Alan M. Weiss, Anil K. Jain: Using Computerized Physician Order Entry to Decrease Insurance Denials. AMIA 2005
+351	   	Takeo Kanade, Anil K. Jain, Nalini K. Ratha: Audio- and Video-Based Biometric Person Authentication, 5th International Conference, AVBPA 2005, Hilton Rye Town, NY, USA, July 20-22, 2005, Proceedings AVBPA 2005
+350	EE	Yi Chen, Sarat C. Dass, Anil K. Jain: Fingerprint Quality Indices for Predicting Authentication Performance. AVBPA 2005:160-170
+349	EE	Umut Uludag, Sharath Pankanti, Anil K. Jain: Fuzzy Vault for Fingerprints. AVBPA 2005:310-319
+348	EE	Sarat C. Dass, Karthik Nandakumar, Anil K. Jain: A Principled Approach to Score Level Fusion in Multimodal Biometric Systems. AVBPA 2005:1049-1058
+347	EE	Stephen Krawczyk, Anil K. Jain: Securing Electronic Medical Records Using Biometric Authentication. AVBPA 2005:1110-1119
+346	EE	Sarat C. Dass, Yongfang Zhu, Anil K. Jain: Statistical Models for Assessing the Individuality of Fingerprints. AutoID 2005:3-9
+345	EE	Unsang Park, Hong Chen, Anil K. Jain: 3D Model-Assisted Face Recognition in Video. CRV 2005:322-329
+344	EE	Tilman Lange, Martin H. C. Law, Anil K. Jain, Joachim M. Buhmann: Learning with Constrained and Unlabelled Data. CVPR 2005:731-738
+343	EE	Hany H. Ammar, Anil K. Jain, Mohamed Abdel-Mottaleb: Automated dental identification system (ADIS). DG.O 2005:165-166
+342	EE	Hany H. Ammar, Anil K. Jain, Mohamed Abdel-Mottaleb: Automated Dental Identification System (ADIS). DG.O 2005:273-274
+341	EE	Arun Ross, Anil K. Jain: Biometrics. Encyclopedia of Cryptography and Security 2005
+340	EE	Anil K. Jain: Biometric Recognition: How Do I Know Who You Are?. ICIAP 2005:19-26
+339	EE	Robert Snelick, Umut Uludag, Alan Mink, Mike Indovina, Anil K. Jain: Large-Scale Evaluation of Multimodal Biometric Authentication Using State-of-the-Art Systems. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 27(3):450-455 (2005)
+338	EE	Ana L. N. Fred, Anil K. Jain: Combining Multiple Clusterings Using Evidence Accumulation. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 27(6):835-850 (2005)
+337	EE	Hong Chen, Anil K. Jain: Dental Biometrics: Alignment and Matching of Dental Radiographs. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 27(8):1319-1326 (2005)
+336	EE	Alexander P. Topchy, Anil K. Jain, William F. Punch: Clustering Ensembles: Models of Consensus and Weak Partitions. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 27(12):1866-1881 (2005)
+335	EE	Michael E. Farmer, Anil K. Jain: A wrapper-based approach to image segmentation and classification. IEEE Transactions on Image Processing (TIP) 14(12):2060-2072 (2005)
+334	EE	Julian Fiérrez-Aguilar, Stephen Krawczyk, Javier Ortega-Garcia, Anil K. Jain: Fusion of Local and Regional Approaches for On-Line Signature Verification. IWBRS 2005:188-196
+333	EE	Gamal Fahmy, Diaa Eldin M. Nassar, Eyad Haj-Said, Hong Chen, Omaima Nomir, Jindan Zhou, Robert Howell, Hany H. Ammar, Mohamed Abdel-Mottaleb, Anil K. Jain: Toward an automated dental identification system. J. Electronic Imaging (JEI) 14(4):043018 (2005)
+332	EE	Anil K. Jain, Martin H. C. Law: Data Clustering: A User's Dilemma. PReMI 2005:1-10
+331	EE	Arun Ross, Sarat C. Dass, Anil K. Jain: A deformable model for fingerprint matching. Pattern Recognition (PR) 38(1):95-103 (2005)
+330	EE	Anil K. Jain, Karthik Nandakumar, Arun Ross: Score normalization in multimodal biometric systems. Pattern Recognition (PR) 38(12):2270-2285 (2005)
+329	EE	Anil K. Jain: Biometric Recognition: How Do I Know Who You Are?. SCIA 2005:1-5
+328	EE	Martin H. C. Law, Alexander P. Topchy, Anil K. Jain: Model-based Clustering With Probabilistic Constraints. SDM 2005:641-645
+327	EE	Aparecido Nilceu Marana, Anil K. Jain: Ridge-Based Fingerprint Matching Using Hough Transform. SIBGRAPI 2005:112-119
+326	EE	Xiaoguang Lu, Anil K. Jain: Deformation Analysis for 3D Face Matching. WACV/MOTION 2005:99-104
+325	EE	Yi Chen, Sarat C. Dass, Arun Ross, Anil K. Jain: Fingerprint Deformation Models Using Minutiae Locations and Orientations. WACV/MOTION 2005:150-155
+324	EE	Xiaoguang Lu, Anil K. Jain: Integrating Range and Texture Information for 3D Face Recognition. WACV/MOTION 2005:156-163
+323	EE	Hong Chen, Anil K. Jain: Dental Biometrics: Alignment and Matching of Dental Radiographs. WACV/MOTION 2005:316-321
+2004
+322	   	Xiaoguang Lu, Guo-Qing Wei, Jian Zhong Qian, Anil K. Jain: Learning-based pulmonary nodule detection from multislice CT data. CARS 2004:1356
+321	EE	Martin H. C. Law, Alexander P. Topchy, Anil K. Jain: Multiobjective Data Clustering. CVPR 2004:424-430
+320	EE	Anil K. Jain, Arun Ross: Multibiometric systems. Commun. ACM (CACM) 47(1):34-40 (2004)
+319	EE	Gamal Fahmy, Diaa Eldin M. Nassar, Eyad Jai-Said, Hong Chen, Omaima Nomir, Jindan Zhou, Robert Howell, Hany H. Ammar, Mohamed Abdel-Mottaleb, Anil K. Jain: A Web Based Tool for an Automated Dental Identification System (ADIS). DG.O 2004
+318	EE	Gamal Fahmy, Diaa Eldin M. Nassar, Eyad Jai-Said, Hong Chen, Omaima Nomir, Jindan Zhou, Robert Howell, Hany H. Ammar, Mohamed Abdel-Mottaleb, Anil K. Jain: Automated Dental Identification System (ADIS). DG.O 2004
+317	   	Davide Maltoni, Anil K. Jain: Biometric Authentication, ECCV 2004 International Workshop, BioAW 2004, Prague, Czech Republic, May 15, 2004, Proceedings ECCV Workshop BioAW 2004
+316	EE	Arun Ross, Anil K. Jain: Biometric Sensor Interoperability: A Case Study in Fingerprints. ECCV Workshop BioAW 2004:134-145
+315	EE	Anil K. Jain, Karthik Nandakumar, Xiaoguang Lu, Unsang Park: Integrating Faces, Fingerprints, and Soft Biometric Traits for User Recognition. ECCV Workshop BioAW 2004:259-269
+314	   	David Zhang, Anil K. Jain: Biometric Authentication, First International Conference, ICBA 2004, Hong Kong, China, July 15-17, 2004, Proceedings ICBA 2004
+313	EE	Dario Maio, Davide Maltoni, Raffaele Cappelli, James L. Wayman, Anil K. Jain: FVC2004: Third Fingerprint Verification Competition. ICBA 2004:1-7
+312	EE	Xiaoguang Lu, Dirk Colbry, Anil K. Jain: Matching 2.5D Scans for Face Recognition. ICBA 2004:30-36
+311	EE	Xiaoguang Lu, Rein-Lien Hsu, Anil K. Jain, Behrooz Kamgar-Parsi, Behzad Kamgar-Parsi: Face Recognition with 3D Model-Based Synthesis. ICBA 2004:139-146
+310	EE	Arun Ross, Sarat C. Dass, Anil K. Jain: Estimating Fingerprint Deformation. ICBA 2004:249-255
+309	EE	Anoop M. Namboodiri, Shailesh Saini, Xiaoguang Lu, Anil K. Jain: Skilled Forgery Detection in On-Line Signatures: A Multimodal Approach. ICBA 2004:505-511
+308	EE	Anil K. Jain, Sarat C. Dass, Karthik Nandakumar: Soft Biometric Traits for Personal Recognition Systems. ICBA 2004:731-738
+307	EE	Gamal Fahmy, Diaa Eldin M. Nassar, Eyad Haj-Said, Hong Chen, Omaima Nomir, Jindan Zhou, Robert Howell, Hany H. Ammar, Mohamed Abdel-Mottaleb, Anil K. Jain: Towards an Automated Dental Identification System (ADIS). ICBA 2004:789-796
+306	EE	Alexander P. Topchy, Martin H. C. Law, Anil K. Jain, Ana L. N. Fred: Analysis of Consensus Partition in Cluster Ensemble. ICDM 2004:225-232
+305	EE	Michael E. Farmer, Xiaoguang Lu, Hong Chen, Anil K. Jain: Robust motion-based image segmentation using fusion. ICIP 2004:3375-3378
+304	EE	Anil K. Jain, Alexander P. Topchy, Martin H. C. Law, Joachim M. Buhmann: Landscape of Clustering Algorithms. ICPR 2004:260-263
+303	EE	Alexander P. Topchy, Behrouz Minaei-Bidgoli, Anil K. Jain, William F. Punch: Adaptive Clustering Ensembles. ICPR 2004:272-275
+302	EE	Xiaoguang Lu, Dirk Colbry, Anil K. Jain: Three-Dimensional Model Based Face Recognition. ICPR 2004:362-366
+301	EE	Michael E. Farmer, Anil K. Jain: A Wrapper-Based Approach to Image Segmentation and Classification. ICPR 2004:106-109
+300	EE	Michael E. Farmer, Shweta Bapna, Anil K. Jain: Large Scale Feature Selection Using Modified Random Mutation Hill Climbing. ICPR 2004:287-290
+299	EE	Anoop M. Namboodiri, Anil K. Jain: Retrieval of On-line Hand-Drawn Sketches. ICPR 2004:642-645
+298	EE	Anil K. Jain, Sharath Pankanti, Salil Prabhakar, Lin Hong, Arun Ross: Biometrics: A Grand Challenge. ICPR 2004:935-942
+297	EE	Hong Chen, Anil K. Jain: Tooth Contour Extraction for Matching Dental Radiographs. ICPR 2004:522-525
+296	   	Anoop M. Namboodiri, Anil K. Jain: Robust Segmentation of Unconstrained Online Handwritten Documents. ICVGIP 2004:165-170
+295	   	Karthik Nandakumar, Anil K. Jain: Local Correlation-based Fingerprint Matching. ICVGIP 2004:503-508
+294	   	Sarat C. Dass, Anil K. Jain: Fingerprint Classification Using Orientation Field Flow Curves. ICVGIP 2004:650-655
+293	EE	Anil K. Jain, Arun Ross, Salil Prabhakar: An introduction to biometric recognition. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 14(1):4-20 (2004)
+292	EE	Anoop M. Namboodiri, Anil K. Jain: Online Handwritten Script Recognition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 26(1):124-130 (2004)
+291	EE	Martin H. C. Law, Mário A. T. Figueiredo, Anil K. Jain: Simultaneous Feature Selection and Clustering Using Mixture Models. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 26(9):1154-1166 (2004)
+290	EE	Ashish Atreja, Neil Mehta, Anil K. Jain, C. Martin Harris: Letter to the Editor: Computer Alerts for Potassium Testing: Resisting the Temptation of a Blanket Approach. JAMIA 11(5):433-434 (2004)
+289	EE	Keechul Jung, Kwang In Kim, Anil K. Jain: Text information extraction in images and video: a survey. Pattern Recognition (PR) 37(5):977-997 (2004)
+288	EE	Anil K. Jain, Hong Chen: Matching of dental X-ray images for human identification. Pattern Recognition (PR) 37(7):1519-1532 (2004)
+287	EE	Umut Uludag, Arun Ross, Anil K. Jain: Biometric template selection and update: a case study in fingerprints. Pattern Recognition (PR) 37(7):1533-1542 (2004)
+286	   	Umut Uludag, Sharath Pankanti, Salil Prabhakar, Anil K. Jain: Biometric Cryptosystems: Issues and Challenges. Proceedings of the IEEE (PIEEE) 92(6):948-960 (2004)
+285	EE	Martin H. C. Law, Nan Zhang, Anil K. Jain: Nonlinear Manifold Learning for Data Stream. SDM 2004:33-44
+284	EE	Alexander P. Topchy, Anil K. Jain, William F. Punch: A Mixture Model for Clustering Ensembles. SDM 2004:379-390
+283	EE	Arun Ross, Anil K. Jain: Biometrics: When Identity Matters. SINOBIOMETRICS 2004:1-2
+282	EE	Martin H. C. Law, Alexander P. Topchy, Anil K. Jain: Clustering with Soft and Group Constraints. SSPR/SPR 2004:662-670
+281	   	Umut Uludag, Anil K. Jain: Attacks on biometric systems: a case study in fingerprints. Security, Steganography, and Watermarking of Multimedia Contents 2004:622-633
+280	   	Anoop M. Namboodiri, Anil K. Jain: Multimedia document authentication using on-line signatures as watermarks. Security, Steganography, and Watermarking of Multimedia Contents 2004:653-662
+2003
+279	EE	Anil K. Jain, Umut Uludag, Arun Ross: Biometric Template Selection: A Case Study in Fingerprints. AVBPA 2003:335-342
+278	EE	Behrooz Kamgar-Parsi, Behzad Kamgar-Parsi, Anil K. Jain: Synthetic Eyes. AVBPA 2003:412-420
+277	EE	Anil K. Jain, Hong Chen, Silviu Minut: Dental Biometrics: Human Identification Using Dental Radiographs. AVBPA 2003:429-437
+276	EE	Ajay Kumar, David C. M. Wong, Helen C. Shen, Anil K. Jain: Personal Verification Using Palmprint and Hand Geometry Biometric. AVBPA 2003:668-678
+275	EE	Yunhong Wang, Tieniu Tan, Anil K. Jain: Combining Face and Iris Biometrics for Identity Verification. AVBPA 2003:805-813
+274	EE	Xiaoguang Lu, Anil K. Jain: Resampling for Face Recognition. AVBPA 2003:869-877
+273	EE	Michael E. Farmer, Anil K. Jain: Occupant Classification System for Automotive Airbag Suppression. CVPR 2003:756-761
+272	EE	Ana L. N. Fred, Anil K. Jain: Robust Data Clustering. CVPR 2003:128-136
+271	EE	Anil K. Jain: Who's Who? Challenges in Biometric Authentication. DAGM-Symposium 2003:33-35
+270	EE	Anil K. Jain, Anoop M. Namboodiri, Keechul Jung: Text location in color documents. DRR 2003:249-256
+269	EE	Anil K. Jain, Anoop M. Namboodiri: Indexing and Retrieval of On-line Handwritten Documents. ICDAR 2003:655-
+268	EE	Alexander P. Topchy, Anil K. Jain, William F. Punch: Combining Multiple Weak Clusterings. ICDM 2003:331-338
+267	EE	Michael E. Farmer, Anil K. Jain: Integrated segmentation and classification for automotive airbag suppression. ICIP 2003:1053-1056
+266	EE	Xiaoguang Lu, Yunhong Wang, Anil K. Jain: Combining classifiers for face recognition. ICME 2003:13-16
+265	EE	Umut Uludag, Anil K. Jain: Multimedia content protection via biometrics-based encryption. ICME 2003:237-240
+264	EE	Anil K. Jain: Multimodal user interfaces: who's the user? ICMI 2003:1
+263	EE	Salil Prabhakar, Sharath Pankanti, Anil K. Jain: Biometric Recognition: Security and Privacy Concerns. IEEE Security & Privacy (IEEESP) 1(2):33-42 (2003)
+262	EE	Rein-Lien Hsu, Anil K. Jain: Generating Discriminating Cartoon Faces Using Interacting Snakes. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 25(11):1388-1398 (2003)
+261	EE	Anil K. Jain, Umut Uludag: Hiding Biometric Data. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 25(11):1494-1498 (2003)
+260	EE	Mário A. T. Figueiredo, Anil K. Jain, Martin H. C. Law: A Feature Selection Wrapper for Mixtures. IbPRIA 2003:229-237
+259	EE	Arun Ross, Anil K. Jain, James Reisman: A hybrid fingerprint matcher. Pattern Recognition (PR) 36(7):1661-1673 (2003)
+258	EE	Salil Prabhakar, Anil K. Jain, Sharath Pankanti: Learning fingerprint minutiae location and type. Pattern Recognition (PR) 36(8):1847-1857 (2003)
+257	EE	Arun Ross, Anil K. Jain: Information fusion in biometrics. Pattern Recognition Letters (PRL) 24(13):2115-2125 (2003)
+2002
+256	   	Massimo Tistarelli, Josef Bigün, Anil K. Jain: Biometric Authentication, International ECCV 2002 Workshop Copenhagen, Denmark, June 1, 2002, Proceedings Biometric Authentication 2002
+255	EE	Arun Ross, James Reisman, Anil K. Jain: Fingerprint Matching Using Feature Space Correlation. Biometric Authentication 2002:48-57
+254	EE	Anil K. Jain, Arun Ross: Fingerprint mosaicking. ICASSP 2002:4064-4067
+253	EE	Anil K. Jain, Arun Abraham Ross: Learning user-specific parameters in a multibiometric system. ICIP 2002:57-60
+252	EE	Rein-Lien Hsu, Anil K. Jain: Semantic face matching. ICME 2002:145-148
+251	EE	Michael E. Farmer, Rein-Lien Hsu, Anil K. Jain: Interacting Multiple Model (IMM) Kalman Filters for Robust High Speed Human Motion Tracking. ICPR 2002:20-23
+250	EE	Anil K. Jain, Silviu Minut: Hierarchical Kernel Fitting for Fingerprint Classification and Alignment. ICPR 2002:469-473
+249	EE	Anoop M. Namboodiri, Anil K. Jain: On-Line Script Recognition. ICPR 2002:736-739
+248	EE	Anil K. Jain, Umut Uludag, Rein-Lien Hsu: Hiding a Face in a Fingerprint Image. ICPR 2002:756-759
+247	EE	Arun Ross, Anil K. Jain, James Reisman: A Hybrid Fingerprint Matcher. ICPR 2002:795-798
+246	EE	Dario Maio, Davide Maltoni, Raffaele Cappelli, James L. Wayman, Anil K. Jain: FVC2002: Second Fingerprint Verification Competition. ICPR 2002:811-814
+245	EE	Sarat C. Dass, Anil K. Jain, Xiaoguang Lu: Face Detection and Synthesis Using Markov Random Field Models. ICPR 2002:201-204
+244	EE	Ana L. N. Fred, Anil K. Jain: Data Clustering Using Evidence Accumulation. ICPR 2002:276-280
+243	EE	Anil K. Jain, Xiaowei Xu, Tin Kam Ho, Fan Xiao: Uniformity Testing Using Minimal Spanning Tree. ICPR 2002:281-284
+242	   	Subhasis Chaudhuri, Andrew Zisserman, Anil K. Jain, Kantilal L. Majumder: ICVGIP 2002, Proceedings of the Third Indian Conference on Computer Vision, Graphics & Image Processing, Ahmadabad, India, December 16-18, 2002 ICVGIP 2002
+241	EE	Scott D. Connell, Anil K. Jain: Writer Adaptation for Online Handwriting Recognition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 24(3):329-346 (2002)
+240	EE	Mário A. T. Figueiredo, Anil K. Jain: Unsupervised Learning of Finite Mixture Models. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 24(3):381-396 (2002)
+239	EE	Dario Maio, Davide Maltoni, Raffaele Cappelli, James L. Wayman, Anil K. Jain: FVC2000: Fingerprint Verification Competition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 24(3):402-412 (2002)
+238	EE	Rein-Lien Hsu, Mohamed Abdel-Mottaleb, Anil K. Jain: Face Detection in Color Images. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 24(5):696-706 (2002)
+237	EE	Sharath Pankanti, Salil Prabhakar, Anil K. Jain: On the Individuality of Fingerprints. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 24(8):1010-1025 (2002)
+236	EE	Aditya Vailaya, HongJiang Zhang, Changjiang Yang, Feng-I Liu, Anil K. Jain: Automatic image orientation detection. IEEE Transactions on Image Processing (TIP) 11(7):746-755 (2002)
+235	EE	Guodong Guo, Anil K. Jain, Wei-Ying Ma, Hong-Jiang Zhang: Learning similarity measure for natural image retrieval with relevance feedback. IEEE Transactions on Neural Networks (TNN) 13(4):811-820 (2002)
+234	EE	Martin H. C. Law, Anil K. Jain, Mário A. T. Figueiredo: Feature Selection in Mixture-Based Clustering. NIPS 2002:625-632
+233	EE	Salil Prabhakar, Anil K. Jain: Decision-level fusion in fingerprint verification. Pattern Recognition (PR) 35(4):861-874 (2002)
+232	EE	Anil K. Jain, Salil Prabhakar, Sharath Pankanti: On the similarity of identical twin fingerprints. Pattern Recognition (PR) 35(11):2653-2663 (2002)
+231	EE	Ana L. N. Fred, Anil K. Jain: Pattern recognition in information systems. Pattern Recognition (PR) 35(12):2671-2672 (2002)
+230	EE	Anil K. Jain, Friederike D. Griess, Scott D. Connell: On-line signature verification, . Pattern Recognition (PR) 35(12):2963-2972 (2002)
+229	EE	Nicolae Duta, Anil K. Jain, Kanti V. Mardia: Matching of palmprints. Pattern Recognition Letters (PRL) 23(4):477-485 (2002)
+228	EE	Ana L. N. Fred, Anil K. Jain: Evidence Accumulation Clustering Based on the K-Means Algorithm. SSPR/SPR 2002:442-451
+2001
+227	EE	Anil K. Jain, Sharath Pankanti, Salil Prabhakar, Arun Ross: Recent Advances in Fingerprint Verification. AVBPA 2001:182-191
+226	EE	Anil K. Jain, Salil Prabhakar, Sharath Pankanti: Twin Test: On Discriminability of Fingerprints. AVBPA 2001:211-216
+225	EE	Arun Ross, Anil K. Jain, Jian Zhong Qian: Information Fusion in Biometrics. AVBPA 2001:354-359
+224	EE	Mário A. T. Figueiredo, Anil K. Jain: Bayesian Learning of Sparse Classifiers. CVPR 2001:35-41
+223	EE	Guodong Guo, Anil K. Jain, Wei-Ying Ma, HongJiang Zhang: Learning Similarity Measure for Natural Image Retrieval with Relevance Feedback. CVPR 2001:731-736
+222	EE	Sharath Pankanti, Salil Prabhakar, Anil K. Jain: On the Individuality of Fingerprints. CVPR 2001:805-812
+221	   	Mário A. T. Figueiredo, Josiane Zerubia, Anil K. Jain: Energy Minimization Methods in Computer Vision and Pattern Recognition, Third International Workshop, EMMCVPR 2001, Sophia Antipolis, France, September 3-5, 2001, Proceedings EMMCVPR 2001
+220	EE	Nicolae Duta, Anil K. Jain: Learning-Based Detection, Segmentation, and Matching of Objects. ICAPR 2001:435-444
+219	   	Sarat C. Dass, Anil K. Jain: Markov Face Models. ICCV 2001:680-687
+218	   	Daniel Gutchess, Miroslav Trajkovic, Eric Cohen-Solal, Damian M. Lyons, Anil K. Jain: A Background Model Initialization Algorithm for Video Surveillance. ICCV 2001:733-740
+217	EE	Anil K. Jain, Anoop M. Namboodiri, Jayashree Subrahmonia: Structure in On-line Documents. ICDAR 2001:844-848
+216	EE	Rein-Lien Hsu, Mohamed Abdel-Mottaleb, Anil K. Jain: Face detection in color images. ICIP 2001:1046-1049
+215	EE	Rein-Lien Hsu, Anil K. Jain: Face modeling for recognition. ICIP 2001:693-696
+214	EE	Anil K. Jain, Arun Ross, Salil Prabhakar: Fingerprint matching using minutiae and texture features. ICIP 2001:282-285
+213	EE	Nicolae Duta, Anil K. Jain, Marie-Pierre Dubuisson-Jolly: Automatic Construction of 2D Shape Models. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 23(5):433-446 (2001)
+212	EE	Behrooz Kamgar-Parsi, Behzad Kamgar-Parsi, Anil K. Jain, Judith E. Dayhoff: Aircraft Detection: A Case Study in Using Human Similarity Measure. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 23(12):1404-1414 (2001)
+211	EE	Aditya Vailaya, Mário A. T. Figueiredo, Anil K. Jain, HongJiang Zhang: Image classification for content-based indexing. IEEE Transactions on Image Processing (TIP) 10(1):117-130 (2001)
+210	EE	Salil Prabhakar, Anil K. Jain: Decision-Level Fusion in Fingerprint Verification. Multiple Classifier Systems 2001:88-98
+209	   	Ana L. N. Fred, Anil K. Jain: Pattern Recognition in Information Systems, Proceedings of the 1st International Workshop on Pattern Recognition in Information Systems, PRIS 2001, In conjunction with ICEIS 2001, Setúbal, Portugal, July 6-7, 2001 PRIS 2001
+208	EE	Scott D. Connell, Anil K. Jain: Template-based online character recognition. Pattern Recognition (PR) 34(1):1-14 (2001)
+2000
+207	EE	Nalini K. Ratha, Anil K. Jain, Diane T. Rover: FPGA-Based Coprocessor for Text String Extraction. CAMP 2000:217-221
+206	EE	Anil K. Jain, Lin Hong, Sharath Pankanti: Biometric Identification. Commun. ACM (CACM) 43(2):90-98 (2000)
+205	EE	Salil Prabhakar, Anil K. Jain, Jianguo Wang, Sharath Pankanti, Ruud M. Bolle: Minutia Verification and Classification for Fingerprint Matching. ICPR 2000:1025-1029
+204	EE	Aditya Vailaya, Anil K. Jain: Reject Option for VQ-Based Bayesian Classification. ICPR 2000:2048-2051
+203	EE	Mário A. T. Figueiredo, Anil K. Jain: Unsupervised Selection and Estimation of Finite Mixture Models. ICPR 2000:2087-2090
+202	EE	Scott D. Connell, R. M. K. Sinha, Anil K. Jain: Recognition of Unconstrained On-Line Devanagari Characters. ICPR 2000:2368-2371
+201	EE	Sharath Pankanti, Ruud M. Bolle, Anil K. Jain: Biometrics: The Future of Identification - Guest Editors' Introduction. IEEE Computer (COMPUTER) 33(2):46-49 (2000)
+200	EE	Michael L. Raymer, William F. Punch III, Erik D. Goodman, Leslie A. Kuhn, Anil K. Jain: Dimensionality reduction using genetic algorithms. IEEE Trans. Evolutionary Computation (TEC) 4(2):164-171 (2000)
+199	EE	Anil K. Jain, Robert P. W. Duin, Jianchang Mao: Statistical Pattern Recognition: A Review. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 22(1):4-37 (2000)
+198	EE	Yu Zhong, HongJiang Zhang, Anil K. Jain: Automatic Caption Localization in Compressed Video. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 22(4):385-392 (2000)
+197	EE	Yu Zhong, Anil K. Jain, Marie-Pierre Dubuisson-Jolly: Object Tracking Using Deformable Templates. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 22(5):544-549 (2000)
+196	EE	Anil K. Jain, Salil Prabhakar, Lin Hong, Sharath Pankanti: Filterbank-based fingerprint matching. IEEE Transactions on Image Processing (TIP) 9(5):846-859 (2000)
+195	EE	Mário A. T. Figueiredo, José M. N. Leitão, Anil K. Jain: Unsupervised contour representation and estimation using B-splines and a minimum description length criterion. IEEE Transactions on Image Processing (TIP) 9(6):1075-1087 (2000)
+194	EE	Jinhui Liu, Anil K. Jain: Image-based form document retrieval. Pattern Recognition (PR) 33(3):503-513 (2000)
+193	EE	Yu Zhong, Anil K. Jain: Object localization using color, texture and shape. Pattern Recognition (PR) 33(4):671-684 (2000)
+192	EE	Aditya Vailaya, Anil K. Jain: Detecting sky and vegetation in outdoor images. Storage and Retrieval for Media Databases 2000:411-420
+1999
+191	EE	Anil K. Jain, M. Narasimha Murty, Patrick J. Flynn: Data Clustering: A Review. ACM Comput. Surv. (CSUR) 31(3):264-323 (1999)
+190	EE	Arvid Lundervold, Torfinn Taxt, Nicolae Duta, Anil K. Jain: Model-Guided Segmentation of Corpus Callosum in MR Images. CVPR 1999:1231-1237
+189	EE	Behrooz Kamgar-Parsi, Behzad Kamgar-Parsi, Anil K. Jain: Automatic Aircraft Recognition: Toward Using Human Similarity Measure in a Recognition System. CVPR 1999:1268-1273
+188	EE	Nicolae Duta, Anil K. Jain, Marie-Pierre Dubuisson-Jolly: Learning 2D Shape Models. CVPR 1999:2008-2014
+187	EE	Anil K. Jain, Salil Prabhakar, Lin Hong, Sharath Pankanti: FingerCode: A Filterbank for Fingerprint Representation and Matching. CVPR 1999:2187-
+186	EE	Mário A. T. Figueiredo, José M. N. Leitão, Anil K. Jain: On Fitting Mixture Models. EMMCVPR 1999:54-69
+185	EE	Nicolae Duta, Anil K. Jain, Marie-Pierre Dubuisson-Jolly: Learning-based Object Detection in Cardiac MR Images. ICCV 1999:1210-1216
+184	EE	Scott D. Connell, Anil K. Jain: Writer Adaptation of Online Handwriting Models. ICDAR 1999:434-437
+183	EE	Behrooz Kamgar-Parsi, Behzad Kamgar-Parsi, Anil K. Jain: A Case Study in Using Human Similarity Measure for Automated Object Recognition. ICIP 1999:555-559
+182	EE	Yu Zhong, HongJiang Zhang, Anil K. Jain: Automatic Caption Localization in Compressed Video. ICIP 1999:96-100
+181	EE	Aditya Vailaya, Anil K. Jain: Incremental Learning for Bayesian Classification of Images. ICIP 1999:585-589
+180	EE	Aditya Vailaya, HongJiang Zhang, Anil K. Jain: Automatic Image Orientation Detection. ICIP 1999:600-604
+179	EE	Anil K. Jain, Nicolae Duta: Deformable Matching of Hand Shapes for User Verification. ICIP 1999:857-861
+178	EE	Rein-Lien Hsu, Shaoyun Chen, Anil K. Jain, Carolyn R. Mercer: Local Weight Selection for Two-Dimensional Phase Unwrapping. ICIP 1999:871-875
+177	EE	Aditya Vailaya, Mário A. T. Figueiredo, Anil K. Jain, HongJiang Zhang: Content-Based Hierarchical Classification of Vacation Images. ICMCS, Vol. 1 1999:518-523
+176	EE	Nalini K. Ratha, Anil K. Jain: Computer Vision Algorithms on Reconfigurable Logic Arrays. IEEE Trans. Parallel Distrib. Syst. (TPDS) 10(1):29-43 (1999)
+175	EE	Anil K. Jain, Salil Prabhakar, Lin Hong: A Multichannel Approach to Fingerprint Classification. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 21(4):348-359 (1999)
+174	EE	Jarle Strand, Torfinn Taxt, Anil K. Jain: Two-dimensional phase unwrapping using a block least-squares method. IEEE Transactions on Image Processing (TIP) 8(3):375-386 (1999)
+173	EE	Nicolae Duta, Milan Sonka, Anil K. Jain: Learning Shape Models from Examples Using Automatic Shape Clustering and Procrustes Analysis. IPMI 1999:370-375
+172	EE	Anil K. Jain, Aditya Vailaya, Wei Xiong: Query by Video Clip. Multimedia Syst. (MMS) 7(5):369-384 (1999)
+171	EE	Antonio Ramón Jiménez, Anil K. Jain, Ramón Ceres Ruíz, José Luis Pons Rovira: Automatic fruit recognition: a survey and new results using Range/Attenuation images. Pattern Recognition (PR) 32(10):1719-1736 (1999)
+170	EE	Anil K. Jain, Salil Prabhakar, Shaoyun Chen: Combining multiple matchers for a high security fingerprint verification system. Pattern Recognition Letters (PRL) 20(11-13):1371-1379 (1999)
+1998
+169	EE	Lin Hong, Anil K. Jain: Integrating Faces and Fingerprints for Personal Identification. ACCV 1998:16-23
+168	EE	G. Sudhir, John Chung-Mong Lee, Anil K. Jain: Automatic Classification of Tennis Video for High-Level Content-Based Retrieval. CAIVD 1998:81-90
+167	EE	Y. H. Li, Anil K. Jain: Classification of Text Documents. Comput. J. (CJ) 41(8):537-546 (1998)
+166	EE	Sei-Wang Chen, S. T. Tung, Chiung-Yao Fang, Shen Cherng, Anil K. Jain: Extended Attributed String Matching for Shape Recognition. Computer Vision and Image Understanding (CVIU) 70(1):36-50 (1998)
+165	   	Yu Zhong, Anil K. Jain, Marie-Pierre Dubuisson-Jolly: Object Tracking Using Deformable Templates. ICCV 1998:440-445
+164	EE	Anil K. Jain, Svetha Venkatesh, Brian C. Lovell: Fourteenth International Conference on Pattern Recognition, ICPR 1998, Brisbane, Australia, 16-20 August, 1998 ICPR 1998
+163	EE	Scott D. Connell, Anil K. Jain: Learning prototypes for online handwritten digits. ICPR 1998:182-184
+162	EE	Jinhui Liu, Anil K. Jain: Image-based form document retrieval. ICPR 1998:626-628
+161	EE	Anil K. Jain, Aditya Vailaya, Wei Xiong: Query by video clip. ICPR 1998:909-911
+160	EE	Yonghong Li, Anil K. Jain: Classification of text documents. ICPR 1998:1295-1297
+159	EE	Nicolae Duta, Anil K. Jain: Learning the human face concept in black and white images. ICPR 1998:1365-1367
+158	EE	Anil K. Jain, Lin Hong, Yatin Kulkarni: F2ID: a personal identification system using faces and fingerprints. ICPR 1998:1373-1375
+157	EE	Anil K. Jain, Bin Yu: Automatic text location in images and video frames. ICPR 1998:1497-1499
+156	EE	Chitra Dorai, Gang Wang, Anil K. Jain, Carolyn R. Mercer: Registration and Integration of Multiple Object Views for 3D Model Construction. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 20(1):83-89 (1998)
+155	EE	Anil K. Jain, Bin Yu: Document Representation and Its Application to Page Decomposition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 20(3):294-308 (1998)
+154	EE	Lin Hong, Yifei Wan, Anil K. Jain: Fingerprint Image Enhancement: Algorithm and Performance Evaluation. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 20(8):777-789 (1998)
+153	EE	Dan Judd, Philip K. McKinley, Anil K. Jain: Large-Scale Parallel Data Clustering. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 20(8):871-876 (1998)
+152	EE	Lin Hong, Anil K. Jain: Integrating Faces and Fingerprints for Personal Identification. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 20(12):1295-1307 (1998)
+151	EE	Anil K. Jain, Aditya Vailaya: Shape-Based Retrieval: A Case Study With Trademark Image Databases. Pattern Recognition (PR) 31(9):1369-1390 (1998)
+150	EE	Aditya Vailaya, Anil K. Jain, HongJiang Zhang: On image classification: city images vs. landscapes. Pattern Recognition (PR) 31(12):1921-1935 (1998)
+149	EE	Anil K. Jain, Bin Yu: Automatic text location in images and video frames. Pattern Recognition (PR) 31(12):2055-2076 (1998)
+148	EE	Anil K. Jain, Yu Zhong, Marie-Pierre Dubuisson-Jolly: Deformable template models: A review. Signal Processing (SIGPRO) 71(2):109-129 (1998)
+1997
+147	EE	Lin Hong, Anil K. Jain, Sharath Pankanti, Ruud M. Bolle: Identity Authentication Using Fingerprints. AVBPA 1997:103-110
+146	EE	Mário A. T. Figueiredo, José M. N. Leitão, Anil K. Jain: Adaptive B-Splines and Boundary Estimation. CVPR 1997:724-730
+145	EE	Mário A. T. Figueiredo, José M. N. Leitão, Anil K. Jain: Adaptive Parametrically Deformable Contours. EMMCVPR 1997:35-50
+144	EE	Yu Zhong, Anil K. Jain: Object Localization Using Color, Texture and Shape. EMMCVPR 1997:279-294
+143	EE	Anil K. Jain, Bin Yu: Page Segmentation Using Document Model. ICDAR 1997:34-38
+142	EE	Binnur Kurt, Muhittin Gökmen, Anil K. Jain: Image Compression Based on Centipede Model. ICIAP 1997:303-310
+141	EE	Bin Yu, Anil K. Jain: Lane Boundary Detection Using a Multiresolution Hough Transform. ICIP 1997:748-751
+140	EE	Anne H. Schistad Solberg, Anil K. Jain: Texture fusion and feature selection applied to SAR imagery. IEEE T. Geoscience and Remote Sensing (TGRS) 35(2):475-479 (1997)
+139	EE	Anil K. Jain, Douglas E. Zongker: Feature Selection: Evaluation, Application, and Small Sample Performance. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 19(2):153-158 (1997)
+138	EE	Anil K. Jain, Lin Hong, Ruud M. Bolle: On-Line Fingerprint Verification. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 19(4):302-314 (1997)
+137	EE	Øivind Due Trier, Torfinn Taxt, Anil K. Jain: Recognition of Digits in Hydrographic Maps: Binary Versus Topographic Analysis. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 19(4):399-404 (1997)
+136	EE	Muhittin Gökmen, Anil K. Jain: lamda-tau-Space Representation of Images and Generalized Edge Detector. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 19(6):545-563 (1997)
+135	   	Josef Kittler, Anil K. Jain: Obituary: Pierre Devijver. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 19(10):1057 (1997)
+134	EE	Chitra Dorai, Anil K. Jain: COSMOS - A Representation Scheme for 3D Free-Form Objects. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 19(10):1115-1130 (1997)
+133	EE	Chitra Dorai, Juyang Weng, Anil K. Jain: Optimal Registration of Object Views Using Range Data. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 19(10):1131-1138 (1997)
+132	EE	Chitra Dorai, Anil K. Jain: Shape Spectrum Based View Grouping and Matching of 3D Free-Form Objects. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 19(10):1139-1146 (1997)
+131	EE	Anil K. Jain, Douglas E. Zongker: Representation and Recognition of Handwritten Digits Using Deformable Templates. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 19(12):1386-1391 (1997)
+130	EE	Anil K. Jain, Jianchang Mao: Guest Editorial Special Issue on Artificial Neural Networks and Statistical Pattern Recognition. IEEE Transactions on Neural Networks (TNN) 8(1):1-4 (1997)
+129	EE	Wang Song, Shaowei Xia, Jianchang Mao, Anil K. Jain, Danil V. Prokhorov, Donald C. Wunsch II: Comments on "A self-organizing network for hyperellipsoidal clustering (HEC)" [and reply]. IEEE Transactions on Neural Networks (TNN) 8(6):1561-1563 (1997)
+128	EE	Jianchang Mao, Anil K. Jain: Authors' Reply. IEEE Transactions on Neural Networks (TNN) 8(6):1563 (1997)
+127	EE	Sven J. Dickinson, Robert Bergevin, Irving Biederman, Jan-Olof Eklundh, Roger Munck-Fairwood, Anil K. Jain, Alex Pentland: Panel report: the potential of geons for generic 3-D object recognition. Image Vision Comput. (IVC) 15(4):277-292 (1997)
+126	   	Dan Judd, Philip K. McKinley, Anil K. Jain: Performance Evaluation of Large-Scale Parallel Clustering in NOW Environments. PPSC 1997
+125	EE	Hansye S. Dulimart, Anil K. Jain: Mobile robot localization in indoor environment. Pattern Recognition (PR) 30(1):99-111 (1997)
+124	EE	Anil K. Jain, Chitra Dorai: Practicing vision: Integration, evaluation and applications. Pattern Recognition (PR) 30(2):183-196 (1997)
+123	EE	Anil K. Jain, Nalini K. Ratha, Sridhar Lakshmanan: Object detection using gabor filters. Pattern Recognition (PR) 30(2):295-309 (1997)
+122	EE	John Chung-Mong Lee, Anil K. Jain: Editorial. Pattern Recognition (PR) 30(4):537-538 (1997)
+121	   	Anil K. Jain, Sanjay Goel, Sachin Agarwal, Vipin Mittal, Hariom Sharma, Ranjeev Mahindru: Multimedia Systems for Art and Culture: A Case Study of Brihadisvara Temple. Storage and Retrieval for Image and Video Databases (SPIE) 1997:249-261
+1996
+120	EE	Muhittin Gökmen, Anil K. Jain: /spl lambda//spl tau/-space representation of images and generalized edge detector. CVPR 1996:764-769
+119	EE	Bilge Günsel, Anil K. Jain, Erdal Panayirci: Reconstruction and Boundary Detection of Range and Intensity Images Using Multiscale MRF Representations. Computer Vision and Image Understanding (CVIU) 63(2):353-366 (1996)
+118	EE	Nalini K. Ratha, Anil K. Jain, Diane T. Rover: FPGA-based high performance page layout segmentation. Great Lakes Symposium on VLSI 1996:29-34
+117	EE	Muhittin Gökmen, Ilker Ersoy, Anil K. Jain: Compression of fingerprint images using hybrid image model. ICIP 1996:395-398
+116	EE	Douglas E. Zongker, Anil K. Jain: Algorithms for feature selection: An evaluation. ICPR 1996:18-22
+115	EE	Aditya Vailaya, Yu Zhong, Anil K. Jain: A hierarchical system for efficient image retrieval. ICPR 1996:356-360
+114	EE	Britt Kroepelien, Aditya Vailaya, Anil K. Jain: Image databases: a case study in Norwegian silver authentication. ICPR 1996:370-374
+113	EE	Dan Judd, Philip K. McKinley, Anil K. Jain: Large-scale parallel data clustering. ICPR 1996:488-493
+112	EE	Anil K. Jain, Lin Hong: On-line fingerprint verification. ICPR 1996:596-600
+111	EE	Chitra Dorai, Anil K. Jain: Recognition of 3D free-form objects. ICPR 1996:697-701
+110	EE	Bin Yu, Anil K. Jain: A form dropout system. ICPR 1996:701-705
+109	EE	Kalle Karu, Anil K. Jain, Ruud M. Bolle: Is there any texture in the image? ICPR 1996:770-774
+108	EE	Chitra Dorai, Gang Wang, Anil K. Jain, Carolyn R. Mercer: From images to models: automatic 3D object model construction from multiple views. ICPR 1996:770-774
+107	EE	Øivind Due Trier, Torfinn Taxt, Anil K. Jain: Gray scale processing of hydrographic maps. ICPR 1996:870-874
+106	EE	Anil K. Jain, Jianchang Mao, K. Moidin Mohiuddin: Artificial Neural Networks: A Tutorial. IEEE Computer (COMPUTER) 29(3):31-44 (1996)
+105	EE	Anne H. Schistad Solberg, Torfinn Taxt, Anil K. Jain: A Markov random field model for classification of multisource satellite imagery. IEEE T. Geoscience and Remote Sensing (TGRS) 34(1):100-113 (1996)
+104	EE	Anil K. Jain, Kalle Karu: Learning Texture Discrimination Masks. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 18(2):195-205 (1996)
+103	EE	Anil K. Jain, Yu Zhong, Sridhar Lakshmanan: Object Matching Using Deformable Templates. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 18(3):267-278 (1996)
+102	EE	Marie-Pierre Dubuisson-Jolly, Sridhar Lakshmanan, Anil K. Jain: Vehicle Segmentation and Classification Using Deformable Templates. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 18(3):293-308 (1996)
+101	EE	Sateesha G. Nadabar, Anil K. Jain: Parameter Estimation in Markov Random Field Contextual Models Using Geometric Models of Objects. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 18(3):326-329 (1996)
+100	EE	Nalini K. Ratha, Kalle Karu, Shaoyun Chen, Anil K. Jain: A Real-Time Matching System for Large Fingerprint Databases. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 18(8):799-813 (1996)
+99	EE	Bin Yu, Anil K. Jain: A Generic System for Form Dropout. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 18(11):1127-1134 (1996)
+98	EE	Jianchang Mao, Anil K. Jain: A self-organizing network for hyperellipsoidal clustering (HEC). IEEE Transactions on Neural Networks (TNN) 7(1):16-29 (1996)
+97	EE	Kalle Karu, Anil K. Jain: Fingerprint classification. Pattern Recognition (PR) 29(3):389-404 (1996)
+96	EE	Øivind Due Trier, Anil K. Jain, Torfinn Taxt: Feature extraction methods for character recognition-A survey. Pattern Recognition (PR) 29(4):641-662 (1996)
+95	EE	Anil K. Jain, Yu Zhong: Page segmentation using tecture analysis. Pattern Recognition (PR) 29(5):743-770 (1996)
+94	EE	Anil K. Jain, Aditya Vailaya: Image retrieval using color and shape. Pattern Recognition (PR) 29(8):1233-1244 (1996)
+93	EE	Hansye S. Dulimart, Anil K. Jain: A client/server control architecture for robot navigation. Pattern Recognition (PR) 29(8):1259-1284 (1996)
+92	EE	Kalle Karu, Anil K. Jain, Ruud M. Bolle: Is there any texture in the image? Pattern Recognition (PR) 29(9):1437-1446 (1996)
+91	EE	Georgy L. Gimel'farb, Anil K. Jain: On retrieving textured images from an image database. Pattern Recognition (PR) 29(9):1461-1483 (1996)
+90	EE	Bin Yu, Anil K. Jain: A robust and fast skew detection algorithm for generic documents. Pattern Recognition (PR) 29(10):1599-1629 (1996)
+1995
+89	EE	Timothy S. Newman, Anil K. Jain: A Survey of Automated Visual Inspection. Computer Vision and Image Understanding (CVIU) 61(2):231-262 (1995)
+88	EE	Jianchang Mao, Patrick J. Flynn, Anil K. Jain: Integration of Multiple Feature Groups and Multiple Views into a 3D Object Recognition System. Computer Vision and Image Understanding (CVIU) 62(3):309-325 (1995)
+87	EE	Nalini K. Ratha, Anil K. Jain, Diane T. Rover: Convolution on Splash 2. FCCM 1995:204-213
+86	EE	Chitra Dorai, Anil K. Jain: COSMOS-A Representation Scheme for Free-Form Surfaces. ICCV 1995:1024-1029
+85	EE	Yu Zhong, Kalle Karu, Anil K. Jain: Locating text in complex color images. ICDAR 1995:146-149
+84	EE	Øivind Due Trier, Torfinn Taxt, Anil K. Jain: Data capture from maps based on gray scale topographic analysis. ICDAR 1995:923-926
+83	EE	Anil K. Jain, Kalle Karu: Texture Analysis: Representation and Matching. ICIAP 1995:3-10
+82	EE	Sridhar Lakshmanan, Anil K. Jain, Yu Zhong: Detecting straight edges in millimeter-wave images. ICIP 1995:258-261
+81	EE	Anil K. Jain, Yu Zhong: Page segmentation using texture discrimination masks. ICIP 1995:308-311
+80	EE	Chitra Dorai, Anil K. Jain: Shape spectra based view grouping for free-form objects. ICIP 1995:340-343
+79	EE	Sharath Pankanti, Anil K. Jain: Integrating Vision Modules: Stereo, Shading, Grouping, and Line Labeling. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 17(9):831-842 (1995)
+78	EE	Øivind Due Trier, Anil K. Jain: Goal-Directed Evaluation of Binarization Methods. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 17(12):1191-1201 (1995)
+77	EE	Jianchang Mao, Anil K. Jain: Artificial neural networks for feature extraction and multivariate data projection. IEEE Transactions on Neural Networks (TNN) 6(2):296-317 (1995)
+76	EE	Martin A. Kraaijveld, Jianchang Mao, Anil K. Jain: A nonlinear projection method based on Kohonen's topology preserving maps. IEEE Transactions on Neural Networks (TNN) 6(3):548-559 (1995)
+75	EE	Marie-Pierre Dubuisson, Anil K. Jain: Contour extraction of moving objects in complex outdoor scenes. International Journal of Computer Vision (IJCV) 14(1):83-105 (1995)
+74	EE	Sateesha G. Nadabar, Anil K. Jain: Fusion of range and intensity images on a connection machine (CM-2). Pattern Recognition (PR) 28(1):11-26 (1995)
+73	EE	M. Narasimha Murty, Anil K. Jain: Knowledge-based clustering scheme for collection management and retrieval of library books. Pattern Recognition (PR) 28(7):949-963 (1995)
+72	EE	Yu Zhong, Kalle Karu, Anil K. Jain: Locating text in complex color images. Pattern Recognition (PR) 28(10):1523-1535 (1995)
+71	EE	Timothy S. Newman, Anil K. Jain: A system for 3D CAD-based inspection using range images. Pattern Recognition (PR) 28(10):1555-1574 (1995)
+70	EE	Nalini K. Ratha, Shaoyun Chen, Anil K. Jain: Adaptive flow orientation-based feature extraction in fingerprint images. Pattern Recognition (PR) 28(11):1657-1672 (1995)
+1994
+69	EE	Sharath Pankanti, Anil K. Jain, Mihran Tuceryan: On integration of vision modules. CVPR 1994:316-322
+68	EE	Marie-Pierre Dubuisson, Anil K. Jain: 2D matching of 3D moving objects in color outdoor scenes. CVPR 1994:887-891
+67	EE	Sridhar Lakshmanan, Anil K. Jain, Yu Zhong: Multi-resolution Image Representation using Markov Random Fields. ICIP 1994:855-860
+66	EE	Marie-Pierre Dubuisson-Jolly, Anil K. Jain: Fusing Color and Edge Information for Object Matching. ICIP 1994:982-986
+65	EE	Jonathan D. Courtney, Anil K. Jain: Mobile Robot Localization via Classification of Multisensor Maps. ICRA 1994:1672-1678
+64	EE	Anne H. Schistad Solberg, Anil K. Jain, Torfinn Taxt: Multisource classification of remotely sensed data: fusion of Landsat TM and SAR images. IEEE T. Geoscience and Remote Sensing (TGRS) 32(4):768-778 (1994)
+63	EE	Anil K. Jain: Editorial. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 16(3):225 (1994)
+62	EE	Anil K. Jain: Editorial. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 16(12):1153 (1994)
+1993
+61	EE	Jianchang Mao, Anil K. Jain, Patrick J. Flynn: Integration of Multiple Feature Groups and Multiple Views into a 3D Object Recognition System. Applications of Invariance in Computer Vision 1993:381-395
+60	EE	Marie-Pierre Dubuisson, Anil K. Jain: Object contour extraction using color and motion. CVPR 1993:471-476
+59	EE	Anil K. Jain, Yao Chen: Bar code localization using texture analysis. ICDAR 1993:41-44
+58	EE	Anil K. Jain: Editorial. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 15(1):1-2 (1993)
+57	EE	Anil K. Jain: Editor's Notice. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 15(8):849 (1993)
+1992
+56	EE	Anil K. Jain: Editor's Notice. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 14(1):1-2 (1992)
+55	EE	Anil K. Jain: Editor's Notice. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 14(5):501 (1992)
+54	EE	Iskender Agi, Paul J. Hurst, Anil K. Jain: A VLSI processor for parallel contour tracing. IEEE Transactions on Signal Processing (TSP) 40(2):429-438 (1992)
+53	EE	Narayan S. Raja, Anil K. Jain: Recognizing geons from superquadrics fitted to range data. Image Vision Comput. (IVC) 10(3):179-190 (1992)
+52	EE	Anil K. Jain, Sushil K. Bhattacharjee: Text segmentation using gabor filters for automatic document processing. Mach. Vis. Appl. (MVA) 5(3):169-184 (1992)
+51	EE	Jianchang Mao, Anil K. Jain: Texture classification and segmentation using multiresolution simultaneous autoregressive models. Pattern Recognition (PR) 25(2):173-188 (1992)
+50	EE	Anil K. Jain, Marie-Pierre Dubuisson-Jolly: Segmentation of X-ray and C-scan images of fiber reinforced composite materials. Pattern Recognition (PR) 25(3):257-270 (1992)
+49	EE	Anil K. Jain, Sushil K. Bhattacharjee: Address block location on envelopes using Gabor filters. Pattern Recognition (PR) 25(12):1459-1477 (1992)
+48	EE	Anil K. Jain, Timothy S. Newman, Michael Goulish: Range-intensity histogram for segmenting LADAR images. Pattern Recognition Letters (PRL) 13(1):41-56 (1992)
+1991
+47	EE	Anil K. Jain: Editor's Notice. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 13(2):97-98 (1991)
+46	EE	Patrick J. Flynn, Anil K. Jain: CAD-Based Computer Vision: From CAD Models to Relational Graphs. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 13(2):114-132 (1991)
+45	EE	Sarunas Raudys, Anil K. Jain: Small Sample Size Effects in Statistical Pattern Recognition: Recommendations for Practitioners. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 13(3):252-264 (1991)
+44	EE	Anil K. Jain: Editor's Notice. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 13(4):305-306 (1991)
+43	EE	Anil K. Jain: Editor's Notice. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 13(8):745 (1991)
+42	EE	Patrick J. Flynn, Anil K. Jain: BONSAI: 3D Object Recognition Using Constrained Search. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 13(10):1066-1075 (1991)
+41	EE	Sei-Wang Chen, Anil K. Jain: Object extraction from laser radar imagery. Pattern Recognition (PR) 24(6):587-600 (1991)
+40	EE	Anil K. Jain, Farshid Farrokhnia: Unsupervised texture segmentation using Gabor filters. Pattern Recognition (PR) 24(12):1167-1186 (1991)
+1990
+39	EE	Patrick J. Flynn, Anil K. Jain: BONSAI: 3D object recognition using constrained search. ICCV 1990:263-267
+38	EE	Anil K. Jain, Sateesha G. Nadabar: MRF model-based segmentation of range images. ICCV 1990:667-671
+37	EE	Mihran Tuceryan, Anil K. Jain: Texture Segmentation Using Voronoi Polygons. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 12(2):211-216 (1990)
+36	EE	Babu M. Mehtre, Anil K. Jain: Automatic Classification of Fingerprint Images. MVA 1990:287-290
+35	EE	Chaur-Chin Chen, Richard C. Dubes, Anil K. Jain: Comments on an ensemble average classifier for pattern recognition machines. Pattern Recognition (PR) 23(6):669 (1990)
+1989
+34	EE	Torfinn Taxt, Patrick J. Flynn, Anil K. Jain: Segmentation of Document Images. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 11(12):1322-1329 (1989)
+33	EE	Patrick J. Flynn, Anil K. Jain: CAD-based computer vision: from CAD models to relational graphs. SMC 1989:162-167
+32	EE	Mihran Tuceryan, Anil K. Jain: Segmentation and grouping of object boundaries. SMC 1989:570-575
+31	EE	Torfinn Taxt, Patrick J. Flynn, Anil K. Jain: Segmentation of document images. SMC 1989:1062-1067
+1988
+30	   	Anil K. Jain, Richard C. Dubes: Algorithms for Clustering Data Prentice-Hall 1988
+29	EE	Ahmed M. Darwish, Anil K. Jain: A Rule Based Approach for Visual Pattern Inspection. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 10(1):56-68 (1988)
+28	EE	Stephen P. Smith, Anil K. Jain: A Test to Determine the Multivariate Normality of a Data Set. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 10(5):757-761 (1988)
+27	EE	Anil K. Jain, Richard L. Hoffman: Evidence-Based Recognition of 3-D Objects. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 10(6):783-802 (1988)
+26	EE	Ramesh Jain, Anil K. Jain: Report on Range Image Understanding Workshop, East Lansing, Michigan, March 21-23, 1988. Mach. Vis. Appl. (MVA) 2(1):45-60 (1988)
+1987
+25	EE	Richard L. Hoffman, Anil K. Jain: Sparse Decompositions for Exploratory Pattern Analysis. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 9(4):551-560 (1987)
+24	EE	Richard L. Hoffman, Anil K. Jain: Segmentation and Classification of Range Images. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 9(5):608-620 (1987)
+23	EE	Anil K. Jain, Richard C. Dubes, Chaur-Chin Chen: Bootstrap Techniques for Error Estimation. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 9(5):628-633 (1987)
+22	EE	Anil K. Jain, J. V. Moreau: Bootstrap technique in cluster analysis. Pattern Recognition (PR) 20(5):547-568 (1987)
+1985
+21	EE	Lionel M. Ni, Anil K. Jain: A VLSI Systolic Architecture for Pattern Clustering. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 7(1):80-89 (1985)
+20	EE	James M. Coggins, Anil K. Jain: A spatial filtering approach to texture analysis. Pattern Recognition Letters (PRL) 3(3):195-203 (1985)
+1984
+19	EE	Zhisheng You, Anil K. Jain: Performance evaluation of shape matching via chord length distribution. Computer Vision, Graphics, and Image Processing (CVGIP) 28(2):185-198 (1984)
+18	EE	Stephen P. Smith, Anil K. Jain: Testing for Uniformity in Multidimensional Data. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 6(1):73-81 (1984)
+1983
+17	EE	George R. Cross, Anil K. Jain: Markov Random Field Texture Models. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 5(1):25-39 (1983)
+16	EE	Richard L. Hoffman, Anil K. Jain: A test of randomness based on the minimal spanning tree. Pattern Recognition Letters (PRL) 1(3):175-180 (1983)
+1981
+15	EE	Eric Backer, Anil K. Jain: A Clustering Performance Measure Based on Fuzzy Set Decomposition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 3(1):66-75 (1981)
+14	EE	Lawrence R. Johnson, Anil K. Jain: An Efficient Two-Dimensional FFT Algorithm. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 3(6):698-701 (1981)
+13	EE	Gautam Biswas, Anil K. Jain, Richard C. Dubes: Evaluation of Projection Algorithms. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 3(6):701-708 (1981)
+1980
+12	EE	Richard C. Dubes, Anil K. Jain: Clustering Methodologies in Exploratory Data Analysis. Advances in Computers (AC) 19:113-228 (1980)
+11	EE	Anil K. Jain, Stephen P. Smith, Eric Backer: Segmentation of Muscle Cell Pictures: A Preliminary Study. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 2(3):232-242 (1980)
+1979
+10	EE	Karl Pettis, Thomas A. Bailey Jr., Anil K. Jain, Richard C. Dubes: An Intrinsic Dimensionality Estimator from Near-Neighbor Information. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 1(1):25-37 (1979)
+9	EE	Anil K. Jain: A Sinusoidal Family of Unitary Transforms. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 1(4):356-365 (1979)
+8	EE	Edward Shaffer, Richard C. Dubes, Anil K. Jain: Single-link characteristics of a mode-seeking clustering algorithm. Pattern Recognition (PR) 11(1):65-70 (1979)
+7	EE	Richard C. Dubes, Anil K. Jain: Validity studies in clustering methodologies. Pattern Recognition (PR) 11(4):235-254 (1979)
+1978
+6	EE	Anil K. Jain, Demitri M. Maroulis: Two dimensional data compression of speech. ICASSP 1978:338-340
+5	EE	W. G. Waller, Anil K. Jain: On the monotonicity of the performance of Bayesian classifiers (Corresp.). IEEE Transactions on Information Theory (TIT) 24(3):392-394 (1978)
+[more]
+Hits 1 - 536 of 540 for author:anil_k_jain: (PageUp  / PageDown  for next/previous hits)

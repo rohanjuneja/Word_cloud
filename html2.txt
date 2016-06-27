@@ -1,0 +1,902 @@
+
+NOTE: The DBLP search has moved
+CompleteSearch DBLP has moved to the new domain www.dblp.org. Please update any links or bookmarks you might have set accordingly. The pages under www. informatik.uni-trier.de will eventually be moved there, too. There will be a separate notification about that.
+dblp.uni-trier.de
+CompleteSearch DBLP
+
+Feedback     Help a DBLP mirror with extended search capabilities maintained by Hannah Bast, University of Freiburg (formerly MPII Saarbrücken)
+ 
+zoomed in on 819 documents ... NEW: get these search results as XML, JSON, JSONP
+
+Refine by WORD
+Thomas S. Huang, the AUTHOR(819)
+
+Refine by AUTHOR
+Thomas S. Huang(819)
+Yun Fu(58)
+Shuicheng Yan(45)
+Nicu Sebe(36)
+[top 4] [top 50] [top 250]
+
+Refine by VENUE
+ICIP(84)
+CVPR(62)
+ICME(58)
+ICASSP(54)
+[top 4] [top 50] [all 164]
+
+Refine by YEAR
+2015(1)
+2014(18)
+2013(21)
+2012(39)
+[top 4] [all 45]
+
+Refine by TYPE
+Conference(570)
+Journal(227)
+CoRR(11)
+Editor(9)
+[top 4] [all 5]
+2015
+819	EE	Zhangyang Wang, Nasser M. Nasrabadi, Thomas S. Huang: Semisupervised Hyperspectral Classification Using Task-Driven Dictionary Learning With Laplacian Regularization. IEEE T. Geoscience and Remote Sensing (TGRS) 53(3):1161-1173 (2015)
+2014
+818	EE	Yingzhen Yang, Zhangyang Wang, Jianchao Yang, Jiangping Wang, Shiyu Chang, Thomas S. Huang: Data Clustering by Laplacian Regularized L1-Graph. AAAI 2014:3148-3149
+817	EE	Yingzhen Yang, Zhangyang Wang, Jianchao Yang, Jiawei Han, Thomas S. Huang: Regularized l1-Graph for Data Clustering. BMVC 2014
+816	EE	Tom Le Paine, Pooya Khorrami, Wei Han, Thomas S. Huang: An Analysis of Unsupervised Pre-training in Light of Recent Advances. CoRR abs/1412.6597 (2014)
+815	EE	Zhangyang Wang, Jianchao Yang, Hailin Jin, Eli Shechtman, Aseem Agarwala, Jonathan Brandt, Thomas S. Huang: Decomposition-Based Domain Adaptation for Real-World Font Recognition. CoRR abs/1412.5758 (2014)
+814	EE	Zhaowen Wang, Jianchao Yang, Zhe Lin, Jonathan Brandt, Shiyu Chang, Thomas S. Huang: Scalable Similarity Learning using Large Margin Neighborhood Embedding. CoRR abs/1404.6272 (2014)
+813	EE	Yingzhen Yang, Xinqi Chu, Tian-Tsong Ng, Alex Yong Sang Chia, Jianchao Yang, Hailin Jin, Thomas S. Huang: Epitomic image colorization. ICASSP 2014:2470-2474
+812	EE	Yingzhen Yang, Feng Liang, Thomas S. Huang: Discriminative Exemplar clustering. ICASSP 2014:6771-6775
+811	EE	Ming Shao, Sheng Li, Tongliang Liu, Dacheng Tao, Thomas S. Huang, Yun Fu: Learning relative features through adaptive pooling for image classification. ICME 2014:1-6
+810	EE	Ning Xu, Jiangping Wang, Zhaowen Wang, Thomas S. Huang: An ontological bagging approach for image classification of crowdsourced data. ICME Workshops 2014:1-5
+809	EE	Pooya Khorrami, Vuong Le, John C. Hart, Thomas S. Huang: A system for monitoring the engagement of remote online students using eye gaze estimation. ICME Workshops 2014:1-6
+808	EE	Thomas S. Huang, Vuong Le, Thomas Paine, Pooya Khorrami, Usman Tariq: Visual Media: History and Perspectives. IEEE MultiMedia (IEEEMM) 21(2):4-10 (2014)
+807	EE	Zhaowen Wang, Nasser M. Nasrabadi, Thomas S. Huang: Spatial-Spectral Classification of Hyperspectral Images Using Discriminative Dictionary Designed by Learning Vector Quantization. IEEE T. Geoscience and Remote Sensing (TGRS) 52(8):4808-4822 (2014)
+806	EE	Fuming Sun, Jinhui Tang, Haojie Li, Guo-Jun Qi, Thomas S. Huang: Multi-Label Image Categorization With Sparse Factor Representation. IEEE Transactions on Image Processing (TIP) 23(3):1028-1037 (2014)
+805	EE	Yingzhen Yang, Feng Liang, Shuicheng Yan, Zhangyang Wang, Thomas S. Huang: On a Theory of Nonparametric Pairwise Similarity for Clustering: Connecting Clustering to Classification. NIPS 2014:145-153
+804	EE	Kyungtae Kim, Kai-Hsiang Lin, Dirk B. Walther, Mark Hasegawa-Johnson, Thomas S. Huang: Automatic detection of auditory salience with optimized linear filters derived from human annotation. Pattern Recognition Letters (PRL) 38:78-85 (2014)
+803	EE	Usman Tariq, Jianchao Yang, Thomas S. Huang: Supervised super-vector encoding for facial expression recognition. Pattern Recognition Letters (PRL) 46:89-95 (2014)
+802	EE	Zhangyang Wang, Zhaowen Wang, Shiyu Chang, Jianchao Yang, Thomas S. Huang: A joint perspective towards image super-resolution: Unifying external- and self-examples. WACV 2014:596-603
+801	EE	Min-Hsuan Tsai, Charu C. Aggarwal, Thomas S. Huang: Ranking in heterogeneous social media. WSDM 2014:613-622
+2013
+800	EE	Xianming Liu, Yue Gao, Rongrong Ji, Shiyu Chang, Thomas S. Huang: Localizing Web Videos from Heterogeneous Images. AAAI (Late-Breaking Developments) 2013
+799	EE	Zhen Li, Shiyu Chang, Feng Liang, Thomas S. Huang, Liangliang Cao, John R. Smith: Learning Locally-Adaptive Decision Functions for Person Verification. CVPR 2013:3610-3617
+798	EE	Thomas Paine, Hailin Jin, Jianchao Yang, Zhe Lin, Thomas S. Huang: GPU Asynchronous Stochastic Gradient Descent to Speed Up Neural Network Training. CoRR abs/1312.6186 (2013)
+797	EE	Vladimir Pavlovic, Brendan J. Frey, Thomas S. Huang: Variational Learning in Mixed-State Dynamic Graphical Models CoRR abs/1301.6731 (2013)
+796	   	Shen-Fu Tsai, Guo-Jun Qi, Shiyu Chang, Min-Hsuan Tsai, Thomas S. Huang: Clustering Multimedia Data. Data Clustering: Algorithms and Applications 2013:339-356
+795	EE	Xiaoyuan Yu, Jiangping Wang, Roland Kays, Patrick A. Jansen, Tianjiang Wang, Thomas S. Huang: Automated identification of animal species in camera trap images. EURASIP J. Image and Video Processing (EJIVP) 2013:52 (2013)
+794	EE	Usman Tariq, Jianchao Yang, Thomas S. Huang: Maximum margin GMM learning for facial expression recognition. FG 2013:1-6
+793	EE	Zhaowen Wang, Nasser M. Nasrabadi, Thomas S. Huang: Discriminative and compact dictionary design for Hyperspectral Image classification using learning VQ framework. ICASSP 2013:3427-3431
+792	EE	Zhaowen Wang, Jianchao Yang, Nasser M. Nasrabadi, Thomas S. Huang: A Max-Margin Perspective on Sparse Representation-Based Classification. ICCV 2013:1217-1224
+791	EE	Guo-Jun Qi, Charu C. Aggarwal, Thomas S. Huang: Link prediction across networks by biased cross-network sampling. ICDE 2013:793-804
+790	EE	Shiyu Chang, Guo-Jun Qi, Jinhui Tang, Qi Tian, Yong Rui, Thomas S. Huang: Multimedia LEGO: Learning Structured Model by Probabilistic Logic Ontology Tree. ICDM 2013:979-984
+789	EE	Zhaowen Wang, Jianchao Yang, Nasser M. Nasrabadi, Jiangping Wang, Thomas S. Huang: Opportunistic sensing for object recognition - A unified formulation for dynamic sensor selection and feature extraction. ICME 2013:1-6
+788	EE	Jiangping Wang, Changhu Wang, Thomas S. Huang: Efficient image contour detection using edge prior. ICME 2013:1-6
+787	EE	Yingzhen Yang, Xinqi Chu, Thomas S. Huang: Pairwise Clustering by Minimizing the Error of Unsupervised Nearest Neighbor Classification. ICMLA 2013:182-187
+786	EE	Haichao Zhang, Jianchao Yang, Yanning Zhang, Thomas S. Huang: Image and Video Restorations via Nonlocal Kernel Regression. IEEE T. Cybernetics (TCYB) 43(3):1035-1046 (2013)
+785	EE	Yanning Zhang, Haichao Zhang, Nasser M. Nasrabadi, Thomas S. Huang: Multi-metric learning for multi-sensor fusion based classification. Information Fusion (INFFUS) 14(4):431-440 (2013)
+784	EE	Haichao Zhang, Yanning Zhang, Thomas S. Huang: Simultaneous discriminative projection and dictionary learning for sparse representation based classification. Pattern Recognition (PR) 46(1):346-354 (2013)
+783	EE	Haichao Zhang, Yanning Zhang, Thomas S. Huang: Pose-robust face recognition via sparse representation. Pattern Recognition (PR) 46(5):1511-1521 (2013)
+782	EE	Kai-Hsiang Lin, Xiaodan Zhuang, Camille Goudeseune, Sarah King, Mark Hasegawa-Johnson, Thomas S. Huang: Saliency-maximized audio visualization and efficient audio-visual browsing for faster-than-real-time human acoustic event detection. TAP 10(4):26 (2013)
+781	EE	Guo-Jun Qi, Charu C. Aggarwal, Thomas S. Huang: Online community detection in social sensing. WSDM 2013:617-626
+780	EE	Guo-Jun Qi, Charu C. Aggarwal, Jiawei Han, Thomas S. Huang: Mining collective intelligence in diverse groups. WWW 2013:1041-1052
+2012
+779	EE	Yingzhen Yang, Xinqi Chu, Feng Liang, Thomas S. Huang: Pairwise Exemplar Clustering. AAAI 2012
+778	EE	Zhaowen Wang, Jinjun Wang, Jing Xiao, Kai-Hsiang Lin, Thomas S. Huang: Substructure and boundary modeling for continuous action recognition. CVPR 2012:1330-1337
+777	EE	Jianchao Yang, Zhaowen Wang, Zhe Lin, Xianbiao Shu, Thomas S. Huang: Bilevel sparse coding for coupled feature spaces. CVPR 2012:2360-2367
+776	EE	Mert Dikmen, Derek Hoiem, Thomas S. Huang: A data driven method for feature transformation. CVPR 2012:3314-3321
+775	EE	Zhen Li, Liangliang Cao, Shiyu Chang, John R. Smith, Thomas S. Huang: Beyond Mahalanobis distance: Learning second-order discriminant function for people verification. CVPR Workshops 2012:45-50
+774	EE	Usman Tariq, Thomas S. Huang: Features and fusion for expression recognition - A comparative analysis. CVPR Workshops 2012:146-152
+773	EE	Yingzhen Yang, Xinqi Chu, Tian-Tsong Ng, Alex Yong Sang Chia, Shuicheng Yan, Thomas S. Huang: Epitome for Automatic Image Colorization CoRR abs/1210.4481 (2012)
+772	EE	Yingzhen Yang, Xinqi Chu, Thomas S. Huang: Generalization Analysis for Classification CoRR abs/1210.0645 (2012)
+771	EE	Guo-Jun Qi, Charu C. Aggarwal, Pierre Moulin, Thomas S. Huang: Learning from Collective Intelligence in Groups CoRR abs/1210.0954 (2012)
+770	EE	Mithun Das Gupta, Thomas S. Huang: Regularized Maximum Likelihood for Intrinsic Dimension Estimation CoRR abs/1203.3483 (2012)
+769	EE	Zhaowen Wang, Jinjun Wang, Jing Xiao, Kai-Hsiang Lin, Thomas S. Huang: Substructure and Boundary Modeling for Continuous Action Recognition CoRR abs/1203.1985 (2012)
+768	EE	Vuong Le, Jonathan Brandt, Zhe Lin, Lubomir D. Bourdev, Thomas S. Huang: Interactive Facial Feature Localization. ECCV 2012:679-692
+767	EE	Usman Tariq, Jianchao Yang, Thomas S. Huang: Multi-view Facial Expression Recognition Analysis with Generic Sparse Coding Feature. ECCV Workshops 2012:578-588
+766	EE	Haichao Zhang, Yanning Zhang, Nasser M. Nasrabadi, Thomas S. Huang: Kernel multi-metric learning for multi-channel transient acoustic signal classification. ICASSP 2012:1989-1992
+765	EE	Kai-Hsiang Lin, Xiaodan Zhuang, Camille Goudeseune, Sarah King, Mark Hasegawa-Johnson, Thomas S. Huang: Improving faster-than-real-time human acoustic event detection by saliency-maximized audio visualization. ICASSP 2012:2277-2280
+764	EE	Guo-Jun Qi, Charu C. Aggarwal, Thomas S. Huang: Community Detection with Edge Content in Social Media Networks. ICDE 2012:534-545
+763	EE	Shen-Fu Tsai, Hao Tang, Feng Tang, Thomas S. Huang: Ontological Inference Framework with Joint Ontology Construction and Learning for Image Understanding. ICME 2012:426-431
+762	EE	Haichao Zhang, Yanning Zhang, Thomas S. Huang: Exploiting Structured Sparsity for Image Deblurring. ICME 2012:616-621
+761	EE	Haichao Zhang, Yanning Zhang, Nasser M. Nasrabadi, Thomas S. Huang: Joint dynamic sparse learning and its application to multi-view face recognition. ICPR 2012:1671-1674
+760	EE	Yanning Zhang, Haichao Zhang, Thomas S. Huang: Collaborative and compressive high-resolution imaging. ICPR 2012:3062-3065
+759	EE	Jiwen Lu, Gang Wang, Thomas S. Huang: Gait-based gender classification in unconstrained environments. ICPR 2012:3284-3287
+758	EE	Guo-Jun Qi, Charu C. Aggarwal, Qi Tian, Heng Ji, Thomas S. Huang: Exploring Context and Content Links in Social Media: A Latent Space Method. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 34(5):850-862 (2012)
+757	EE	Hao Tang, Stephen M. Chu, Mark Hasegawa-Johnson, Thomas S. Huang: Partially Supervised Speaker Clustering. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 34(5):959-971 (2012)
+756	EE	Haifeng Liu, Zhaohui Wu, Deng Cai, Thomas S. Huang: Constrained Nonnegative Matrix Factorization for Image Representation. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 34(7):1299-1311 (2012)
+755	EE	Jianchao Yang, Zhaowen Wang, Zhe Lin, Scott Cohen, Thomas S. Huang: Coupled Dictionary Training for Image Super-Resolution. IEEE Transactions on Image Processing (TIP) 21(8):3467-3478 (2012)
+754	EE	Haichao Zhang, Yanning Zhang, Haisen Li, Thomas S. Huang: Generative Bayesian Image Super Resolution With Natural Image Prior. IEEE Transactions on Image Processing (TIP) 21(9):4054-4067 (2012)
+753	EE	Jianchao Yang, Jiebo Luo, Jie Yu, Thomas S. Huang: Photo Stream Alignment and Summarization for Collaborative Photo Collection and Sharing. IEEE Transactions on Multimedia (TMM) 14(6):1642-1651 (2012)
+752	EE	Yun Fu, Xian-Sheng Hua, Zhu Li, Aggelos K. Katsaggelos, Thomas S. Huang: Special Issue on Subspace and Manifold Learning for Image and Video Indexing and Search. IEEE Transactions on Systems, Man, and Cybernetics, Part B (TSMC) 42(2):294-297 (2012)
+751	EE	Usman Tariq, Kai-Hsiang Lin, Zhen Li, Xi Zhou, Zhaowen Wang, Vuong Le, Thomas S. Huang, Xutao Lv, Tony X. Han: Recognizing Emotions From an Ensemble of Features. IEEE Transactions on Systems, Man, and Cybernetics, Part B (TSMC) 42(4):1017-1026 (2012)
+750	EE	Haichao Zhang, Yanning Zhang, Nasser M. Nasrabadi, Thomas S. Huang: Joint-Structured-Sparsity-Based Classification for Multiple-Measurement Transient Acoustic Signals. IEEE Transactions on Systems, Man, and Cybernetics, Part B (TSMC) 42(6):1586-1598 (2012)
+749	EE	Po-Sen Huang, Jianchao Yang, Mark Hasegawa-Johnson, Feng Liang, Thomas S. Huang: Pooling Robust Shift-Invariant Sparse Representations of Acoustic Signals. INTERSPEECH 2012
+748	EE	Thomas S. Huang: Can the World-Wide Web Bridge the Semantic Gap? Image Vision Comput. (IVC) 30(8):463-464 (2012)
+747	EE	Po-Sen Huang, Mark Hasegawa-Johnson, Wotao Yin, Thomas S. Huang: Opportunistic sensing: Unattended acoustic sensor selection using crowdsourcing models. MLSP 2012:1-6
+746	EE	Liangliang Cao, Xin Jin, Zhijun Yin, Andrey Del Pozo, Jiebo Luo, Jiawei Han, Thomas S. Huang: RankCompete: Simultaneous ranking and clustering of information networks. Neurocomputing (IJON) 95:98-104 (2012)
+745	EE	Haichao Zhang, Nasser M. Nasrabadi, Yanning Zhang, Thomas S. Huang: Joint dynamic sparse representation for multi-view face recognition. Pattern Recognition (PR) 45(4):1290-1298 (2012)
+744	EE	Edward Y. Chang, Shih-Fu Chang, Alexander G. Hauptmann, Thomas S. Huang, Malcolm Slaney: Web-Scale Multimedia Processing and Applications [Scanning the Issue]. Proceedings of the IEEE (PIEEE) 100(9):2580-2583 (2012)
+743	EE	Guo-Jun Qi, Min-Hsuan Tsai, Shen-Fu Tsai, Liangliang Cao, Thomas S. Huang: Web-Scale Multimedia Information Networks. Proceedings of the IEEE (PIEEE) 100(9):2688-2704 (2012)
+742	EE	Guo-Jun Qi, Charu C. Aggarwal, Thomas S. Huang: Transfer Learning of Distance Metrics by Cross-Domain Metric Sampling across Heterogeneous Spaces. SDM 2012:528-539
+741	EE	Guo-Jun Qi, Charu C. Aggarwal, Thomas S. Huang: On clustering heterogeneous social media objects with outlier links. WSDM 2012:553-562
+2011
+740	EE	Shen-Fu Tsai, Liangliang Cao, Feng Tang, Thomas S. Huang: Compositional object pattern: a new model for album event recognition. ACM Multimedia 2011:1361-1364
+739	EE	Yue Zhou, Bingbing Ni, Shuicheng Yan, Thomas S. Huang: Recognizing pair-activities by causality analysis. ACM TIST (TIST) 2(1):5 (2011)
+738	EE	Xinqi Chu, Tian-Tsong Ng, Ramanpreet Singh Pahwa, Tony Q. S. Quek, Thomas S. Huang: Compressive Inverse Light Transport. BMVC 2011:1-11
+737	EE	Guojun Qi, Qi Tian, Thomas S. Huang: Locality-sensitive support vector machine by exploring local correlation and global regularization. CVPR 2011:841-848
+736	EE	Guo-Jun Qi, Charu C. Aggarwal, Yong Rui, Qi Tian, Shiyu Chang, Thomas S. Huang: Towards cross-category knowledge propagation for learning visual concepts. CVPR 2011:897-904
+735	EE	Yuanqing Lin, Fengjun Lv, Shenghuo Zhu, Ming Yang, Timothée Cour, Kai Yu, Liangliang Cao, Thomas S. Huang: Large-scale image classification: Fast feature extraction and SVM training. CVPR 2011:1689-1696
+734	EE	Yun Fu, Shuicheng Yan, Thomas S. Huang: Special issue on feature-oriented image and video computing for extracting contexts and semantics. Computer Vision and Image Understanding (CVIU) 115(3):289 (2011)
+733	EE	Vuong Le, Hao Tang, Thomas S. Huang: Expression recognition from 3D dynamic faces using robust spatio-temporal shape features. FG 2011:414-421
+732	EE	Usman Tariq, Kai-Hsiang Lin, Zhen Li, Xi Zhou, Zhaowen Wang, Vuong Le, Thomas S. Huang, Xutao Lv, Tony X. Han: Emotion recognition from an ensemble of features. FG 2011:872-877
+731	EE	Haichao Zhang, Thomas S. Huang, Nasser M. Nasrabadi, Yanning Zhang: Heterogeneous multi-metric learning for multi-sensor fusion. FUSION 2011:1-8
+730	EE	Thomas S. Huang, Ziyou Xiong, ZhenQiu Zhang: Face Recognition Applications. Handbook of Face Recognition 2011:617-638
+729	EE	Haichao Zhang, Nasser M. Nasrabadi, Thomas S. Huang, Yanning Zhang: Transient acoustic signal classification using joint sparse representation. ICASSP 2011:2220-2223
+728	EE	Haichao Zhang, Nasser M. Nasrabadi, Yanning Zhang, Thomas S. Huang: Multi-observation visual recognition via joint dynamic sparse representation. ICCV 2011:595-602
+727	EE	Haichao Zhang, Jianchao Yang, Yanning Zhang, Nasser M. Nasrabadi, Thomas S. Huang: Close the loop: Joint blind image restoration and recognition with sparse representation prior. ICCV 2011:770-777
+726	EE	Zhijun Yin, Liangliang Cao, Jiawei Han, Chengxiang Zhai, Thomas S. Huang: LPTA: A Probabilistic Model for Latent Periodic Topic Analysis. ICDM 2011:904-913
+725	EE	Haichao Zhang, Jianchao Yang, Yanning Zhang, Thomas S. Huang: Multi-scale Non-Local Kernel Regression for super resolution. ICIP 2011:1353-1356
+724	EE	Min-Hsuan Tsai, Jinjun Wang, Tong Zhang, Yihong Gong, Thomas S. Huang: Learning semantic embedding at a large scale. ICIP 2011:2497-2500
+723	EE	Haichao Zhang, Nasser M. Nasrabadi, Thomas S. Huang, Yanning Zhang: Multi-view face recognition via joint dynamic sparse representation. ICIP 2011:3025-3028
+722	EE	Jianchao Yang, Jiangping Wang, Thomas S. Huang: Learning the sparse representation for classification. ICME 2011:1-6
+721	EE	Shen-Fu Tsai, Thomas S. Huang, Feng Tang: Album-based object-centric event recognition. ICME 2011:1-6
+720	EE	Haichao Zhang, Jianchao Yang, Yanning Zhang, Thomas S. Huang: Sparse representation based blind image deblurring. ICME 2011:1-6
+719	EE	Haichao Zhang, Yanning Zhang, Thomas S. Huang: Efficient sparse representation based image super resolution via dual dictionary learning. ICME 2011:1-6
+718	   	Hervé Bourlard, Thomas S. Huang, Enrique Vidal, Daniel Gatica-Perez, Louis-Philippe Morency, Nicu Sebe: Proceedings of the 13th International Conference on Multimodal Interfaces, ICMI 2011, Alicante, Spain, November 14-18, 2011 ICMI 2011
+717	EE	Deng Cai, Xiaofei He, Jiawei Han, Thomas S. Huang: Graph Regularized Nonnegative Matrix Factorization for Data Representation. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 33(8):1548-1560 (2011)
+716	EE	Gang Hua, Ming-Hsuan Yang, Erik G. Learned-Miller, Yi Ma, Matthew Turk, David J. Kriegman, Thomas S. Huang: Introduction to the Special Section on Real-World Face Recognition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 33(10):1921-1924 (2011)
+715	EE	Lijun Zhang, Chun Chen, Jiajun Bu, Deng Cai, Xiaofei He, Thomas S. Huang: Active Learning Based on Locally Linear Reconstruction. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 33(10):2026-2038 (2011)
+714	EE	Xu Zhao, Kai-Hsiang Lin, Yun Fu, Yuxiao Hu, Yuncai Liu, Thomas S. Huang: Text From Corners: A Novel Approach to Detect Text and Caption in Videos. IEEE Transactions on Image Processing (TIP) 20(3):790-799 (2011)
+713	EE	Zhaowen Wang, Ercan E. Kuruoglu, Xiaokang Yang, Yi Xu, Thomas S. Huang: Time Varying Dynamic Bayesian Network for Nonstationary Events Modeling and Online Inference. IEEE Transactions on Signal Processing (TSP) 59(4):1553-1568 (2011)
+712	EE	Xiaodan Zhuang, Xi Zhou, Mark Hasegawa-Johnson, Thomas S. Huang: Efficient Object Localization with Variation-Normalized Gaussianized Vectors. Intelligent Video Event Analysis and Understanding 2011:93-109
+711	EE	Zhen Li, Huazhong Ning, Liangliang Cao, Tong Zhang, Yihong Gong, Thomas S. Huang: Learning to Search Efficiently in High Dimensions. NIPS 2011:1710-1718
+710	EE	Md. Yusuf Sarwar Uddin, Hongyan Wang, Fatemeh Saremi, Guo-Jun Qi, Tarek F. Abdelzaher, Thomas S. Huang: PhotoNet: A Similarity-Aware Picture Delivery Service for Situation Awareness. RTSS 2011:317-326
+709	EE	Zhijun Yin, Liangliang Cao, Jiawei Han, Jiebo Luo, Thomas S. Huang: Diversified Trajectory Pattern Ranking in Geo-tagged Social Media. SDM 2011:980-991
+708	EE	Liangliang Cao, Guo-Jun Qi, Shen-Fu Tsai, Min-Hsuan Tsai, Andrey Del Pozo, Thomas S. Huang, Xuemei Zhang, Suk Hwan Lim: Multimedia Information Networks in Social Media. Social Network Data Analytics 2011:413-445
+707	EE	Dennis J. Lin, Vuong Le, Thomas S. Huang: Human-Computer Interaction. Visual Analysis of Humans 2011:493-510
+706	EE	Zhijun Yin, Liangliang Cao, Jiawei Han, Chengxiang Zhai, Thomas S. Huang: Geographical topic discovery and comparison. WWW 2011:247-256
+705	EE	Guojun Qi, Charu C. Aggarwal, Thomas S. Huang: Towards semantic knowledge propagation from text corpus to web images. WWW 2011:297-306
+2010
+704	EE	Mert Dikmen, Emre Akbas, Thomas S. Huang, Narendra Ahuja: Pedestrian Recognition with a Learned Metric. ACCV 2010:501-512
+703	EE	Min-Hsuan Tsai, Shen-Fu Tsai, Thomas S. Huang: Hierarchical image feature extraction and classification. ACM Multimedia 2010:1007-1010
+702	EE	Adam Lee, Marissa Passantino, Heng Ji, Guojun Qi, Thomas S. Huang: Enhancing Multi-lingual Information Extraction via Cross-Media Inference and Fusion. COLING (Posters) 2010:630-638
+701	EE	Xinqi Chu, Shuicheng Yan, Liyuan Li, Kap Luk Chan, Thomas S. Huang: Spatialized epitome and its applications. CVPR 2010:311-318
+700	EE	Liangliang Cao, Zicheng Liu, Thomas S. Huang: Cross-dataset action detection. CVPR 2010:1998-2005
+699	EE	Jinjun Wang, Jianchao Yang, Kai Yu, Fengjun Lv, Thomas S. Huang, Yihong Gong: Locality-constrained Linear Coding for image classification. CVPR 2010:3360-3367
+698	EE	Jianchao Yang, Kai Yu, Thomas S. Huang: Supervised translation-invariant sparse coding. CVPR 2010:3517-3524
+697	EE	Mithun Das Gupta, Thomas S. Huang: Bregman Distance to L1 Regularized Logistic Regression CoRR abs/1004.3814 (2010)
+696	EE	Haichao Zhang, Jianchao Yang, Yanning Zhang, Thomas S. Huang: Non-Local Kernel Regression for Image and Video Restoration. ECCV 2010:566-579
+695	EE	Jianchao Yang, Kai Yu, Thomas S. Huang: Efficient Highly Over-Complete Sparse Coding Using a Mixture Model. ECCV 2010:113-126
+694	EE	Xi Zhou, Kai Yu, Tong Zhang, Thomas S. Huang: Image Classification Using Super-Vector Coding of Local Image Descriptors. ECCV 2010:141-154
+693	EE	Wenming Zheng, Hao Tang, Zhouchen Lin, Thomas S. Huang: Emotion Recognition from Arbitrary View Facial Images. ECCV 2010:490-503
+692	EE	Liangliang Cao, Jiebo Luo, Andrew C. Gallagher, Xin Jin, Jiawei Han, Thomas S. Huang: A worldwide tourism recommendation system based on geotaggedweb photos. ICASSP 2010:2274-2277
+691	EE	Hao Tang, Mark Hasegawa-Johnson, Thomas S. Huang: Toward robust learning of the Gaussian mixture state emission densities for hidden Markov models. ICASSP 2010:5242-5245
+690	EE	Minqiang Xu, Xi Zhou, Zhen Li, Beiqian Dai, Thomas S. Huang: Extended Hierarchical Gaussianization for scene classification. ICIP 2010:1837-1840
+689	EE	Zhen Li, Xi Zhou, Thomas S. Huang: Hierarchical density estimation for image classification. ICIP 2010:2297-2300
+688	EE	Kai-Hsiang Lin, Hao Tang, Thomas S. Huang: Robust license plate detection using image saliency. ICIP 2010:3945-3948
+687	EE	Vuong Le, Hao Tang, Liangliang Cao, Thomas S. Huang: Accurate and efficient reconstruction of 3D faces from stereo images. ICIP 2010:4265-4268
+686	EE	Liangliang Cao, Yingli Tian, Zicheng Liu, Benjamin Z. Yao, Zhengyou Zhang, Thomas S. Huang: Action detection using multiple spatial-temporal interest point features. ICME 2010:340-345
+685	EE	Hao Tang, Mark Hasegawa-Johnson, Thomas S. Huang: Non-frontal view facial expression recognition based on ergodic hidden Markov model supervectors. ICME 2010:1202-1207
+684	EE	Mert Dikmen, Thomas S. Huang: Improving Classification Accuracy by Comparing Local Features through Canonical Correlations. ICPR 2010:4032-4035
+683	EE	Hao Tang, Mark Hasegawa-Johnson, Thomas S. Huang: A Novel Vector Representation of Stochastic Signals Based on Adapted Ergodic HMMs. IEEE Signal Process. Lett. (SPL) 17(8):715-718 (2010)
+682	EE	Xu Zhao, Yun Fu, Huazhong Ning, Yuncai Liu, Thomas S. Huang: Human Pose Regression Through Multiview Visual Fusion. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 20(7):957-966 (2010)
+681	EE	Yun Fu, Guodong Guo, Thomas S. Huang: Age Synthesis and Estimation via Faces: A Survey. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 32(11):1955-1976 (2010)
+680	EE	Bin Cheng, Jianchao Yang, Shuicheng Yan, Yun Fu, Thomas S. Huang: Learning With $\ell1$-Graph for Image Analysis. IEEE Transactions on Image Processing (TIP) 19(4):858-866 (2010)
+679	EE	Shuicheng Yan, Huan Wang, Jianzhuang Liu, Xiaoou Tang, Thomas S. Huang: Misalignment-Robust Face Recognition. IEEE Transactions on Image Processing (TIP) 19(4):1087-1096 (2010)
+678	EE	Jianchao Yang, John Wright, Thomas S. Huang, Yi Ma: Image Super-Resolution Via Sparse Representation. IEEE Transactions on Image Processing (TIP) 19(11):2861-2873 (2010)
+677	EE	Huazhong Ning, Wei Xu, Yue Zhou, Yihong Gong, Thomas S. Huang: A General Framework to Detect Unsafe System States From Multisensor Data Stream. IEEE Transactions on Intelligent Transportation Systems (TITS) 11(1):4-15 (2010)
+676	EE	Nicu Sebe, Hamid K. Aghajan, Thomas S. Huang, Nadia Magnenat-Thalmann, Caifeng Shan: Special Issue on Multimodal Affective Interaction. IEEE Transactions on Multimedia (TMM) 12(6):477-480 (2010)
+675	EE	Maja Pantic, Nicu Sebe, Jeffrey F. Cohn, Thomas S. Huang: Best of Automatic Face and Gesture Recognition 2008. Image Vision Comput. (IVC) 28(5):731 (2010)
+674	EE	Yun Fu, Hao Tang, Jilin Tu, Hai Tao, Thomas S. Huang: Human-Centered Face Computing in Multimedia Interaction and Communication. Intelligent Multimedia Communication 2010:465-505
+673	EE	Yuxiao Hu, Yun Fu, Usman Tariq, Thomas S. Huang: Subjective Experiments on Gender and Ethnicity Recognition from Different Face Representations. MMM 2010:66-75
+672	EE	Mert Dikmen, Dennis J. Lin, Andrey Del Pozo, Liangliang Cao, Yun Fu, Thomas S. Huang: A Study on Sampling Strategies in Space-Time Domain for Recognition Applications. MMM 2010:465-476
+671	EE	Huazhong Ning, Wei Xu, Yun Chi, Yihong Gong, Thomas S. Huang: Incremental spectral clustering by efficiently updating the eigen-system. Pattern Recognition (PR) 43(1):113-127 (2010)
+670	EE	Xi Zhou, Xiaodan Zhuang, Hao Tang, Mark Hasegawa-Johnson, Thomas S. Huang: Novel Gaussianized vector representation for improved natural scene categorization. Pattern Recognition Letters (PRL) 31(8):702-708 (2010)
+669	EE	Xiaodan Zhuang, Xi Zhou, Mark Hasegawa-Johnson, Thomas S. Huang: Real-world acoustic event detection. Pattern Recognition Letters (PRL) 31(12):1543-1551 (2010)
+668	EE	John Wright, Yi Ma, Julien Mairal, Guillermo Sapiro, Thomas S. Huang, Shuicheng Yan: Sparse Representation for Computer Vision and Pattern Recognition. Proceedings of the IEEE (PIEEE) 98(6):1031-1044 (2010)
+667	EE	Mandar Rahurkar, Shen-Fu Tsai, Charlie K. Dagli, Thomas S. Huang: Image Interpretation Using Large Corpus: Wikipedia. Proceedings of the IEEE (PIEEE) 98(8):1509-1525 (2010)
+666	EE	Ming Yang, Yuanqing Lin, Fengjun Lv, Shenghuo Zhu, Kai Yu, Mert Dikmen, Liangliang Cao, Thomas S. Huang: Videos Semantic Indexing using Image Classification. TRECVID 2010
+665	EE	Mithun Das Gupta, Thomas S. Huang: Regularized Maximum Likelihood for Intrinsic Dimension Estimation. UAI 2010:220-227
+664	EE	Liangliang Cao, Andrey Del Pozo, Xin Jin, Jiebo Luo, Jiawei Han, Thomas S. Huang: RankCompete: simultaneous ranking and clustering of web photos. WWW 2010:1071-1072
+2009
+663	EE	Liangliang Cao, Jie Yu, Jiebo Luo, Thomas S. Huang: Enhancing semantic and geographic annotation of web images via logistic canonical correlation regression. ACM Multimedia 2009:125-134
+662	EE	Jui-Ting Huang, Xi Zhou, Mark Hasegawa-Johnson, Thomas S. Huang: Kernel metric learning for phonetic classification. ASRU 2009:141-145
+661	EE	Guodong Guo, Guowang Mu, Yun Fu, Thomas S. Huang: Human age estimation using bio-inspired features. CVPR 2009:112-119
+660	EE	Jianchao Yang, Kai Yu, Yihong Gong, Thomas S. Huang: Linear spatial pyramid matching using sparse coding for image classification. CVPR 2009:1794-1801
+659	EE	Mithun Das Gupta, ShyamSundar Rajaram, Nemanja Petrovic, Thomas S. Huang: Models for Patch-Based Image Restoration. EURASIP J. Image and Video Processing (EJIVP) 2009 (2009)
+658	EE	Hao Tang, Stephen M. Chu, Thomas S. Huang: Spherical Discriminant Analysis in Semi-supervised Speaker Clustering. HLT-NAACL (Short Papers) 2009:57-60
+657	EE	Vuong Le, Yuxiao Hu, Thomas S. Huang: A quantitative evaluation for 3D face reconstruction algorithms. ICASSP 2009:1269-1272
+656	EE	Stephen M. Chu, Hao Tang, Thomas S. Huang: Fishervoice and semi-supervised speaker clustering. ICASSP 2009:4089-4092
+655	EE	Hao Tang, Stephen M. Chu, Thomas S. Huang: Generative model-based speaker clustering via mixture of von Mises-Fisher distributions. ICASSP 2009:4101-4104
+654	EE	Yuxiao Hu, Liangliang Cao, Fengjun Lv, Shuicheng Yan, Yihong Gong, Thomas S. Huang: Action detection in complex scenes with spatial and temporal ambiguities. ICCV 2009:128-135
+653	EE	Liangliang Cao, Jiebo Luo, Feng Liang, Thomas S. Huang: Heterogeneous feature machines for visual recognition. ICCV 2009:1095-1102
+652	EE	Wenming Zheng, Hao Tang, Zhouchen Lin, Thomas S. Huang: A novel approach to expression recognition from non-frontal face images. ICCV 2009:1901-1908
+651	EE	Xi Zhou, Na Cui, Zhen Li, Feng Liang, Thomas S. Huang: Hierarchical Gaussianization for image classification. ICCV 2009:1971-1977
+650	EE	Guodong Guo, Guowang Mu, Yun Fu, Charles R. Dyer, Thomas S. Huang: A study on automatic age estimation using a large database. ICCV 2009:1986-1991
+649	EE	Zhen Li, Xi Zhou, Thomas S. Huang: Spatial Gaussian Mixture Model for gender recognition. ICIP 2009:45-48
+648	EE	Usman Tariq, Yuxiao Hu, Thomas S. Huang: Gender and ethnicity identification from silhouetted face profiles. ICIP 2009:2441-2444
+647	EE	Mert Dikmen, Shen-Fu Tsai, Thomas S. Huang: Base selection in estimating sparse foreground in video. ICIP 2009:3217-3220
+646	EE	Hao Tang, Stephen M. Chu, Mark Hasegawa-Johnson, Thomas S. Huang: Emotion recognition from speech VIA boosted Gaussian mixture models. ICME 2009:294-297
+645	EE	Stephen M. Chu, Hao Tang, Thomas S. Huang: Locality preserving speaker clustering. ICME 2009:494-497
+644	EE	Jilin Tu, Yun Fu, Thomas S. Huang: Locating Nose-Tips and Estimating Head Poses in Images by Tensorposes. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 19(1):90-102 (2009)
+643	EE	Huazhong Ning, Tony X. Han, Dirk B. Walther, Ming Liu, Thomas S. Huang: Hierarchical Space-Time Model Enabling Efficient Search for Human Actions. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 19(6):808-820 (2009)
+642	EE	Zhihong Zeng, Maja Pantic, Glenn I. Roisman, Thomas S. Huang: A Survey of Affect Recognition Methods: Audio, Visual, and Spontaneous Expressions. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 31(1):39-58 (2009)
+641	EE	Jianke Zhu, Michael R. Lyu, Thomas S. Huang: A Fast 2D Shape Recovery Approach by Fusing Features and Appearance. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 31(7):1210-1224 (2009)
+640	EE	Qiang Ji, Jiebo Luo, Dimitris N. Metaxas, Antonio Torralba, Thomas S. Huang, Erik B. Sudderth: Guest Editors' Introduction to the Special Section on Probabilistic Graphical Models. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 31(10):1729-1732 (2009)
+639	EE	Dong Xu, Shuicheng Yan, Stephen Lin, Thomas S. Huang, Shih-Fu Chang: Enhancing Bilinear Subspace Learning by Element Rearrangement. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 31(10):1913-1920 (2009)
+638	EE	Huan Wang, Shuicheng Yan, Jianzhuang Liu, Xiaoou Tang, Thomas S. Huang: Correspondence Propagation with Weak Priors. IEEE Transactions on Image Processing (TIP) 18(1):140-150 (2009)
+637	EE	Shuicheng Yan, Huan Wang, Yun Fu, Jun Yan, Xiaoou Tang, Thomas S. Huang: Synchronized Submanifold Embedding for Person-Independent Pose Estimation and Beyond. IEEE Transactions on Image Processing (TIP) 18(1):202-210 (2009)
+636	EE	Jianchao Yang, Shuicheng Yan, Thomas S. Huang: Ubiquitously Supervised Subspace Learning. IEEE Transactions on Image Processing (TIP) 18(2):241-249 (2009)
+635	EE	Shuicheng Yan, Huan Wang, Jilin Tu, Xiaoou Tang, Thomas S. Huang: Mode-kn Factor Analysis for Image Ensembles. IEEE Transactions on Image Processing (TIP) 18(3):670-676 (2009)
+634	EE	Liangliang Cao, Jiebo Luo, Henry A. Kautz, Thomas S. Huang: Image Annotation Within the Context of Personal Photo Collections Using Hierarchical Event and Scene Models. IEEE Transactions on Multimedia (TMM) 11(2):208-219 (2009)
+633	EE	Minqiang Xu, Xi Zhou, Beiqian Dai, Thomas S. Huang: GMM kernel by Taylor series for speaker verification. INTERSPEECH 2009:1283-1286
+632	   	Catherine Wah, Dennis J. Lin, Thomas S. Huang: Anthropometric Human Hand Models for Tracking. IPCV 2009:17-22
+631	EE	Jilin Tu, Hai Tao, Thomas S. Huang: Online updating appearance generative mixture model for meanshift tracking. Mach. Vis. Appl. (MVA) 20(3):163-173 (2009)
+630	EE	Bo Xiao, Xiaokang Yang, Hongyuan Zha, Yi Xu, Thomas S. Huang: Metric Learning for Regression Problems and Human Age Estimation. PCM 2009:88-99
+629	EE	Josep Prades-Nebot, Yi Ma, Thomas S. Huang: Distributed Video Coding using Compressive Sampling. PCS 2009:1-4
+2008
+628	EE	Liangliang Cao, Jiebo Luo, Thomas S. Huang: Annotating photo collections by label propagation according to multiple similarity cues. ACM Multimedia 2008:121-130
+627	EE	Xi Zhou, Xiaodan Zhuang, Shuicheng Yan, Shih-Fu Chang, Mark Hasegawa-Johnson, Thomas S. Huang: SIFT-Bag kernel for video event analysis. ACM Multimedia 2008:229-238
+626	EE	Zhu Li, Yun Fu, Thomas S. Huang, Shuicheng Yan: Real-time human action recognition by luminance field trajectory analysis. ACM Multimedia 2008:671-676
+625	EE	Liangliang Cao, Mert Dikmen, Yun Fu, Thomas S. Huang: Gender recognition from body. ACM Multimedia 2008:725-728
+624	   	Atulya Velivelli, Thomas S. Huang: Gaussian Process Based Dual Latent Function Approach to Ordinal Regression. Artificial Intelligence and Pattern Recognition 2008:159-169
+623	EE	Yun Fu, Liangliang Cao, Guodong Guo, Thomas S. Huang: Multiple feature fusion by subspace learning. CIVR 2008:127-134
+622	EE	Aidong Zhang, Shih-Fu Chang, Arif Ghafoor, Thomas S. Huang, Ramesh Jain, Rainer Lienhart: Future directions in multimedia retrieval: : impact of new technology. CIVR 2008:663-664
+621	EE	Xun Xu, Thomas S. Huang: A Loopy Belief Propagation approach for robust background estimation. CVPR 2008
+620	EE	Liangliang Cao, Jiebo Luo, Henry A. Kautz, Thomas S. Huang: Annotating collections of photos using hierarchical event and scene models. CVPR 2008
+619	EE	Huazhong Ning, Wei Xu, Yihong Gong, Thomas S. Huang: Discriminative learning of visual words for 3D human pose estimation. CVPR 2008
+618	EE	Yadong Mu, Shuicheng Yan, Yi Liu, Thomas S. Huang, Bingfeng Zhou: Discriminative local binary patterns for human detection in personal album. CVPR 2008
+617	EE	Jianchao Yang, John Wright, Thomas S. Huang, Yi Ma: Image super-resolution as sparse representation of raw image patches. CVPR 2008
+616	EE	Huan Wang, Shuicheng Yan, Thomas S. Huang, Jianzhuang Liu, Xiaoou Tang: Misalignment-robust face recognition. CVPR 2008
+615	EE	Jianchao Yang, Shuicheng Yan, Yun Fu, Xuelong Li, Thomas S. Huang: Non-negative graph embedding. CVPR 2008
+614	EE	Yue Zhou, Shuicheng Yan, Thomas S. Huang: Pair-activity classification by bi-trajectories analysis. CVPR 2008
+613	EE	Shuicheng Yan, Xi Zhou, Ming Liu, Mark Hasegawa-Johnson, Thomas S. Huang: Regression from patch-kernel. CVPR 2008
+612	EE	Nicu Sebe, Qi Tian, Michael S. Lew, Thomas S. Huang: Similarity Matching in Computer Vision and Multimedia. Computer Vision and Image Understanding (CVIU) 110(3):309-311 (2008)
+611	EE	Yun Fu, Zhu Li, Thomas S. Huang, Aggelos K. Katsaggelos: Locally adaptive subspace and similarity metric learning for visual data clustering and retrieval. Computer Vision and Image Understanding (CVIU) 110(3):390-402 (2008)
+610	EE	Huazhong Ning, Wei Xu, Yihong Gong, Thomas S. Huang: Latent Pose Estimator for Continuous Action Recognition. ECCV 2008:419-433
+609	EE	Hao Tang, Thomas S. Huang: 3D facial expression recognition based on properties of line segments connecting facial feature points. FG 2008:1-6
+608	EE	Yuxiao Hu, Zhihong Zeng, Lijun Yin, Xiaozhou Wei, Xi Zhou, Thomas S. Huang: Multi-view facial expression recognition. FG 2008:1-6
+607	EE	Xiaodan Zhuang, Xi Zhou, Thomas S. Huang, Mark Hasegawa-Johnson: Feature analysis and selection for acoustic event detection. ICASSP 2008:17-20
+606	EE	Shuicheng Yan, Ming Liu, Thomas S. Huang: Extracting age information from local spatially flexible patches. ICASSP 2008:737-740
+605	EE	Chunxiao Zhou, Yuxiao Hu, Yun Fu, Huixia Judy Wang, Thomas S. Huang, Yongmei Michelle Wang: 3D face analysis for distinct features using statistical randomization. ICASSP 2008:981-984
+604	EE	Yu Huang, Jilin Tu, Thomas S. Huang: A factorization method in stereo motion for non-rigid objects. ICASSP 2008:1065-1068
+603	EE	Ming Liu, Shuicheng Yan, Yun Fu, Thomas S. Huang: Flexible X-Y patches for face recognition. ICASSP 2008:2113-2116
+602	EE	Yuxiao Hu, Hao Tang, Thomas S. Huang: Camera and microphone array for 3D audiovisual face data collection. ICASSP 2008:2161-2164
+601	EE	Yun Fu, Shuicheng Yan, Thomas S. Huang: Discriminant simplex analysis. ICASSP 2008:3333-3336
+600	EE	Xi Zhou, Jiri Navratil, Jason W. Pelecanos, Ganesh N. Ramaswamy, Thomas S. Huang: Intersession variability compensation for language detection. ICASSP 2008:4157-4160
+599	EE	Ming Liu, Yun Fu, Thomas S. Huang: An audio-visual fusion framework with joint dimensionality reducton. ICASSP 2008:4437-4440
+598	EE	Hao Tang, Thomas S. Huang: MPEG4 performance-driven avatar via robust facial motion tracking. ICIP 2008:249-252
+597	EE	Yue Zhou, Thomas S. Huang: 'Bag of segments' for motion trajectory analysis. ICIP 2008:757-760
+596	EE	Jianchao Yang, Hao Tang, Yi Ma, Thomas S. Huang: Face hallucination VIA sparse coding. ICIP 2008:1264-1267
+595	EE	Yun Fu, Thomas S. Huang: Correlation Embedding Analysis. ICIP 2008:1696-1699
+594	EE	Huazhong Ning, Yuxiao Hu, Thomas S. Huang: Efficient initialization of Mixtures of Experts for human pose estimation. ICIP 2008:2164-2167
+593	EE	Hao Tang, Yuxiao Hu, Yun Fu, Mark Hasegawa-Johnson, Thomas S. Huang: Real-time conversion from a single 2D face image to a 3D text-driven emotive audio-visual avatar. ICME 2008:1205-1208
+592	EE	Yuxiao Hu, Thomas S. Huang: Subspace learning for human head pose estimation. ICME 2008:1585-1588
+591	EE	Hao Tang, Zhixiong Chen, Thomas S. Huang: Comparison of Algorithms for Speaker Identification under Adverse Far-Field Recording Conditions with Extremely Short Utterances. ICNSC 2008:796-801
+590	EE	Atulya Velivelli, Thomas S. Huang: Automatic Video Annotation Using Multimodal Dirichlet Process Mixture Model. ICNSC 2008:1366-1371
+589	EE	Mert Dikmen, Thomas S. Huang: Robust estimation of foreground in surveillance videos by sparse error estimation. ICPR 2008:1-4
+588	EE	Hao Tang, Thomas S. Huang: Boosting Gaussian mixture models via discriminant analysis. ICPR 2008:1-4
+587	EE	Xiaodan Zhuang, Xi Zhou, Mark Hasegawa-Johnson, Thomas S. Huang: Face age estimation using patch-based hidden Markov model supervectors. ICPR 2008:1-4
+586	EE	Huazhong Ning, Wei Xu, Yue Zhou, Yihong Gong, Thomas S. Huang: Temporal difference learning to detect unsafe system states. ICPR 2008:1-4
+585	EE	Xi Zhou, Xiaodan Zhuang, Hao Tang, Mark Hasegawa-Johnson, Thomas S. Huang: A novel Gaussianized vector representation for natural scene categorization. ICPR 2008:1-4
+584	EE	Yuxiao Hu, Zhihong Zeng, Lijun Yin, Xiaozhou Wei, Jilin Tu, Thomas S. Huang: A study of non-frontal-view facial expressions recognition. ICPR 2008:1-4
+583	EE	Xu Zhao, Huazhong Ning, Yuncai Liu, Thomas S. Huang: Discriminative estimation of 3D human pose using Gaussian processes. ICPR 2008:1-4
+582	EE	Guodong Guo, Yun Fu, Charles R. Dyer, Thomas S. Huang: Head pose estimation: Classification or regression? ICPR 2008:1-4
+581	EE	Mithun Das Gupta, Thomas S. Huang: Bregman distance to L1 regularized logistic regression. ICPR 2008:1-4
+580	EE	Dong Xu, Shuicheng Yan, Lei Zhang, Stephen Lin, Hong-Jiang Zhang, Thomas S. Huang: Reconstruction and Recognition of Tensor-Based Objects With Concurrent Subspaces Analysis. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 18(1):36-47 (2008)
+579	EE	Yun Fu, Renxiang Li, Thomas S. Huang, Mike Danielsen: Real-Time Multimodal Human-Avatar Interaction. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 18(4):467-477 (2008)
+578	EE	Yun Fu, Zhu Li, Junsong Yuan, Ying Wu, Thomas S. Huang: Locality Versus Globality: Query-Driven Localized Linear Models for Facial Image Computing. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 18(12):1741-1752 (2008)
+577	EE	Dong Xu, Shuicheng Yan, Stephen Lin, Thomas S. Huang: Convergent 2-D Subspace Learning With Null Space Analysis. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 18(12):1753-1759 (2008)
+576	EE	Yun Fu, Shuicheng Yan, Thomas S. Huang: Correlation Metric for Generalized Feature Extraction. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 30(12):2229-2235 (2008)
+575	EE	Yun Fu, Thomas S. Huang: Image Classification Using Correlation Tensor Analysis. IEEE Transactions on Image Processing (TIP) 17(2):226-234 (2008)
+574	EE	Guodong Guo, Yun Fu, Charles R. Dyer, Thomas S. Huang: Image-Based Human Age Estimation by Manifold Learning and Locally Adjusted Robust Regression. IEEE Transactions on Image Processing (TIP) 17(7):1178-1188 (2008)
+573	EE	Yun Fu, Shuicheng Yan, Thomas S. Huang: Classification and Feature Extraction by Simplexization. IEEE Transactions on Information Forensics and Security (TIFS) 3(1):91-100 (2008)
+572	EE	Shuicheng Yan, Huan Wang, Xiaoou Tang, Jianzhuang Liu, Thomas S. Huang: Regression From Uncertain Labels and Its Applications to Soft Biometrics. IEEE Transactions on Information Forensics and Security (TIFS) 3(4):698-708 (2008)
+571	EE	Zhihong Zeng, Jilin Tu, Brian Pianfetti, Thomas S. Huang: Audio-Visual Affective Expression Recognition Through Multistream Fused HMM. IEEE Transactions on Multimedia (TMM) 10(4):570-577 (2008)
+570	EE	Yun Fu, Thomas S. Huang: Human Age Estimation With Regression on Discriminative Aging Manifold. IEEE Transactions on Multimedia (TMM) 10(4):578-584 (2008)
+569	EE	Hao Tang, Yun Fu, Jilin Tu, Mark Hasegawa-Johnson, Thomas S. Huang: Humanoid Audio-Visual Avatar With Emotive Text-to-Speech Synthesis. IEEE Transactions on Multimedia (TMM) 10(6):969-981 (2008)
+568	EE	Xianchao Xie, Shuicheng Yan, James T. Kwok, Thomas S. Huang: Matrix-Variate Factor Analysis and Its Applications. IEEE Transactions on Neural Networks (TNN) 19(10):1821-1826 (2008)
+567	EE	Maja Pantic, Anton Nijholt, Alex Pentland, Thomas S. Huang: Human-Centred Intelligent Human-Computer Interaction (HCI2): how far are we from attaining it? IJAACS 1(2):168-187 (2008)
+566	EE	Heejin Kim, Mark Hasegawa-Johnson, Adrienne Perlman, Jon Gunderson, Thomas S. Huang, Kenneth Watkin, Simone Frame: Dysarthric speech database for universal access research. INTERSPEECH 2008:1741-1744
+565	EE	Hao Tang, Xi Zhou, Matthias Odisio, Mark Hasegawa-Johnson, Thomas S. Huang: Two-stage prosody prediction for emotional text-to-speech synthesis. INTERSPEECH 2008:2138-2141
+564	EE	Thomas S. Huang: What are the 7 millennium problems in multimedia information retrieval? Multimedia Information Retrieval 2008:1
+563	EE	Mert Dikmen, Huazhong Ning, Dennis J. Lin, Liangliang Cao, Vuong Le, Shen-Fu Tsai, Kai-Hsiang Lin, Zhen Li, Jianchao Yang, Thomas S. Huang, Fengjun Lv, Wei Xu, Ming Yang, Kai Yu, Guangyu Zhu, Yihong Gong: Surveillance Event Detection. TRECVID 2008
+562	EE	Yadong Mu, Shuicheng Yan, Thomas S. Huang, Bingfeng Zhou: Contextual motion field-based distance for video analysis. The Visual Computer (VC) 24(7-9):595-603 (2008)
+561	EE	Yue Zhou, Shuicheng Yan, Thomas S. Huang: Categorizing bi-object video activities using bag of segments and causality features. VNBA 2008:55-60
+560	EE	Hao Tang, Yun Fu, Jilin Tu, Thomas S. Huang, Mark Hasegawa-Johnson: EAVA: A 3D Emotive Audio-Visual Avatar. WACV 2008:1-6
+559	EE	Jilin Tu, Yun Fu, Aleksandar Ivanovic, Thomas S. Huang, Fei-Fei Li: Variational Transform Invariant Mixture of Probabilistic PCA. WACV 2008:1-6
+558	EE	Guodong Guo, Yun Fu, Thomas S. Huang, Charles R. Dyer: Locally Adjusted Robust Regression for Human Age Estimation. WACV 2008:1-6
+557	EE	Mandar Rahurkar, Dan Roth, Thomas S. Huang: Which "Apple" are you talking about ? WWW 2008:1197-1198
+2007
+556	EE	Xun Xu, Thomas S. Huang: SODA-Boosting and Its Application to Gender Recognition. AMFG 2007:193-204
+555	   	Thomas S. Huang, Anton Nijholt, Maja Pantic, Alex Pentland: Artifical Intelligence for Human Computing, ICMI 2006 and IJCAI 2007 International Workshops, Banff, Canada, November 3, 2006, Hyderabad, India, January 6, 2007, Revised Seleced and Invited Papers Artifical Intelligence for Human Computing 2007
+554	EE	Maja Pantic, Alex Pentland, Anton Nijholt, Thomas S. Huang: Human Computing and Machine Understanding of Human Behavior: A Survey. Artifical Intelligence for Human Computing 2007:47-71
+553	EE	Zhihong Zeng, Yuxiao Hu, Glenn I. Roisman, Zhen Wen, Yun Fu, Thomas S. Huang: Audio-Visual Spontaneous Emotion Recognition. Artifical Intelligence for Human Computing 2007:72-90
+552	EE	Ming Liu, Yanxiang Chen, Xi Zhou, Xiaodan Zhuang, Mark Hasegawa-Johnson, Thomas S. Huang: Multichannel and Multimodality Person Identification. CLEAR 2007:248-255
+551	EE	Shuicheng Yan, ZhenQiu Zhang, Yun Fu, Yuxiao Hu, Jilin Tu, Thomas S. Huang: Learning a Person-Independent Representation for Precise 3D Pose Estimation. CLEAR 2007:297-306
+550	EE	Xi Zhou, Xiaodan Zhuang, Ming Liu, Hao Tang, Mark Hasegawa-Johnson, Thomas S. Huang: HMM-Based Acoustic Event Detection with AdaBoost Feature Selection. CLEAR 2007:345-353
+549	EE	Jehanzeb Abbas, Charlie K. Dagli, Thomas S. Huang: A Multimodality Framework for Creating Speaker/Non-Speaker Profile Databases for Real-World Video. CVPR 2007
+548	EE	Stephen M. Chu, Thomas S. Huang: Audio-Visual Speech Fusion Using Coupled Hidden Markov Models. CVPR 2007
+547	EE	Yun Fu, Ming Liu, Thomas S. Huang: Conformal Embedding Analysis with Local Graph Modeling on the Unit Hypersphere. CVPR 2007
+546	EE	ShyamSundar Rajaram, Charlie K. Dagli, Nemanja Petrovic, Thomas S. Huang: Diverse Active Ranking for Multimedia Search. CVPR 2007
+545	EE	Shuicheng Yan, Dong Xu, Stephen Lin, Thomas S. Huang, Shih-Fu Chang: Element Rearrangement for Tensor-Based Subspace Learning. CVPR 2007
+544	EE	Deng Cai, Xiaofei He, Yuxiao Hu, Jiawei Han, Thomas S. Huang: Learning a Spatially Smooth Subspace for Face Recognition. CVPR 2007
+543	EE	Zhigang Zhu, Thomas S. Huang: Multimodal Surveillance: an Introduction. CVPR 2007
+542	EE	Huan Wang, Shuicheng Yan, Dong Xu, Xiaoou Tang, Thomas S. Huang: Trace Ratio vs. Ratio Trace for Dimensionality Reduction. CVPR 2007
+541	EE	Mathias Kölsch, Vladimir Pavlovic, Branislav Kisacanin, Thomas S. Huang: Special issue on vision for human-computer interaction. Computer Vision and Image Understanding (CVIU) 108(1-2):1-3 (2007)
+540	EE	Jilin Tu, Hai Tao, Thomas S. Huang: Face as mouse through visual face tracking. Computer Vision and Image Understanding (CVIU) 108(1-2):35-40 (2007)
+539	EE	Amit Sethi, Mandar Rahurkar, Thomas S. Huang: Event Detection Using "Variable Module Graphs" for Home Care Applications. EURASIP J. Adv. Sig. Proc. (EJASP) 2007 (2007)
+538	EE	Mithun Das Gupta, ShyamSundar Rajaram, Thomas S. Huang, Nemanja Petrovic: Ordinal Regression Based Subpixel Shift Estimation for Video Super-Resolution. EURASIP J. Adv. Sig. Proc. (EJASP) 2007 (2007)
+537	EE	Shuicheng Yan, Huan Wang, Jianzhuang Liu, Xiaoou Tang, Thomas S. Huang: Ranking with uncertain labels and its applications. Frontiers of Computer Science in China (FCSC) 1(4):407-412 (2007)
+536	EE	Shuicheng Yan, Huan Wang, Xiaoou Tang, Thomas S. Huang: Exploring Feature Descritors for Face Recognition. ICASSP 2007:629-632
+535	EE	Yue Zhou, Thomas S. Huang: An Unsupervised Algorithm to Extract Face Texture from Video. ICASSP 2007:781-784
+534	EE	Yun Fu, Thomas S. Huang: Unsupervised Locally Embedded Clustering for Automatic High-Dimensional Data Labeling. ICASSP 2007:1057-1060
+533	EE	Shuicheng Yan, Huan Wang, Xiaoou Tang, Thomas S. Huang: Learning Auto-Structured Regressor from Uncertain Nonnegative Labels. ICCV 2007:1-8
+532	EE	Terrence Chen, Thomas S. Huang: Optimizing Image Registration by Mutually Exclusive Scale Components. ICCV 2007:1-8
+531	   	Michael S. Lew, Nicu Sebe, Thomas S. Huang, Erwin M. Bakker: Human-Computer Interaction, IEEE International Workshop, HCI 2007, Rio de Janeiro, Brazil, October 20, 2007, Proceedings ICCV-HCI 2007
+530	EE	Michael S. Lew, Erwin M. Bakker, Nicu Sebe, Thomas S. Huang: Human-Computer Intelligent Interaction: A Survey. ICCV-HCI 2007:1-5
+529	EE	Yun Fu, Junsong Yuan, Zhu Li, Thomas S. Huang, Ying Wu: Query-Driven Locally Adaptive Fisher Faces and Expert-Model for Face Recognition. ICIP 2007:141-144
+528	EE	Junsong Yuan, Zhu Li, Yun Fu, Ying Wu, Thomas S. Huang: Common Spatial Pattern Discovery by Efficient Candidate Pruning. ICIP 2007:165-168
+527	EE	Yun Fu, Zhu Li, Xi Zhou, Thomas S. Huang: Laplacian Affinity Propagation for Semi-Supervised Object Classification. ICIP 2007:189-192
+526	EE	Yun Fu, Xi Zhou, Ming Liu, Mark Hasegawa-Johnson, Thomas S. Huang: Lipreading by Locality Discriminant Graph. ICIP 2007:325-328
+525	EE	Jilin Tu, Thomas S. Huang: Locating Nosetips and Estimating Head Pose in Images by Tensorposes. ICIP 2007:513-516
+524	EE	Huazhong Ning, Yuxiao Hu, Thomas S. Huang: Searching Human Behaviors using Spatial-Temporalwords. ICIP 2007:337-340
+523	EE	Ming Liu, Zhengyou Zhang, Mark Hasegawa-Johnson, Thomas S. Huang: Exploring Discriminative Learning for Text-Independent Speaker Recognition. ICME 2007:56-59
+522	EE	Shuicheng Yan, Huan Wang, Thomas S. Huang, Qiong Yang, Xiaoou Tang: Ranking with Uncertain Labels. ICME 2007:96-99
+521	EE	Xi Zhou, Yun Fu, Ming Liu, Mark Hasegawa-Johnson, Thomas S. Huang: Robust Analysis and Weighting on MFCC Components for Speech Recognition and Speaker Identification. ICME 2007:188-191
+520	EE	Yun Fu, Renxiang Li, Thomas S. Huang, Mike Danielsen: Real-Time Humanoid Avatar for Multimodal Human-Machine Interaction. ICME 2007:991-994
+519	EE	Yue Zhou, Shuicheng Yan, Thomas S. Huang: Detecting Anomaly in Videos from Trajectory Similarity Analysis. ICME 2007:1087-1090
+518	EE	Yun Fu, Ye Xu, Thomas S. Huang: Estimating Human Age by Manifold Analysis of Face Pictures and Regression on Aging Features. ICME 2007:1383-1386
+517	EE	Yue Zhou, Wei Xu, Huazhong Ning, Yihong Gong, Thomas S. Huang: Detecting Unsafe Driving Patterns using Discriminative Learning. ICME 2007:1431-1434
+516	EE	Charlie K. Dagli, Sharad V. Rao, Thomas S. Huang: Multi-Modal Person-Profiles from Broadcast News Video. ICME 2007:1559-1562
+515	EE	Zhu Li, Yun Fu, Junsong Yuan, Thomas S. Huang, Ying Wu: Query Driven Localized Linear Discriminant Models for Head Pose Estimation. ICME 2007:1810-1813
+514	EE	Zhihong Zeng, Maja Pantic, Glenn I. Roisman, Thomas S. Huang: A survey of affect recognition methods: audio, visual and spontaneous expressions. ICMI 2007:126-133
+513	EE	Huan Wang, Shuicheng Yan, Thomas S. Huang, Jianzhuang Liu, Xiaoou Tang: Transductive regression piloted by inter-manifold relations. ICML 2007:967-974
+512	EE	Alejandro Jaimes, Daniel Gatica-Perez, Nicu Sebe, Thomas S. Huang: Guest Editors' Introduction: Human-Centered Computing--Toward a Human Revolution. IEEE Computer (COMPUTER) 40(5):30-34 (2007)
+511	EE	Jie Yu, Qi Tian, Ting Rui, Thomas S. Huang: Integrating Discriminant and Descriptive Information for Dimension Reduction and Classification. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 17(3):372-377 (2007)
+510	EE	Shuicheng Yan, Jianzhuang Liu, Xiaoou Tang, Thomas S. Huang: Formulating Face Verification With Semidefinite Programming. IEEE Transactions on Image Processing (TIP) 16(11):2802-2810 (2007)
+509	EE	Shuicheng Yan, Jianzhuang Liu, Xiaoou Tang, Thomas S. Huang: A Parameter-Free Framework for General Supervised Subspace Learning. IEEE Transactions on Information Forensics and Security (TIFS) 2(1):69-76 (2007)
+508	EE	Zhihong Zeng, Jilin Tu, Ming Liu, Thomas S. Huang, Brian Pianfetti, Dan Roth, Stephen E. Levinson: Audio-Visual Affect Recognition. IEEE Transactions on Multimedia (TMM) 9(2):424-428 (2007)
+507	EE	Anelia Grigorova, Francesco G. B. De Natale, Charlie K. Dagli, Thomas S. Huang: Content-Based Image Retrieval by Feature Adaptation and Relevance Feedback. IEEE Transactions on Multimedia (TMM) 9(6):1183-1192 (2007)
+506	EE	Huan Wang, Shuicheng Yan, Thomas S. Huang, Xiaoou Tang: A Convengent Solution to Tensor Subspace Learning. IJCAI 2007:629-634
+505	EE	Ming Liu, Xi Zhou, Mark Hasegawa-Johnson, Thomas S. Huang, Zhengyou Zhang: Frequency domain correspondence for speaker normalization. INTERSPEECH 2007:274-277
+504	EE	Michael S. Lew, Nicu Sebe, Thomas S. Huang: The age of human computer interaction. Image Vision Comput. (IVC) 25(12):1833-1835 (2007)
+503	EE	Nicu Sebe, Michael S. Lew, Yafei Sun, Ira Cohen, Theo Gevers, Thomas S. Huang: Authentic facial expression analysis. Image Vision Comput. (IVC) 25(12):1856-1863 (2007)
+502	   	Nicu Sebe, Yuncai Liu, Yueting Zhuang, Thomas S. Huang: Multimedia Content Analysis and Mining, International Workshop, MCAM 2007, Weihai, China, June 30 - July 1, 2007, Proceedings MCAM 2007
+501	EE	Yijuan Lu, Qi Tian, Thomas S. Huang: Interactive Boosting for Image Classification. MCAM 2007:315-324
+500	EE	Yuxiao Hu, ZhenQiu Zhang, Xun Xu, Yun Fu, Thomas S. Huang: Building Large Scale 3D Face Database for Face Analysis. MCAM 2007:343-350
+499	EE	Yijuan Lu, Qi Tian, Thomas S. Huang: Interactive Boosting for Image Classification. MCS 2007:180-189
+498	EE	Minglei Tong, Yuncai Liu, Thomas S. Huang: 3D human model and joint parameter estimation from monocular image. Pattern Recognition Letters (PRL) 28(7):797-805 (2007)
+497	EE	Huazhong Ning, Wei Xu, Yun Chi, Yihong Gong, Thomas S. Huang: Incremental Spectral Clustering With Application to Monitoring of Evolving Blog Communities. SDM 2007:261-272
+496	EE	ZhenQiu Zhang, Gerasimos Potamianos, Andrew W. Senior, Thomas S. Huang: Joint face and head tracking inside multi-camera smart rooms. Signal, Image and Video Processing (SIVP) 1(2):163-178 (2007)
+495	EE	Tony X. Han, Ming Liu, Thomas S. Huang: A Drifting-proof Framework for Tracking and Online Appearance Learning. WACV 2007:10
+494	EE	Yun Fu, Thomas S. Huang: hMouse: Head Tracking Driven Virtual Computer Mouse. WACV 2007:30
+2006
+493	EE	Jilin Tu, Hai Tao, Thomas S. Huang: Online Updating Appearance Generative Mixture Model for Meanshift Tracking. ACCV 2006:694-703
+492	EE	Huan Wang, Shuicheng Yan, Thomas S. Huang, Xiaoou Tang: Maximum unfolded embedding: formulation, solution, and application for image clustering. ACM Multimedia 2006:45-48
+491	EE	Zhihong Zeng, Yuxiao Hu, Ming Liu, Yun Fu, Thomas S. Huang: Training combination strategy of multi-stream fused hidden Markov model for audio-visual affect recognition. ACM Multimedia 2006:65-68
+490	EE	Charlie K. Dagli, ShyamSundar Rajaram, Thomas S. Huang: Leveraging Active Learning for Relevance Feedback Using an Information Theoretic Diversity Measure. CIVR 2006:123-132
+489	EE	Ming Liu, Hao Tang, Huazhong Ning, Thomas S. Huang: Person Identification Based on Multichannel and Multimodality Fusion. CLEAR 2006:241-248
+488	EE	Jilin Tu, Yun Fu, Yuxiao Hu, Thomas S. Huang: Evaluation of Head Pose Estimation for Studio Data. CLEAR 2006:281-290
+487	EE	ZhenQiu Zhang, Yuxiao Hu, Ming Liu, Thomas S. Huang: Head Pose Estimation in Seminar Room Using Multi View Face Detectors. CLEAR 2006:299-304
+486	EE	Tony X. Han, Huazhong Ning, Thomas S. Huang: Efficient Nonparametric Belief Propagation with Application to Articulated Body Tracking. CVPR 2006:214-221
+485	EE	Terrence Chen, Thomas S. Huang: Scale-Driven Iterative Optimization for Brain Extraction and Registration. CVPR 2006:2467-2474
+484	   	Thomas S. Huang, Nicu Sebe, Michael S. Lew, Vladimir Pavlovic, Mathias Kölsch, Aphrodite Galata, Branislav Kisacanin: Computer Vision in Human-Computer Interaction, ECCV 2006 Workshop on HCI, Graz, Austria, May 13, 2006, Proceedings ECCV Workshop on HCI 2006
+483	EE	ShyamSundar Rajaram, Mithun Das Gupta, Nemanja Petrovic, Thomas S. Huang: Learning-Based Nonparametric Image Super-Resolution. EURASIP J. Adv. Sig. Proc. (EJASP) 2006 (2006)
+482	EE	Yun Fu, Thomas S. Huang: Graph Embedded Analysis for Head Pose Estimation. FG 2006:3-8
+481	EE	Zhihong Zeng, Yun Fu, Glenn I. Roisman, Zhen Wen, Yuxiao Hu, Thomas S. Huang: One-Class Classification for Spontaneous Facial Expression Analysis. FG 2006:281-286
+480	EE	ZhenQiu Zhang, Gerasimos Potamianos, Ming Liu, Thomas S. Huang: Robust Multi-View Multi-Camera Face Detection inside Smart Rooms Using Spatio-Temporal Dynamic Programming. FG 2006:407-412
+479	EE	Huazhong Ning, Tony X. Han, Yuxiao Hu, ZhenQiu Zhang, Yun Fu, Thomas S. Huang: A Realtime Shrug Detector. FG 2006:505-510
+478	EE	ZhenQiu Zhang, Yuxiao Hu, Tianli Yu, Thomas S. Huang: Minimum Variance Estimation of 3D Face Shape from Multi-view. FG 2006:547-552
+477	EE	Jilin Tu, Thomas S. Huang, Hai Tao: Accurate Head Pose Tracking in Low Resolution Video. FG 2006:573-578
+476	EE	Guoqin Cui, Aleksandar Ivanovic, Thomas S. Huang, Lizhen Chen: Using data compression to enhance the security of identification document. ICASSP 2006:877-880
+475	EE	Mark Hasegawa-Johnson, Jon Gunderson, Adrienne Perlman, Thomas S. Huang: Hmm-Based and Svm-Based Recognition of the Speech of Talkers With Spastic Dysarthria. ICASSP 2006:1060-1063
+474	EE	Atulya Velivelli, Thomas S. Huang: Dirichlet Aspect Weighting: A Generalized EM Algorithm for Integrating External Data Fields with Semantically Structured Queries by Using Gradient Projection Method. ICDM 2006:633-644
+473	EE	Jilin Tu, Thomas S. Huang, Yingen Xiong, R. Travis Rose, Francis K. H. Quek: Calibrating Head Pose Estimation in Videos for Meeting Room Event Analysis. ICIP 2006:3193-3196
+472	EE	Ming S. Liu, Thomas S. Huang: Video Based Person Authentication via Audio/Visual Association. ICME 2006:553-556
+471	EE	Hao Tang, Thomas S. Huang: Improved Graphical Model for Audiovisual Object Tracking. ICME 2006:997-1000
+470	EE	Xun Xu, Yong Rui, Thomas S. Huang: Recognizing Faces in Recorded Meetings via MRC-Boosting. ICME 2006:1633-1636
+469	EE	Huazhong Ning, Wei Xu, Yihong Gong, Thomas S. Huang: Improving Speaker Diarization by Cross EM Refinement. ICME 2006:1901-1904
+468	EE	ZhenQiu Zhang, Gerasimos Potamianos, Stephen M. Chu, Jilin Tu, Thomas S. Huang: Person Tracking in Smart Rooms using Dynamic Programming and Adaptive Subspace Learning. ICME 2006:2061-2064
+467	EE	Zhihong Zeng, Yuxiao Hu, Yun Fu, Thomas S. Huang, Glenn I. Roisman, Zhen Wen: Audio-visual emotion recognition in adult attachment interview. ICMI 2006:139-145
+466	EE	Maja Pantic, Alex Pentland, Anton Nijholt, Thomas S. Huang: Human computing and machine understanding of human behavior: a survey. ICMI 2006:239-248
+465	EE	Akash Kushal, Mandar Rahurkar, Fei-Fei Li, Jean Ponce, Thomas S. Huang: Audio-Visual Speaker Localization Using Graphical Models. ICPR 2006:291-294
+464	EE	Yue Zhou, Thomas S. Huang: Weighted Bayesian Network for Visual Tracking. ICPR 2006:523-526
+463	EE	Nicu Sebe, Ira Cohen, Theo Gevers, Thomas S. Huang: Emotion Recognition Based on Joint Visual and Audio Cues. ICPR 2006:1136-1139
+462	EE	Terrence Chen, Thomas S. Huang: Boundary correction for total variation regularized L1 function with applications to image decomposition and segmentation. ICPR 2006:316-319
+461	EE	Charlie K. Dagli, ShyamSundar Rajaram, Thomas S. Huang: Utilizing Information Theoretic Diversity for SVM Active Learn. ICPR 2006:506-511
+460	EE	Mithun Das Gupta, ShyamSundar Rajaram, Nemanja Petrovic, Thomas S. Huang: Classifiers for Motion. ICPR 2006:593-596
+459	EE	Ming Liu, Thomas S. Huang, Zhengyou Zhang: Robust Local Scoring Function for Text-Independent Speaker Verification. ICPR 2006:1146-1149
+458	EE	Jilin Tu, Aleksandar Ivanovic, Xun Xu, Fei-Fei Li, Thomas S. Huang: Variational Shift Invariant Probabilistic PCA for Face Recognition. ICPR 2006:548-551
+457	EE	Weihong Li, Ming Liu, Zhigang Zhu, Thomas S. Huang: LDV Remote Voice Acquisition and Enhancement. ICPR 2006:262-265
+456	EE	Ming Liu, Thomas S. Huang: A Bayesian Predictive Method for Automatic Speech Segmentation. ICPR 2006:290-293
+455	EE	Xiaoyun Zhang, Yuncai Liu, Thomas S. Huang: Motion Analysis of Articulated Objects from Monocular Images. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 28(4):625-636 (2006)
+454	EE	Terrence Chen, Wotao Yin, Xiang Sean Zhou, Dorin Comaniciu, Thomas S. Huang: Total Variation Models for Variable Lighting Face Recognition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 28(9):1519-1524 (2006)
+453	EE	Yunqiang Chen, Yong Rui, Thomas S. Huang: Multicue HMM-UKF for Real-Time Contour Tracking. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 28(9):1525-1529 (2006)
+452	EE	Ming Liu, Huazhong Ning, Thomas S. Huang, Zhengyou Zhang: A novel framework of text-independent speaker verification based on utterance transform and iterative cohort modeling. INTERSPEECH 2006
+451	EE	Huazhong Ning, Ming Liu, Hao Tang, Thomas S. Huang: A spectral clustering approach to speaker diarization. INTERSPEECH 2006
+450	EE	Ming Liu, Thomas S. Huang: Unsupervised learning of HMM topology for text-dependent speaker verification. INTERSPEECH 2006
+449	EE	Zhihong Zeng, Yun Fu, Glenn I. Roisman, Zhen Wen, Yuxiao Hu, Thomas S. Huang: Spontaneous Emotional Facial Expression Detection. Journal of Multimedia (JMM2) 1(5):1-8 (2006)
+448	EE	Dennis J. Lin, Jilin Tu, ShyamSundar Rajaram, ZhenQiu Zhang, Thomas S. Huang: Da Vinci's Mona Lisa. MLMI 2006:123-128
+2005
+447	EE	Zhihong Zeng, Jilin Tu, Ming Liu, Thomas S. Huang: Multi-stream Confidence Analysis for Audio-Visual Affect Recognition. ACII 2005:964-971
+446	EE	Maja Pantic, Nicu Sebe, Jeffrey F. Cohn, Thomas S. Huang: Affective multimodal human-computer interaction. ACM Multimedia 2005:669-676
+445	EE	Ming Liu, Tony X. Han, Thomas S. Huang: Online appearance learning by template prediction. AVSS 2005:236-241
+444	EE	Jilin Tu, Thomas S. Huang, Hai Tao: Face as Mouse Through Visual Face Tracking. CRV 2005:339-346
+443	EE	Terrence Chen, Thomas S. Huang, Wotao Yin, Xiang Sean Zhou: A New Coarse-to-Fine Framework for 3D Brain MR Image Registration. CVBIA 2005:114-124
+442	EE	Mithun Das Gupta, ShyamSundar Rajaram, Nemanja Petrovic, Thomas S. Huang: Restoration and Recognition in a Loop. CVPR 2005:638-644
+441	EE	Terrence Chen, Wotao Yin, Xiang Sean Zhou, Dorin Comaniciu, Thomas S. Huang: Illumination Normalization for Face Recognition and Uneven Background Correction Using Total Variation Based Image Models. CVPR 2005:532-539
+440	EE	Zhihong Zeng, Jilin Tu, Brian Pianfetti, Ming Liu, Tong Zhang, ZhenQiu Zhang, Thomas S. Huang, Stephen E. Levinson: Audio-Visual Affect Recognition through Multi-Stream Fused HMM for HCI. CVPR 2005:967-972
+439	EE	Zhen Wen, Pengyu Hong, Jilin Tu, Thomas S. Huang: Learning 3D Face Animation Model. Encyclopedia of Information Science and Technology (III) 2005:1807-1814
+438	EE	Tony X. Han, Visvanathan Ramesh, Ying Zhu, Thomas S. Huang: On Optimizing Template Matching via Performance Characterization. ICCV 2005:182-189
+437	EE	Hanning Zhou, Thomas S. Huang: Okapi-Chamfer Matching for Articulated Object Recognition. ICCV 2005:1026-1033
+436	EE	Xun Xu, Thomas S. Huang: Face Recognition with MRC-Boosting. ICCV 2005:1770-1777
+435	   	Nicu Sebe, Michael S. Lew, Thomas S. Huang: Computer Vision in Human-Computer Interaction, ICCV 2005 Workshop on HCI, Beijing, China, October 21, 2005, Proceedings ICCV-HCI 2005
+434	EE	Tony X. Han, Thomas S. Huang: Articulated Body Tracking Using Dynamic Belief Propagation. ICCV-HCI 2005:26-35
+433	EE	Minglei Tong, Yuncai Liu, Thomas S. Huang: Recover Human Pose from Monocular Image Under Weak Perspective Projection. ICCV-HCI 2005:36-46
+432	EE	ZhenQiu Zhang, Gerasimos Potamianos, Andrew W. Senior, Stephen M. Chu, Thomas S. Huang: A Joint System for Person Tracking and Face Detection. ICCV-HCI 2005:47-59
+431	EE	Mithun Das Gupta, ShyamSundar Rajaram, Nemanja Petrovic, Thomas S. Huang: Non-parametric image super-resolution using multiple images. ICIP 2005:89-92
+430	EE	Zhen Wen, Thomas S. Huang: Enhanced 3D geometric-model-based face tracking in low resolution with appearance model. ICIP 2005:350-353
+429	EE	Amit Sethi, Mandar Rahurkar, Thomas S. Huang: Variable module graphs: a framework for inference and learning in modular vision systems. ICIP 2005:1326-1329
+428	EE	Charlie K. Dagli, ShyamSundar Rajaram, Thomas S. Huang: Combining Diversity-Based Active Learning with Discriminant Analysis in Image Retrieval. ICITA 2005:173-178
+427	EE	Ziyou Xiong, Regunathan Radhakrishnan, Ajay Divakaran, Thomas S. Huang: Highlights extraction from sports video based on an audio-visual marker detection framework. ICME 2005:29-32
+426	EE	ZhenQiu Zhang, Xun Xu, Thomas S. Huang: Indicisive classifier. ICME 2005:570-573
+425	EE	Zhihong Zeng, ZhenQiu Zhang, Brian Pianfetti, Jilin Tu, Thomas S. Huang: Audio-visual affect recognition in activation-evaluation space. ICME 2005:828-831
+424	EE	Ying Wu, John Lin, Thomas S. Huang: Analyzing and Capturing Articulated Hand Motion in Image Sequences. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 27(12):1910-1922 (2005)
+423	EE	Lei Chen, R. Rose, Ying Qiao, Irene Kimbara, Fey Parrill, Haleema Welji, Tony X. Han, Jilin Tu, Zhongqiang Huang, Mary P. Harper, Francis K. H. Quek, Yingen Xiong, David McNeill, Ronald Tuttle, Thomas S. Huang: VACE Multimodal Meeting Corpus. MLMI 2005:40-51
+422	EE	Nicu Sebe, Ira Cohen, Fabio Gagliardi Cozman, Theo Gevers, Thomas S. Huang: Learning probabilistic classifiers for human-computer interaction applications. Multimedia Syst. (MMS) 10(6):484-498 (2005)
+421	EE	Nemanja Petrovic, Nebojsa Jojic, Thomas S. Huang: Adaptive Video Fast Forward. Multimedia Tools Appl. (MTA) 26(3):327-344 (2005)
+420	EE	Qi Tian, Jie Yu, Thomas S. Huang: Boosting Multiple Classifiers Constructed by Hybrid Discriminant Analysis. Multiple Classifier Systems 2005:42-52
+419	EE	Jiebo Luo, Thomas S. Huang, John R. Smith, HongJiang Zhang: Special Issue on Image Understanding for Digital Photographs. Pattern Recognition (PR) 38(6):781-785 (2005)
+418	EE	Qi Tian, Ying Wu, Jie Yu, Thomas S. Huang: Self-supervised learning based on discriminative nonlinear features for image classification. Pattern Recognition (PR) 38(6):903-917 (2005)
+417	   	Terrence Chen, Thomas S. Huang: Region Based Hidden Markov Random Field Model for Brain MR Image Segmentation. WEC 2005:233-236
+2004
+416	EE	Zhen Wen, Thomas S. Huang: 3D Face Processing - Modeling, Analysis and Synthesis. Springer 2004
+415	EE	Xiang Sean Zhou, Ashutosh Garg, Thomas S. Huang: A Discussion of Nonlinear Variants of Biased Discriminants for Interactive Image Retrieval. CIVR 2004:353-364
+414	EE	Jilin Tu, ZhenQiu Zhang, Zhihong Zeng, Thomas S. Huang: Face Localization via Hierarchical CONDENSATION with Fisher Boosting Feature Selection. CVPR 2004:719-724
+413	EE	Tanveer Fathima Syeda-Mahmood, Ismail Haritaoglu, Thomas S. Huang: CVIU special issue on event detection in video. Computer Vision and Image Understanding (CVIU) 96(2):97-99 (2004)
+412	EE	Pengyu Hong, Thomas S. Huang: Spatial pattern discovery by learning a probabilistic parametric model from multiple attributed relational graphs. Discrete Applied Mathematics (DAM) 139(1-3):113-135 (2004)
+411	   	Nicu Sebe, Michael S. Lew, Thomas S. Huang: Computer Vision in Human-Computer Interaction, ECCV 2004 Workshop on HCI, Prague, Czech Republic, May 16, 2004, Proceedings ECCV Workshop on HCI 2004
+410	EE	Nicu Sebe, Michael S. Lew, Thomas S. Huang: The State-of-the-Art in Human-Computer Interaction. ECCV Workshop on HCI 2004:1-6
+409	EE	Kiyoharu Aizawa, Thomas S. Huang, Stefanos D. Kollias, Petros Maragos, Ralf Schäfer: Editorial. EURASIP J. Adv. Sig. Proc. (EJASP) 2004(6):783-785 (2004)
+408	EE	Nicu Sebe, Michael S. Lew, Ira Cohen, Yafei Sun, Theo Gevers, Thomas S. Huang: Authentic Facial Expression Analysis. FGR 2004:517-522
+407	EE	John Y. Lin, Ying Wu, Thomas S. Huang: 3D Model-Based Hand Tracking Using Stochastic Direct Search Method. FGR 2004:693-698
+406	EE	Xun Xu, Changshui Zhang, Thomas S. Huang: Active Morphable Model: An Efficient Method for Face Analysis. FGR 2004:837-842
+405	EE	Ming Liu, Ziyou Xiong, Stephen M. Chu, ZhenQiu Zhang, Thomas S. Huang: Audio visual word spotting. ICASSP 2004:785-788
+404	EE	Qi Tian, Jie Yu, Ying Wu, Thomas S. Huang: Learning based on kernel discriminant-EM algorithm for image classification. ICASSP 2004:461-464
+403	EE	ShyamSundar Rajaram, Ara V. Nefian, Thomas S. Huang: Bayesian separation of audio-visual speech sources. ICASSP 2004:657-660
+402	EE	Aleksandar Ivanovic, Thomas S. Huang: A probabilistic framework for segmentation and tracking of multiple non rigid objects for video surveillance. ICIP 2004:353-356
+401	EE	Qi Tian, Qing Xue, Jie Yu, Nicu Sebe, Thomas S. Huang: Toward an improved error metric. ICIP 2004:2199-2202
+400	   	Tony X. Han, Steven Kay, Thomas S. Huang: Optimal segmentation of signals and its application to image denoising and boundary feature extraction. ICIP 2004:2693-2696
+399	EE	Hanning Zhou, Zhengyou Zhang, Thomas S. Huang: Visual echo cancellation in a projector-camera-whiteboard system. ICIP 2004:2885-2888
+398	   	Qi Tian, Jie Yu, Ting Rui, Thomas S. Huang: Parameterized discriminant analysis for image classification. ICME 2004:5-8
+397	   	Atulya Velivelli, ChengXiang Zhai, Thomas S. Huang: Audio segment retrieval using a short duration example query. ICME 2004:1603-1606
+396	   	Zhen Wen, Zicheng Liu, Michael F. Cohen, Jin Li, Ke Colin Zheng, Thomas S. Huang: Low bit-rate video streaming for face-to-face teleconference. ICME 2004:1631-1634
+395	   	Ziyou Xiong, Regunathan Radhakrishnan, Ajay Divakaran, Thomas S. Huang: Effective and efficient sports highlights extraction using the minimum description length criterion in selecting GMM structures. ICME 2004:1947-1950
+394	   	ZhenQiu Zhang, Yong Rui, Thomas S. Huang, Cem Paya: Breaking the clock face HIP. ICME 2004:2167-2170
+393	EE	Zhihong Zeng, Jilin Tu, Ming Liu, Tong Zhang, Nicholas Rizzolo, ZhenQiu Zhang, Thomas S. Huang, Dan Roth, Stephen E. Levinson: Bimodal HCI-related affect recognition. ICMI 2004:137-143
+392	EE	Nicu Sebe, Ira Cohen, Thomas S. Huang, Theo Gevers: Skin Detection: A Bayesian Network Approach. ICPR 2004:903-906
+391	EE	Charlie K. Dagli, Thomas S. Huang: A Framework for Grid-Based Image Retrieval. ICPR 2004:1021-1024
+390	EE	Yingge Wang, Qiang Cheng, Jie Cheng, Thomas S. Huang: MV-MAP: Multiresolution Video Visualization and Summarization on MAPs. ICPR 2004:886-889
+389	EE	John Lin, Ying Wu, Thomas S. Huang: Articulate Hand Motion Capturing Based on a Monte Carlo Nelder-Mead Simplex Tracker. ICPR 2004:975-978
+388	EE	Ira Cohen, Fabio Gagliardi Cozman, Nicu Sebe, Marcelo Cesar Cirelo, Thomas S. Huang: Semisupervised Learning of Classifiers: Theory, Algorithms, and Their Application to Human-Computer Interaction. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 26(12):1553-1567 (2004)
+387	EE	Hao Pan, Stephen E. Levinson, Thomas S. Huang, Zhi-Pei Liang: A fused hidden Markov model with application to bimodal speech processing. IEEE Transactions on Signal Processing (TSP) 52(3):573-581 (2004)
+386	EE	Bowon Lee, Mark Hasegawa-Johnson, Camille Goudeseune, Suketu Kamdar, Sarah Borys, Ming Liu, Thomas S. Huang: AVICAR: audio-visual speech corpus in a car environment. INTERSPEECH 2004
+385	EE	Arnold W. M. Smeulders, Thomas S. Huang, Theo Gevers: Guest Editorial. International Journal of Computer Vision (IJCV) 56(1-2):5-6 (2004)
+384	EE	Ying Wu, Thomas S. Huang: Robust Visual Tracking by Integrating Multiple Cues Based on Co-Inference Learning. International Journal of Computer Vision (IJCV) 58(1):55-71 (2004)
+383	EE	Baback Moghaddam, Qi Tian, Neal Lesh, Chia Shen, Thomas S. Huang: Visualization and User-Modeling for Browsing Personal Photo Libraries. International Journal of Computer Vision (IJCV) 56(1-2):109-130 (2004)
+382	   	Qi Tian, Jie Yu, Qing Xue, Nicu Sebe, Thomas S. Huang: Robust Error Metric Analysis for Noise Estimation in Image Indexing. MDDE 2004
+381	EE	Thomas S. Huang: Multimedia/multimodal signal processing, analysis, and understanding. MMSP 2004:5-
+380	EE	Nemanja Petrovic, Nebojsa Jojic, Thomas S. Huang: Hierarchical video clustering. MMSP 2004:423-426
+379	EE	Ruoyu Roy Wang, Thomas S. Huang: A framework of joint object tracking and event detection. Pattern Anal. Appl. (PAA) 7(4):343-355 (2004)
+378	EE	Xiaoyun Zhang, Yuncai Liu, Thomas S. Huang: Articulated joint estimation from motion using two monocular images. Pattern Recognition Letters (PRL) 25(10):1097-1106 (2004)
+377	EE	Ira Cohen, Nicu Sebe, Yafei Sun, Michael S. Lew, Thomas S. Huang: Towards authentic emotion recognition. SMC 2004:623-628
+376	EE	Qiang Cheng, Yingge Wang, Thomas S. Huang: Performance analysis and error exponents of asymmetric watermarking systems. Signal Processing (SIGPRO) 84(8):1429-1445 (2004)
+2003
+375	EE	Terrence Chen, Mei Han, Wei Hua, Yihong Gong, Thomas S. Huang: A New Tracking Technique: Object Tracking and Identification from Motion. CAIP 2003:157-164
+374	   	Erwin M. Bakker, Thomas S. Huang, Michael S. Lew, Nicu Sebe, Xiang Sean Zhou: Image and Video Retrieval, Second International Conference, CIVR 2003, Urbana-Champaign, IL, USA, July 24-25, 2003, Proceedings CIVR 2003
+373	EE	Nicu Sebe, Michael S. Lew, Xiang Sean Zhou, Thomas S. Huang, Erwin M. Bakker: The State of the Art in Image and Video Retrieval. CIVR 2003:1-8
+372	EE	Ira Cohen, Nicu Sebe, Yafei Sun, Michael S. Lew, Thomas S. Huang: Evaluation of Expression Recognition Techniques. CIVR 2003:184-195
+371	EE	Atulya Velivelli, Chong-Wah Ngo, Thomas S. Huang: Detection of Documentary Scene Changes by Audio-Visual Fusion. CIVR 2003:227-237
+370	EE	Ira Cohen, Nicu Sebe, Fabio Gagliardi Cozman, Marcelo Cesar Cirelo, Thomas S. Huang: Learning Bayesian Network Classifiers for Facial Expression Recognition using both Labeled and Unlabeled Data. CVPR 2003:595-604
+369	EE	Zhen Wen, Zicheng Liu, Thomas S. Huang: Face Relighting with Radiance Environment Maps. CVPR 2003:158-165
+368	EE	Ira Cohen, Nicu Sebe, Ashutosh Garg, Lawrence S. Chen, Thomas S. Huang: Facial expression recognition from video sequences: temporal and static modeling. Computer Vision and Image Understanding (CVIU) 91(1-2):160-187 (2003)
+367	EE	Thomas S. Huang: Visual Human Face Tracking and its Application to Lip-Reading and Emotion Recognition. DICTA 2003:17-18
+366	EE	ShyamSundar Rajaram, Ashutosh Garg, Xiang Sean Zhou, Thomas S. Huang: Classification Approach towards Banking and Sorting Problems. ECML 2003:301-312
+365	EE	Xiang Sean Zhou, Yong Rui, Thomas S. Huang: Exploration of Visual Data. Springer 2003
+364	EE	Hanning Zhou, Thomas S. Huang: Recovering Articulated Motion with a Hierarchical Factorization Method. Gesture Workshop 2003:140-151
+363	EE	Ashutosh Garg, Gerasimos Potamianos, Chalapathy Neti, Thomas S. Huang: Frame-dependent multi-stream reliability indicators for audio-visual speech recognition. ICASSP 2003:24-27
+362	EE	Qiang Cheng, Yingge Wang, Thomas S. Huang: How to design efficient watermarks? ICASSP 2003:49-52
+361	EE	Ziyou Xiong, Regunathan Radhakrishnan, Ajay Divakaran, Thomas S. Huang: Comparing MFCC and MPEG-7 audio features for feature extraction, maximum likelihood HMM and entropic prior HMM for sports audio classification. ICASSP 2003:628-631
+360	EE	Ziyou Xiong, Regunathan Radhakrishnan, Ajay Divakaran, Thomas S. Huang: Audio events detection based highlights extraction from baseball, golf and soccer games in a unified framework. ICASSP 2003:632-635
+359	EE	Hanning Zhou, Thomas S. Huang: Tracking Articulated Hand Motion with Eigen Dynamics Analysis. ICCV 2003:1102-1109
+358	EE	Zhen Wen, Thomas S. Huang: Capturing Subtle Facial Motions in 3D Face Tracking. ICCV 2003:1343-1350
+357	EE	Munehiro Nakazato, Charlie K. Dagli, Thomas S. Huang: Evaluating group-based relevance feedback for content-based image retrieval. ICIP 2003:599-602
+356	EE	Nebojsa Jojic, Nemanja Petrovic, Thomas S. Huang: Scene generative models for adaptive video fast forward. ICIP 2003:619-622
+355	EE	Qiang Cheng, Yingge Wang, Thomas S. Huang: Maximizing efficacy for efficient watermarking systems. ICIP 2003:747-750
+354	EE	Ziyou Xiong, Yunqiang Chen, Roy Wang, Thomas S. Huang: A real time automatic access control system based on face and eye corners detection, face recognition and speaker identification. ICME 2003:233-236
+353	EE	Ziyou Xiong, Regunathan Radhakrishnan, Ajay Divakaran, Thomas S. Huang: Comparing MFCC and MPEG-7 audio features for feature extraction, maximum likelihood HMM and entropic prior HMM for sports audio classification. ICME 2003:397-400
+352	EE	Ziyou Xiong, Regunathan Radhakrishnan, Ajay Divakaran, Thomas S. Huang: Audio events detection based highlights extraction from baseball, golf and soccer games in a unified framework. ICME 2003:401-404
+351	EE	Ashutosh Garg, Gerasimos Potamianos, Chalapathy Neti, Thomas S. Huang: Frame-dependent multi-stream reliability indicators for audio-visual speech recognition. ICME 2003:605-608
+350	EE	James M. Rehg, Vladimir Pavlovic, Thomas S. Huang, William T. Freeman: Guest Editors' Introduction to the Special Section on Graphical Models in Computer Vision. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 25(7):785-786 (2003)
+349	EE	Qiang Cheng, Thomas S. Huang: Robust optimum detection of transform domain multiplicative watermarks. IEEE Transactions on Signal Processing (TSP) 51(4):906-924 (2003)
+348	EE	Nicu Sebe, Qi Tian, Etienne Loupias, Michael S. Lew, Thomas S. Huang: Evaluation of salient point techniques. Image Vision Comput. (IVC) 21(13-14):1087-1095 (2003)
+347	EE	Munehiro Nakazato, Ljubomir Manola, Thomas S. Huang: ImageGrouper: a group-oriented user interface for content-based image retrieval and digital image arrangement. J. Vis. Lang. Comput. (VLC) 14(4):363-386 (2003)
+346	EE	Ira Cohen, Nicu Sebe, Fabio Gagliardi Cozman, Thomas S. Huang: Semi-supervised learning for facial expression recognition. Multimedia Information Retrieval 2003:17-22
+345	EE	Xiang Sean Zhou, Thomas S. Huang: Relevance feedback in image retrieval: A comprehensive review. Multimedia Syst. (MMS) 8(6):536-544 (2003)
+344	EE	Yuncai Liu, Xiaoyun Zhang, Thomas S. Huang: Estimation of 3D structure and motion from image corners. Pattern Recognition (PR) 36(6):1269-1277 (2003)
+343	EE	Xue-wen Chen, Thomas S. Huang: Facial expression recognition: A clustering-based approach. Pattern Recognition Letters (PRL) 24(9-10):1295-1302 (2003)
+342	   	Xiaoyun Zhang, Yuncai Liu, Thomas S. Huang: Articulated Joint Estimation from Motion Using Two Monocular Images. VMV 2003:63-70
+2002
+341	EE	Pengyu Hong, Zhen Wen, Thomas S. Huang, Heung-Yeung Shum: Real-Time Speech-Driven 3D Face Animation. 3DPVT 2002:713-716
+340	EE	Xiaoyun Zhang, Yuncai Liu, Thomas S. Huang: Motion Estimation of Articulated Objects from Perspective Views. AMDO 2002:165-176
+339	EE	Qi Tian, Baback Moghaddam, Thomas S. Huang: Visualization, Estimation and User-Modeling for Interactive Browsing of Image Libraries. CIVR 2002:7-16
+338	EE	Nicu Sebe, Qi Tian, Etienne Loupias, Michael S. Lew, Thomas S. Huang: Evaluation of Salient Point Techniques. CIVR 2002:367-377
+337	EE	Yunqiang Chen, Thomas S. Huang, Yong Rui: Mode-based Multi-Hypothesis Head Tracking Using Parametric Contours. FGR 2002:119-124
+336	EE	Yu Huang, Thomas S. Huang, Heinrich Niemann: Two-Handed Gesture Tracking Incorporating Template Warping with Static Segmentation. FGR 2002:275-280
+335	EE	Ruoyu Roy Wang, Thomas S. Huang, Jialin Zhong: Generative and Discriminative Face Modelling for Detection. FGR 2002:281-286
+334	EE	Pengyu Hong, Thomas S. Huang: Automatic temporal pattern extraction and association. ICASSP 2002:2005-2008
+333	EE	Stephen M. Chu, Thomas S. Huang: Audio-visual speech modeling using coupled hidden Markov models. ICASSP 2002:2009-2012
+332	EE	Ziyou Xiong, Xiang Zhou, William M. Pottenger, Thomas S. Huang: Speeding up relevance feedback in image retrieval with triangle-inequality based algorithms. ICASSP 2002:3373-3376
+331	EE	Qiang Cheng, Thomas S. Huang: Optimum detection and decoding of multiplicative watermarks in DFT domain. ICASSP 2002:3477-3480
+330	EE	Thomas S. Huang, Pengyu Hong: Exemplar-based face and facial motion tracking. ICASSP 2002:3600-3603
+329	EE	Stephen M. Chu, Thomas S. Huang: An experimental study of coupled hidden Markov models. ICASSP 2002:4100-4103
+328	EE	Zhen Wen, Zicheng Liu, Thomas S. Huang: Model-based face image coding using spherical harmonics. ICIP 2002:185-188
+327	EE	Ziyou Xiong, Thomas S. Huang: Wavelet-based texture features can be extracted efficiently from compressed-domain for JPEG2000 coded images. ICIP 2002:481-484
+326	EE	Milind R. Naphade, Thomas S. Huang: Discovering recurrent events in video using unsupervised methods. ICIP 2002:13-16
+325	EE	Yu Huang, Thomas S. Huang, Heinrich Niemann: Segmentation-based object tracking using image warping and Kalman filtering. ICIP 2002:601-604
+324	EE	Yunqiang Chen, Thomas S. Huang, Yong Rui: Parametric contour tracking using unscented Kalman filter. ICIP 2002:613-616
+323	EE	Yu Huang, Thomas S. Huang: Facial tracking with head pose estimation in stereo vision. ICIP 2002:833-836
+322	EE	Munehiro Nakazato, Thomas S. Huang: Extending image retrieval with group-oriented interface. ICME 2002:201-204
+321	EE	Xiang Sean Zhou, Thomas S. Huang, Shih-Ping Liou: Optimal temporal sampling of video under channel and buffer constraints. ICME 2002:401-404
+320	EE	Zhen Wen, Thomas S. Huang, Zicheng Liu: On recovering detailed face deformation under general lighting using height from shading. ICME 2002:465-468
+319	EE	Baback Moghaddam, Qi Tian, Neal Lesh, Chia Shen, Thomas S. Huang: PDH: a human-centric interface for image libraries. ICME 2002:901-904
+318	EE	Thomas S. Huang, Ying Wu, John Lin: 3D model-based visual hand tracking. ICME 2002:905-908
+317	EE	Ira Cohen, Nicu Sebe, Ashutosh Garg, Michael S. Lew, Thomas S. Huang: Facial expression recognition from video sequences. ICME 2002:121-124
+316	EE	Ruoyu Roy Wang, Thomas S. Huang, Peter Stubler, Rajiv Mehrotra: Robust face recognition based on motion pursuit. ICME 2002:153-156
+315	EE	Terrence Chen, Munehiro Nakazato, Thomas S. Huang: Speeding up the similarity search in multimedia database. ICME 2002:509-512
+314	EE	Chong-Wah Ngo, Ting-Chuen Pong, Thomas S. Huang: Detection of slide transition for topic indexing. ICME 2002:533-536
+313	EE	Ziyou Xiong, Yunqiang Chen, Roy Wang, Thomas S. Huang: Improved Information Maximization based Face and Facial Feature Detection from Real-time Video and Application in a Multi-Modal Person Identification System. ICMI 2002:511-516
+312	EE	Nicu Sebe, Michael S. Lew, Ira Cohen, Ashutosh Garg, Thomas S. Huang: Emotion Recognition Using a Cauchy Naive Bayes Classifier. ICPR 2002:17-
+311	EE	Yu Huang, Thomas S. Huang: Model-Based Human Body Tracking. ICPR 2002:552-555
+310	EE	Yu Huang, Thomas S. Huang, Heinrich Niemann: A Region-Based Method for Model-Free Object Tracking. ICPR 2002:592-595
+309	EE	Ashutosh Garg, Vladimir Pavlovic, Thomas S. Huang: Bayesian Networks as Ensemble of Classifiers. ICPR 2002:779-784
+308	EE	Pengyu Hong, Thomas S. Huang: Multimodal Temporal Pattern Mining. ICPR 2002:465-472
+307	EE	Ashutosh Garg, Shivani Agarwal, Thomas S. Huang: Fusion of Global and Local Information for Object Detection. ICPR 2002:723-
+306	EE	Xiang Sean Zhou, Thomas S. Huang: Unifying Keywords and Visual Contents in Image Retrieval. IEEE MultiMedia (IEEEMM) 9(2):23-33 (2002)
+305	EE	Nevenka Dimitrova, HongJiang Zhang, Behzad Shahraray, M. Ibrahim Sezan, Thomas S. Huang, Avideh Zakhor: Applications of Video-Content Analysis and Retrieval. IEEE MultiMedia (IEEEMM) 9(3):42-55 (2002)
+304	EE	Ziyou Xiong, Thomas S. Huang: Boosting Speech/Non-speech Classification Using Averaged Mel-Frequency Cepstrum Coefficients Features. IEEE Pacific Rim Conference on Multimedia 2002:573-580
+303	EE	Milind R. Naphade, Igor Kozintsev, Thomas S. Huang: Factor graph framework for semantic video indexing. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 12(1):40-52 (2002)
+302	EE	Milind R. Naphade, Thomas S. Huang: Extracting semantics from audio-visual content: the final frontier in multimedia retrieval. IEEE Transactions on Neural Networks (TNN) 13(4):793-810 (2002)
+301	EE	Pengyu Hong, Zhen Wen, Thomas S. Huang: Real-time speech-driven face animation with expressions using neural networks. IEEE Transactions on Neural Networks (TNN) 13(4):916-927 (2002)
+300	EE	Ying Wu, Thomas S. Huang: Nonstationary color tracking for vision-based human-computer interaction. IEEE Transactions on Neural Networks (TNN) 13(4):948-960 (2002)
+299	EE	William H. Sanders, Constantine D. Polychronopoulos, Thomas S. Huang, Tod Courtney, David Daly, Daniel D. Deavours, Salem Derisavi: Overview: An Integrated Framework for Performance Engineering and Resource-Aware Compilation. IPDPS 2002
+298	EE	Xiang Sean Zhou, Thomas S. Huang: Relevance feedback in content-based image retrieval: some recent advances. Inf. Sci. (ISCI) 148(1-4):129-137 (2002)
+297	EE	Hai Tao, Thomas S. Huang: Visual Estimation and Compression of Facial Motion Parameters-Elements of a 3D Model-Based Video Coding System. International Journal of Computer Vision (IJCV) 50(2):111-125 (2002)
+296	   	Thomas S. Huang, Xiang Sean Zhou: Relevance Feedback in Content-Based Image Retrieval: Some Recent Advances. JCIS 2002:15-18
+295	EE	Xiaoyun Zhang, Yuncai Liu, Thomas S. Huang: Determining 3D Structure and Motion of Man-Made Objects from Image Corners. SSIAI 2002:26-30
+294	EE	Ziyou Xiong, Thomas S. Huang: Block-Based, Memory-Efficient JPEG2000 Images Indexing in Compressed-Domain. SSIAI 2002:92-95
+293	EE	Ziyou Xiong, Thomas S. Huang: Subband-Based, Memory-Efficient JPEG2000 Images Indexing in Compressed-Domain. SSIAI 2002:290-294
+292	   	Qiang Cheng, Ruoyu Roy Wang, Thomas S. Huang: Framework for digital video watermarking with dual watermarks. VCIP 2002:513-520
+291	EE	Munehiro Nakazato, Lubomir Manola, Thomas S. Huang: ImageGrouper: Search, Annotate and Organize Images by Groups. VISUAL 2002:129-142
+2001
+290	EE	Xiang Sean Zhou, Thomas S. Huang: Comparing discriminating transformations and SVM for learning during multimedia retrieval. ACM Multimedia 2001:137-146
+289	EE	Qiang Cheng, Thomas S. Huang: An image watermarking technique using pyramid transform. ACM Multimedia 2001:319-328
+288	EE	Milind R. Naphade, Roy Wang, Thomas S. Huang: Supporting audiovisual query using dynamic programming. ACM Multimedia 2001:411-420
+287	EE	Pengyu Hong, Zhen Wen, Thomas S. Huang: An integrated framework for face modeling, facial motion analysis and synthesis. ACM Multimedia 2001:495-498
+286	EE	Xiang Sean Zhou, Thomas S. Huang: Small Sample Learning during Multimedia Retrieval using BiasMap. CVPR 2001:11-17
+285	EE	Yunqiang Chen, Yong Rui, Thomas S. Huang: JPDAF Based HMM or Real-Time Contour Tracking. CVPR 2001:543-550
+284	EE	Nemanja Petrovic, Ira Cohen, Brendan J. Frey, Ralf Koetter, Thomas S. Huang: Enforcing Integrability for Surface Reconstruction Algorithms Using Belief Propagation in Graphical Models. CVPR 2001:743-748
+283	EE	Ying Wu, Zhengyou Zhang, Thomas S. Huang, John Y. Lin: Multibody Grouping via Orthogonal Subspace Decomposition. CVPR 2001:252-257
+282	EE	Pengyu Hong, Thomas S. Huang: Spatial pattern discovering by learning the isomorphic subgraph from multiple attributed relation graphs. Electr. Notes Theor. Comput. Sci. (ENTCS) 46:113-132 (2001)
+281	   	Ying Wu, Thomas S. Huang: A Co-inference Approach to Robust Visual Tracking. ICCV 2001:26-33
+280	   	Ying Wu, Thomas S. Huang, Kentaro Toyama: Self-Supervised Learning for Object Recognition based on Kernel Discriminant-EM Algorithm. ICCV 2001:275-280
+279	   	Ying Wu, John Y. Lin, Thomas S. Huang: Capturing Natural Hand Articulation. ICCV 2001:426-432
+278	EE	Yunqiang Chen, Xiang Sean Zhou, Thomas S. Huang: One-class SVM for learning in image retrieval. ICIP 2001:34-37
+277	EE	Xiang Sean Zhou, Baback Moghaddam, Thomas S. Huang: ICA-based probabilistic local appearance models. ICIP 2001:161-164
+276	EE	Yunqiang Chen, Thomas S. Huang: Hierarchical MRF model for model-based multi-object tracking. ICIP 2001:385-388
+275	EE	Ruoyu Roy Wang, Yunqiang Chen, Thomas S. Huang: Basis pursuit for tracking. ICIP 2001:401-404
+274	EE	Yunqiang Chen, Thomas S. Huang, Yong Rui: Optimal radial contour tracking by dynamic programming. ICIP 2001:626-629
+273	EE	Qiang Cheng, Thomas S. Huang: Optimum detection of robust perceptual-model-based image-adaptive watermarks. ICIP 2001:490-493
+272	EE	Xiang Sean Zhou, Thomas S. Huang: Image retrieval with relevance feedback: from heuristic weight adjustment to optimal learning methods. ICIP 2001:2-5
+271	EE	Milind R. Naphade, Thomas S. Huang: Recognizing high-level audio-visual concepts using context. ICIP 2001:46-49
+270	EE	Munehiro Nakazato, Thomas S. Huang: 3d Mars: Immersive Virtual Reality for Content-Based Image Retrieval. ICME 2001
+269	EE	Milind R. Naphade, Roy Wang, Thomas S. Huang: Classifying Motion Picture Soundtrack For Video Indexing. ICME 2001
+268	EE	Qiang Cheng, Thomas S. Huang, Hao Pan: Combined Audio And Videowatermarking Using Mel-Frequency Cepstra. ICME 2001
+267	EE	Milind R. Naphade, Ashutosh Garg, Thomas S. Huang: Duration Dependent Input Output Markov Models For Audio-Visual Event Detection. ICME 2001
+266	EE	Qiang Cheng, Thomas S. Huang: Optimum Detection of Multiplicative Watermarks using Locally Optimum Decision Rule. ICME 2001
+265	EE	Zhen Wen, Pengyu Hong, Thomas S. Huang: Real Time Speech Driven Facial Animation Using Formant Analysis. ICME 2001
+264	EE	Baback Moghaddam, Qi Tian, Thomas S. Huang: Spatial Visualization For Content-Based Image Retrieval. ICME 2001
+263	EE	Qiong Liu, Thomas S. Huang, Ying Wu, Stephen E. Levinson: Spoken Language Acquisition Via Human-Robot Interaction. ICME 2001
+262	EE	Milind R. Naphade, Thomas S. Huang: A probabilistic framework for semantic video indexing, filtering, and retrieval. IEEE Transactions on Multimedia (TMM) 3(1):141-151 (2001)
+261	EE	Qiang Cheng, Thomas S. Huang: An additive approach to transform-domain information hiding and optimum detection structure. IEEE Transactions on Multimedia (TMM) 3(3):273-284 (2001)
+260	EE	Milind R. Naphade, Thomas S. Huang: Detecting Semantic Concepts Using Context and Audiovisual Features. IEEE Workshop on Detection and Recognition of Events in Video 2001:92-98
+259	EE	Pengyu Hong, Zhen Wen, Thomas S. Huang: iFACE: A 3D Synthetic Talking Face. Int. J. Image Graphics (IJIG) 1(1):19-26 (2001)
+258	EE	Qi Tian, Nicu Sebe, Michael S. Lew, Etienne Loupias, Thomas S. Huang: Image retrieval using wavelet-based salient points. J. Electronic Imaging (JEI) 10(4):835-849 (2001)
+257	EE	Milind R. Naphade, Ruoyu Roy Wang, Thomas S. Huang: Audio-visual query and retrieval: A system that uses dynamic programming and relevance feedback. J. Electronic Imaging (JEI) 10(4):861-870 (2001)
+256	EE	Qi Tian, Baback Moghaddam, Thomas S. Huang: Display Optimization for Image Browsing. MDIC 2001:167-178
+255	EE	Ying Wu, Thomas S. Huang: Towards Self-Exploring Discriminating Features. MLDM 2001:263-277
+254	EE	Roy Wang, Milind R. Naphade, Thomas S. Huang: Video retrieval and relevance feedback in the context of a post-integration model. MMSP 2001:33-38
+253	EE	Alfred M. Bruckstein, Robert J. Holt, Thomas S. Huang, Arun N. Netravali: Trifocal tensors for weak perspective and paraperspective projections. Pattern Recognition (PR) 34(2):395-404 (2001)
+252	   	Xiang Sean Zhou, Thomas S. Huang: Edge-based structural features for content-based image retrieval. Pattern Recognition Letters (PRL) 22(5):457-468 (2001)
+251	EE	Hao Pan, Zhi-Pei Liang, Thomas S. Huang: Estimation of the joint probability of multisensory signals. Pattern Recognition Letters (PRL) 22(13):1431-1437 (2001)
+250	EE	Michael S. Lew, Thomas S. Huang: Visual Information Retrieval: Paradigms, Applications, and Research Issues. Principles of Visual Information Retrieval 2001:3-10
+249	EE	Yong Rui, Thomas S. Huang: Relevance Feedback Techniques in Image Retrieval. Principles of Visual Information Retrieval 2001:219-258
+248	EE	Milind R. Naphade, Ruoyu Roy Wang, Thomas S. Huang: Multimodal pattern matching for audio-visual query and retrieval. Storage and Retrieval for Media Databases 2001:188-195
+247	EE	Milind R. Naphade, Thomas S. Huang: Semantic filtering of video content. Storage and Retrieval for Media Databases 2001:270-279
+246	EE	Qi Tian, Nicu Sebe, Michael S. Lew, Etienne Loupias, Thomas S. Huang: Content-based image retrieval using wavelet-based salient points. Storage and Retrieval for Media Databases 2001:425-436
+245	   	Reinhard Klette, Thomas S. Huang, Georgy L. Gimel'farb: Multi-Image Analysis, 10th International Workshop on Theoretical Foundations of Computer Vision Dagstuhl Castle, Germany, March 12-17, 2000, Revised Papers Theoretical Foundations of Computer Vision 2001
+2000
+244	EE	Ying Wu, Thomas S. Huang: Self-Supervised Learning for Visual Tracking and Recognition of Human Hand. AAAI/IAAI 2000:243-248
+243	EE	Roy Wang, Qiang Cheng, Thomas S. Huang: Identify Regions of Interest(ROI) for video watermark embedment with Principle Component Analysis. ACM Multimedia 2000:459-461
+242	EE	Pengyu Hong, Thomas S. Huang, Roy Wang: Learning Patterns from Images by Combining Soft Decisions and Hard Decisions. CVPR 2000:1078-
+241	EE	Ying Wu, Thomas S. Huang: Color Tracking by Transductive Learning. CVPR 2000:1133-1138
+240	EE	Ying Wu, Qi Tian, Thomas S. Huang: Discriminant-EM Algorithm with Application to Image Retrieval. CVPR 2000:1222-1227
+239	EE	Yong Rui, Thomas S. Huang: Optimizing Learning in Image Retrieval. CVPR 2000:1236-
+238	EE	Nebojsa Jojic, Nemanja Petrovic, Thomas S. Huang, Brendan J. Frey: Transformed Hidden Markov Models: Estimating Mixture Models of Images and Inferring Spatial Transformations in Video Sequence. CVPR 2000:2026-2033
+237	EE	Vladimir Pavlovic, James M. Rehg, Ashutosh Garg, Thomas S. Huang: Multimodal Speaker Detection Using Error Feedback Dynamic Bayesian Networks. CVPR 2000:2034-
+236	EE	Michael S. Lew, Nicu Sebe, Thomas S. Huang: Improving Visual Matching. CVPR 2000:2058-2065
+235	EE	Ying Wu, Thomas S. Huang: View-Independent Recognition of Hand Postures. CVPR 2000:2088-2094
+234	EE	Pengyu Hong, Thomas S. Huang, Matthew Turk: Gesture Modeling and Recognition Using Finite State Machines. FG 2000:410-415
+233	EE	Nebojsa Jojic, Thomas S. Huang, Barry Brumitt, Brian Meyers, Steve Harris: Detection and Estimation of Pointing Gestures in Dense Disparity Maps. FG 2000:468-475
+232	EE	Milind R. Naphade, Thomas S. Huang: Multimedia Understanding: Challenges in the New Millennium. ICIP 2000:33-37
+231	EE	Hao Pan, Zhi-Pei Liang, Thomas S. Huang: Fusing Audio and Visual Features of Speech. ICIP 2000:214-217
+230	EE	Qiang Cheng, Thomas S. Huang: A DCT-Domain Blind Watermarking System Using Optimum Detection on Laplacian Model. ICIP 2000:454-457
+229	EE	Qi Tian, Ying Wu, Thomas S. Huang: Combine User Defined Region-of-Interest and Spatial Layout for Image Retrieval. ICIP 2000:746-749
+228	EE	Pengyu Hong, Qi Tian, Thomas S. Huang: Incorporate Support Vector Machines to Content-Based Image Retrieval with Relevant Feedback. ICIP 2000:750-753
+227	EE	Milind R. Naphade, Thomas S. Huang: Inferring Semantic Concepts for Video Indexing and Retrieval. ICIP 2000:766-769
+226	EE	Ying Wu, Qi Tian, Thomas S. Huang: Integrating Unlabeled Images for Image Retrieval Based on Relevance Feedback. ICPR 2000:1021-1024
+225	EE	Roy Wang, Pengyu Hong, Thomas S. Huang: Memory-Based Moving Object Extraction for Video Indexing. ICPR 2000:1811-1814
+224	EE	Milind R. Naphade, Lawrence S. Chen, Thomas S. Huang, Brendan J. Frey: Learning Sparse Multiple Cause Models. ICPR 2000:2642-2647
+223	EE	Pengyu Hong, Thomas S. Huang: Learning to Extract Temporal Signal Patterns from Temporal Signal Sequence. ICPR 2000:2648-2651
+222	EE	Milind R. Naphade, Thomas S. Huang: Semantic Video Indexing Using a Probabilistic Framework. ICPR 2000:3083-3088
+221	EE	Pengyu Hong, Thomas S. Huang, Matthew Turk: Constructing Finite State Machines for Fast Gesture Recognition. ICPR 2000:3695-3698
+220	EE	Xiang Sean Zhou, Thomas S. Huang: Image Representation and Retrieval Using Structural Features. ICPR 2000:5039-5042
+219	EE	Ira Cohen, Ashutosh Garg, Thomas S. Huang: Vision-Based Overhead View Person Recognition. ICPR 2000:5119-5124
+218	EE	Rajeev Sharma, Michael Zeller, Vladimir Pavlovic, Thomas S. Huang, Zion Lo, Stephen M. Chu, Yunxin Zhao, James C. Phillips, Klaus Schulten: Speech/Gesture Interface to a Visual-Computing Environment. IEEE Computer Graphics and Applications (CGA) 20(2):29-37 (2000)
+217	   	Qi Tian, Ying Wu, Thomas S. Huang: Incorporate Discriminant Analysis with EM Algorithm in Image Retrieval. IEEE International Conference on Multimedia and Expo (I) 2000:299-302
+216	   	Trausti T. Kristjansson, Brendan J. Frey, Thomas S. Huang: Event-Coupled Hidden Markov Models. IEEE International Conference on Multimedia and Expo (I) 2000:385-388
+215	   	Qiang Cheng, Thomas S. Huang: Blind Digital Watermarking for Images and Videos and Performance Analysis. IEEE International Conference on Multimedia and Expo (I) 2000:389-392
+214	   	Lawrence S. Chen, Thomas S. Huang: Emotional Expressions in Audiovisual Human Computer Interaction. IEEE International Conference on Multimedia and Expo (I) 2000:423-426
+213	   	Milind R. Naphade, Thomas S. Huang: A Probabilistic Framework for Semantic Indexing and Retrieval in Video. IEEE International Conference on Multimedia and Expo (I) 2000:475-478
+212	   	You Zhang, Stephen E. Levinson, Thomas S. Huang: Speaker Independent Audio-Visual Speech Recognition. IEEE International Conference on Multimedia and Expo (II) 2000:1073-1076
+211	   	Hao Pan, Zhi-Pei Liang, Thomas S. Huang: A New Approach to Integrate Audio and Visual Features of Speech. IEEE International Conference on Multimedia and Expo (II) 2000:1093-1096
+210	   	Qi Tian, Pengyu Hong, Thomas S. Huang: Update Relevant Image Weights for Content-Based Image Retrieval using Support Vector Machines. IEEE International Conference on Multimedia and Expo (II) 2000:1199-1202
+209	EE	B. S. Manjunath, Thomas S. Huang, A. Murat Tekalp, HongJiang Zhang: Guest editorial introduction to the special issue on image and video processing for digital libraries. IEEE Transactions on Image Processing (TIP) 9(1):1-2 (2000)
+208	EE	Stephen M. Chu, Thomas S. Huang: Automatic head gesture learning and synthesis from prosodic cues. INTERSPEECH 2000:637-640
+207	EE	Stephen M. Chu, Thomas S. Huang: Bimodal speech recognition using coupled hidden Markov models. INTERSPEECH 2000:747-750
+206	EE	Alfred M. Bruckstein, Robert J. Holt, Thomas S. Huang, Arun N. Netravali: New Devices for 3D Pose Estimation: Mantis Eyes, Agam Paintings, Sundials, and Other Space Fiducials. International Journal of Computer Vision (IJCV) 39(2):131-139 (2000)
+205	EE	Yunqiang Chen, Thomas S. Huang: Motion Segmentation and Tracking by Embedding Global Model Within a Contextual Relaxation Scheme. MVA 2000:455-458
+204	EE	Milind R. Naphade, Igor Kozintsev, Thomas S. Huang: Probabilistic Semantic Video Indexing. NIPS 2000:967-973
+203	EE	Milind R. Naphade, Thomas S. Huang: Stochastic modeling of soundtrack for efficient segmentation and indexing of video. Storage and Retrieval for Media Databases 2000:168-176
+202	EE	John Y. Lin, Ying Wu, Thomas S. Huang: Modeling the Constraints of Human Hand Motion. Workshop on Human Motion 2000:121-126
+1999
+201	EE	Yong Rui, Thomas S. Huang: A novel relevance feedback technique in image retrieval. ACM Multimedia 1999:67-70
+200	EE	Michael S. Lew, Thomas S. Huang: Optimal Multi-Scale Matching. CVPR 1999:1088-1093
+199	EE	Antonio Colmenarez, Brendan J. Frey, Thomas S. Huang: A Probabilistic Framework for Embedded Face and Facial Expression Recognition. CVPR 1999:1592-1597
+198	EE	Hai Tao, Thomas S. Huang: Explanation-Based Facial Motion Tracking Using a Piecewise Bézier Volume Deformation Model. CVPR 1999:1611-1617
+197	EE	Hao Pan, Zhi-Pei Liang, Thomas S. Huang: Exploiting the Dependencies in Information Fusion. CVPR 1999:2407-2412
+196	EE	Vladimir Pavlovic, Brendan J. Frey, Thomas S. Huang: Time-Series Classification Using Mixed-State Dynamic Bayesian Networks. CVPR 1999:2609-
+195	EE	Ying Wu, Thomas S. Huang: Vision-Based Gesture Recognition: A Review. Gesture Workshop 1999:103-115
+194	EE	Alfred M. Bruckstein, Robert J. Holt, Thomas S. Huang, Arun N. Netravali: Optimum Fiducials under Weak Perspective Projection. ICCV 1999:67-72
+193	EE	Nebojsa Jojic, Matthew Turk, Thomas S. Huang: Tracking Self-Occluding Articulated Objects in Dense Disparity Maps. ICCV 1999:123-130
+192	EE	Ying Wu, Thomas S. Huang: Capturing Articulated Human Hand Motion: A Divide-and-Conquer Approach. ICCV 1999:606-611
+191	EE	Antonio Colmenarez, Brendan J. Frey, Thomas S. Huang: Embedded Face and Facial Expression Recognition. ICIP 1999:633-637
+190	EE	Pengyu Hong, Thomas S. Huang: Natural Mouse; A Novel Human Computer Interface. ICIP 1999:653-656
+189	EE	Antonio Colmenarez, Brendan J. Frey, Thomas S. Huang: Detection and Tracking of Faces and Facial Features. ICIP 1999:657-661
+188	EE	Xiang Sean Zhou, Yong Rui, Thomas S. Huang: Water-Filling: A Novel Way for Image Structural Feature Extraction. ICIP 1999:570-574
+187	EE	Ying Wu, Thomas S. Huang: Human Hand Modeling, Analysis, and Animation in the Context of HCI. ICIP 1999:6-10
+186	EE	Roy Wang, Thomas S. Huang: Fast Camera Motion Analysis in Mpeg Domain. ICIP 1999:691-694
+185	EE	Qiong Liu, Yong Rui, Thomas S. Huang, Stephen E. Levinson: Video Sequence Learning and Recognition Via Dynamic Som. ICIP 1999:93-97
+184	EE	Trausti T. Kristjansson, Thomas S. Huang, P. Ramesh, B. H. Juang: A Unified Structure-Based Framework for Indexing and Gisting of Meetings. ICMCS, Vol. 2 1999:572-577
+183	EE	Yong Rui, Xiang Sean Zhou, Thomas S. Huang: Efficient Access to Video Content in a Unified Framework. ICMCS, Vol. 2 1999:735-740
+182	EE	Hai Tao, Homer H. Chen, Wei Wu, Thomas S. Huang: Compression of MPEG-4 facial animation parameters for transmission of talking heads. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 9(2):264-276 (1999)
+181	EE	Nebojsa Jojic, Jin Gu, Helen C. Shen, Thomas S. Huang: Computer modeling, analysis, and synthesis of dressed humans. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 9(2):378-388 (1999)
+180	EE	Alfred M. Bruckstein, Robert J. Holt, Thomas S. Huang, Arun N. Netravali: Optimum Fiducials Under Weak Perspective Projection. International Journal of Computer Vision (IJCV) 35(3):223-244 (1999)
+179	EE	Yueting Zhuang, Yong Rui, Thomas S. Huang: Video key frame extraction by unsupervised clustering and feedback adjustment. J. Comput. Sci. Technol. (JCST) 14(3):283-287 (1999)
+178	EE	Yong Rui, Thomas S. Huang, Shih-Fu Chang: Image Retrieval: Current Techniques, Promising Directions, and Open Issues. J. Visual Communication and Image Representation (JVCIR) 10(1):39-62 (1999)
+177	EE	Yong Rui, Michael Ortega, Thomas S. Huang, Sharad Mehrotra: Information Retrieval Beyond the Text Document. Library Trends (LIBT) 48(2) (1999)
+176	EE	Yong Rui, Thomas S. Huang, Sharad Mehrotra: Constructing Table-of-Content for Videos. Multimedia Syst. (MMS) 7(5):359-368 (1999)
+175	EE	Vladimir Pavlovic, Brendan J. Frey, Thomas S. Huang: Variational Learning in Mixed-State Dynamic Graphical Models. UAI 1999:522-530
+1998
+174	EE	Nebojsa Jojic, Jin Gu, Helen C. Shen, Thomas S. Huang: 3-D Reconstruction of Multipart Self-Occluding Objects. ACCV 1998:455-462
+173	EE	Nebojsa Jojic, Thomas S. Huang: On Analysis of Cloth Drape Range Data. ACCV 1998:463-470
+172	EE	Hai Tao, Thomas S. Huang: Bézier Volume Deformation Model for Facial Animation and Video Tracking. CAPTECH 1998:242-253
+171	EE	Brendan J. Frey, Antonio Colmenarez, Thomas S. Huang: Mixtures of Local Linear Subspaces for Face Recognition. CVPR 1998:32-37
+170	EE	Nebojsa Jojic, Jin Gu, Ivan Mak, Helen C. Shen, Thomas S. Huang: Computer Modeling, Analysis and Synthesis of Dressed Humans. CVPR 1998:528-534
+169	EE	Hai Tao, Thomas S. Huang: Connected Vibrations: A Modal Analysis Approach for Non-Rigid Motion Tracking. CVPR 1998:735-740
+168	   	Hai Tao, Ricardo Lopez, Thomas S. Huang: Tracking Facial Features Using Probabilistic Network. FG 1998:166-170
+167	   	Lawrence S. Chen, Thomas S. Huang, Tsutomu Miyasato, Ryohei Nakatsu: Multimodal Human Emotion/Expression Recognition. FG 1998:366-371
+166	EE	Mohammad Gharavi-Alkhansari, Thomas S. Huang: A fast orthogonal matching pursuit algorithm. ICASSP 1998:1389-1392
+165	EE	Yong Rui, Thomas S. Huang, Shih-Fu Chang: Digital image/video library and MPEG-7: standardization and research issues. ICASSP 1998:3785-3788
+164	EE	Hao Pan, Zhi-Pei Liang, Thomas J. Anastasio, Thomas S. Huang: A Hybrid NN-Bayesian Architecture for Information Fusion. ICIP 1998:368-371
+163	EE	Yueting Zhuang, Yong Rui, Thomas S. Huang, Sharad Mehrotra: Adaptive Key Frame Extraction using Unsupervised Clustering. ICIP 1998:866-870
+162	EE	Milind R. Naphade, Rajiv Mehrotra, A. Müfit Ferman, Jim Warnick, Thomas S. Huang, A. Murat Tekalp: A High-Performance Shot Boundary Detection Algorithm using Multiple Cues. ICIP 1998:884-887
+161	   	Hai Tao, Thomas S. Huang: Deriving Facial Articulation Models from Image Sequences. ICIP 1998:158-162
+160	   	Milind R. Naphade, Trausti T. Kristjansson, Brendan J. Frey, Thomas S. Huang: Probabalistic Multimedia Objects (Multijects): A Novel Approach to Video Indexing and Retrieval in Multimedia Systems. ICIP 1998:536-540
+159	   	Yi Kang, Josep Torrellas, Thomas S. Huang: Use IRAM for Rasterization. ICIP 1998:1010-1013
+158	EE	Yong Rui, Thomas S. Huang, Sharad Mehrotra: Exploring Video Structure Beyond the Shots. ICMCS 1998:237-240
+157	EE	Antonio Colmenarez, Thomas S. Huang: Pattern detection with information-based maximum discrimination and error bootstrapping. ICPR 1998:222-224
+156	EE	Alfred M. Bruckstein, Robert J. Holt, Thomas S. Huang, Arun N. Netravali: New devices for 3D pose estimation: mantis eyes, Agann paintings, sundials, and other space fiducials. ICPR 1998:305-309
+155	EE	Qiong Liu, Charissa Lansing, Thomas S. Huang: Facial motion tracking from fine to coarse. ICPR 1998:725-727
+154	EE	Yi Kang, Josep Torrellas, Thomas S. Huang: An IRAM architecture for image analysis and pattern recognition. ICPR 1998:1561-1564
+153	EE	Yong Rui, Thomas S. Huang, Michael Ortega, Sharad Mehrotra: Relevance feedback: a power tool for interactive content-based image retrieval. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 8(5):644-655 (1998)
+152	EE	Michael Ortega, Yong Rui, Kaushik Chakrabarti, Kriengkrai Porkaew, Sharad Mehrotra, Thomas S. Huang: Supporting Ranked Boolean Similarity Queries in MARS. IEEE Trans. Knowl. Data Eng. (TKDE) 10(6):905-925 (1998)
+151	EE	Jialin Zhong, Thomas S. Huang, Ronald J. Adrian: Extracting 3D Vortices in Turbulent Fluid Flow. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 20(2):193-199 (1998)
+150	EE	Mohammad Gharavi-Alkhansari, Thomas S. Huang: Causal fractal compression of video sequences using matching pursuit. Int. J. Imaging Systems and Technology (IMST) 9(5):305-319 (1998)
+149	EE	Yong Rui, Thomas S. Huang, Sharad Mehrotra: Browsing and retrieving video content in a unified framework. MMSP 1998:9-14
+148	EE	Michael T. Chan, You Zhang, Thomas S. Huang: Real-time lip tracking and bimodal continuous speech recognition. MMSP 1998:65-70
+147	EE	Lawrence S. Chen, Hai Tao, Thomas S. Huang, Tsutomu Miyasato, Ryohei Nakatsu: Emotion recognition from audiovisual information. MMSP 1998:83-88
+146	EE	Pengyu Hong, Thomas S. Huang, Xueyin Lin: Mouth motion learning and generating from observation. MMSP 1998:415-420
+145	   	Yong Rui, Thomas S. Huang, Sharad Mehrotra: Relevance Feedback Techniques in Interactive Content-Based Image Retrieval. Storage and Retrieval for Image and Video Databases (SPIE) 1998:25-36
+144	EE	Jörn Ostermann, Lawrence S. Chen, Thomas S. Huang: Animated Talking Head with Personalized 3D Head Model. VLSI Signal Processing (VLSISP) 20(1-2):97-105 (1998)
+143	EE	Sergio D. Servetto, Yong Rui, Kannan Ramchandran, Thomas S. Huang: A Region-Based Representation of Images in MARS. VLSI Signal Processing (VLSISP) 20(1-2):137-150 (1998)
+1997
+142	EE	Michael Ortega, Yong Rui, Kaushik Chakrabarti, Sharad Mehrotra, Thomas S. Huang: Supporting Similarity Queries in MARS. ACM Multimedia 1997:403-413
+141	EE	Michael Zeller, James C. Phillips, Andrew Dalke, William Humphrey, Klaus Schulten, Thomas S. Huang, Vladimir Pavlovic, Yunxin Zhao, Zion Lo, Stephen M. Chu, Rajeev Sharma: A Visual Computing Environment for Very Large Scale Biomolecular Modeling. ASAP 1997:3-
+140	EE	Richard J. Qian, Thomas S. Huang: Object Detection Using Hierarchical MRF and MAP Estimation. CVPR 1997:186-192
+139	EE	Antonio Colmenarez, Thomas S. Huang: Face Detection With Information-Based Maximum Discrimination. CVPR 1997:782-787
+138	EE	Mohammad Gharavi-Alkhansari, Thomas S. Huang: A system/graph theoretical analysis of attractor coders. ICASSP 1997:2705-2708
+137	EE	Michael S. Lew, Michel R. V. Chaudron, Nies Huijsmans, Alfred C. She, Thomas S. Huang: Convergence of Model Based Shape from Shading. ICIAP 1997:582-587
+136	EE	Vladimir Pavlovic, G. A. Berry, Thomas S. Huang: Integration of Audio/Visual Information for Use in Human-Computer Intelligent Interaction. ICIP 1997:121-124
+135	EE	Scott P. Oswald, Kannan Ramchandran, Thomas S. Huang: Efficient Terrain Data Representation for 3D Rendering Using the Generalized BFOS Algorithm. ICIP 1997:448-451
+134	EE	Hai Tao, Thomas S. Huang: Color Image Edge Detection Using Cluster Analysis. ICIP 1997:834-836
+133	EE	Yong Rui, Thomas S. Huang, Sharad Mehrotra: Content-Based Image Retrieval with Relevance Feedback in MARS. ICIP 1997:815-818
+132	EE	Zhi-Pei Liang, Hao Pan, Richard L. Magin, Narendra Ahuja, Thomas S. Huang: Automated registration of multimodality images by maximization of a region similarity measure. ICIP 1997:272-275
+131	EE	Sharad Mehrotra, Yong Rui, Michael Ortega, Thomas S. Huang: Supporting Content-based Queries over Images in MARS. ICMCS 1997:632-633
+130	EE	Jiebo Luo, Chang Wen Chen, Kevin J. Parker, Thomas S. Huang: A scene adaptive and signal adaptive quantization for subband image and video compression using wavelets. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 7(2):343-357 (1997)
+129	EE	Vladimir Pavlovic, Rajeev Sharma, Thomas S. Huang: Visual Interpretation of Hand Gestures for Human-Computer Interaction: A Review. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 19(7):677-695 (1997)
+128	EE	Zhi-Pei Liang, Hao Pan, Richard L. Magin, Narendra Ahuja, Thomas S. Huang: Automated image registration by maximization of a region similarity metric. Int. J. Imaging Systems and Technology (IMST) 8(6):513-518 (1997)
+127	EE	John (Juyang) Weng, Narendra Ahuja, Thomas S. Huang: Learning Recognition and Segmentation Using the Cresceptron. International Journal of Computer Vision (IJCV) 25(2):109-143 (1997)
+126	EE	Mohammad Gharavi-Alkhansari, Thomas S. Huang: A Generalized Method for Image Coding Using Fractal-Based Techniques. J. Visual Communication and Image Representation (JVCIR) 8(2):208-225 (1997)
+125	EE	Thomas S. Huang, Christopher P. Hess, Hao Pan, Zhi-Pei Liang: A neuronet approach to information fusion. MMSP 1997:45-50
+124	EE	Hai Tao, Homer H. Chen, Thomas S. Huang: Analysis and compression of facial animation parameter set (FAPs). MMSP 1997:245-250
+123	EE	Lawrence S. Chen, Thomas S. Huang, Jörn Ostermann: Animated talking head with personalized 3D head model. MMSP 1997:274-279
+122	EE	Sergio D. Servetto, Kannan Ramchandran, Thomas S. Huang: A successively refinable wavelet-based representation for content-based image retrieval. MMSP 1997:325-330
+121	EE	Robert J. Holt, Thomas S. Huang, Arun N. Netravali, Richard J. Qian: Determining articulated motion from perspective views: A decomposition approach. Pattern Recognition (PR) 30(9):1435-1449 (1997)
+1996
+120	   	Thomas S. Huang, Sharad Mehrotra, Kannan Ramchandran: Multimedia Analysis and Retrieval System (MARS) Project. Data Processing Clinic 1996:0-
+119	EE	Vladimir Pavlovic, Rajeev Sharma, Thomas S. Huang: Invited Speech: "Gestural Interface to a visual computing Environment for Molecular biologists". FG 1996:30-37
+118	EE	Antonio Colmenarez, Thomas S. Huang: Maximum Likelihood Face Detection. FG 1996:307-311
+117	EE	Yong Rui, Alfred C. She, Thomas S. Huang: Automated region segmentation using attraction-based grouping in spatial-color-texture space. ICIP 1996:53-56
+116	EE	Mohammad Gharavi-Alkhansari, Thomas S. Huang: Fractal video coding by matching pursuit. ICIP 1996:157-160
+115	EE	Hai Tao, Thomas S. Huang: Multi-scale image warping using weighted Voronoi diagram. ICIP 1996:241-244
+114	EE	Li-an Tang, Thomas S. Huang: Automatic construction of 3D human face models based on 2D images. ICIP 1996:467-470
+113	EE	Li-an Tang, Thomas S. Huang: Characterizing smiles in the context of video phone data compression. ICPR 1996:659-663
+112	EE	Rajeev Sharma, Thomas S. Huang, Vladimir I. Pavlovic, Yunxin Zhao, Zion Lo, Stephen M. Chu, Klaus Schulten: Speech/gesture interface to a visual computing environment for molecular biologists. ICPR 1996:964-968
+111	EE	Robert J. Holt, Thomas S. Huang, Arun N. Netravali: Algebraic methods for image processing and computer vision. IEEE Transactions on Image Processing (TIP) 5(6):976-986 (1996)
+110	EE	Richard J. Qian, Thomas S. Huang: Optimal edge detection in two-dimensional images. IEEE Transactions on Image Processing (TIP) 5(7):1215-1220 (1996)
+109	EE	Jiebo Luo, Chang Wen Chen, Kevin J. Parker, Thomas S. Huang: Artifact reduction in low bit rate DCT-based image compression. IEEE Transactions on Image Processing (TIP) 5(9):1363-1368 (1996)
+108	EE	Thomas S. Huang, Li-an Tang: 3-D Face Modeling and Its Applications. IJPRAI 10(5):491-520 (1996)
+1995
+107	EE	Thomas S. Huang, Ricardo Lopez: Computer Vision in Next Generation Image and Video Coding. ACCV 1995:13-21
+106	EE	Michael S. Lew, Alfred C. She, Thomas S. Huang: Intermediate Views for Face Recognition. CAIP 1995:138-145
+105	EE	Ricardo Lopez, Thomas S. Huang: Head Pose Computation for Very Low Bit-rate Video Coding. CAIP 1995:440-447
+104	EE	Y. Zhang, Thomas S. Huang, Ronald J. Adrian: Reconstruction of vector field in fluid measurement. ICASSP 1995:2615-2618
+103	EE	James J. Kuch, Thomas S. Huang: Vision Based Hand Modeling and Tracking for Virtual Teleconferencing and Telecollaboration. ICCV 1995:666-671
+102	EE	Jiebo Luo, Chang Wen Chen, Kevin J. Parker, Thomas S. Huang: Adaptive quantization with spatial constraints in subband video compression using wavelets. ICIP 1995:594-597
+101	EE	Ricardo Lopez, Thomas S. Huang: 3D head pose computation from 2D images: templates versus features. ICIP 1995:599-602
+100	EE	Thang C. Nguyen, Thomas S. Huang: New robust image operators and applications in automatic facial feature analysis. ICIP 1995:524-527
+99	EE	Thomas S. Huang, Li-an Tang: 3D Model-Based Video Coding: Computer Vision Meets Computer Graphics. ICSC 1995:1-8
+98	EE	Thomas S. Huang, Alfred M. Bruckstein, Robert J. Holt, Arun N. Netravali: Uniqueness of 3D Pose Under Weak Perspective: A Geometrical Proof. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 17(12):1220-1221 (1995)
+1994
+97	EE	Jialin Zhong, Thomas S. Huang, Ronald J. Adrian: Salient structure analysis of fluid flow. CVPR 1994:310-315
+96	EE	Jiebo Luo, Chang Wen Chen, Kevin J. Parker, Thomas S. Huang: A new method for block effect removal in low bit-rate image compression. ICASSP 1994:341-344
+95	EE	Li-an Tang, Thomas S. Huang: An Efficient Hidden-Line Removal Method Based on Z-Buffer Algorithm. ICIP 1994:657-660
+94	EE	Michael S. Lew, Thomas S. Huang: Image Compression and Matching. ICIP 1994:720-724
+93	EE	Li-an Tang, Thomas S. Huang: Analysis-Based Facial Expression Synthesis. ICIP 1994:98-102
+92	EE	Mohammad Gharavi-Alkhansari, Thomas S. Huang: Fractal-Based Techniques for a Generalized Image Coding Method. ICIP 1994:122-126
+91	EE	Jiebo Luo, Chang Wen Chen, Kevin J. Parker, Thomas S. Huang: Three Dimensional Subband Video Analysis and Synthesis with Adaptive Clustering in High Frequency Subbands. ICIP 1994:255-259
+90	EE	Chang Wen Chen, Jiebo Luo, Kevin J. Parker, Thomas S. Huang: A Knowledge-Based Approach to Volumetric Medical Image Segmentation. ICIP 1994:493-497
+89	EE	Alfred C. She, Thomas S. Huang: Segmentation of Road Scenes Using Color and Fractal-Based Texture Classification. ICIP 1994:1026-1030
+88	EE	Chang Wen Chen, Thomas S. Huang, Matthew Arrott: Modeling, Analysis, and Visualization of Left Ventricle Shape and Motion by Hierarchical Decomposition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 16(4):342-356 (1994)
+87	EE	Michael S. Lew, Thomas S. Huang, Kam Wong: Learning and Feature Selection in Stereo Matching. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 16(9):869-881 (1994)
+86	EE	James J. Kuch, Thomas S. Huang: Virtual Gun, A Vision Based Human Computer Interface Using the Human Hand. MVA 1994:196-199
+85	EE	Guangzheng Yang, Thomas S. Huang: Human face detection in a complex background. Pattern Recognition (PR) 27(1):53-63 (1994)
+1993
+84	EE	Guangzheng Yang, Thomas S. Huang: Finding Human Faces in a Picture. CAIP 1993:766-769
+83	EE	Guangzheng Yang, Thomas S. Huang: Human face detection in a scene. CVPR 1993:453-458
+82	EE	John (Juyang) Weng, Narendra Ahuja, Thomas S. Huang: Learning recognition and segmentation of 3-D objects from 2-D images. ICCV 1993:121-128
+81	EE	Benjamin W. Wah, Thomas S. Huang, Aravind K. Joshi, Dan I. Moldovan, Yiannis Aloimonos, Ruzena Bajcsy, Dana H. Ballard, Doug DeGroot, Kenneth DeJong, Charles R. Dyer, Scott E. Fahlman, Ralph Grishman, Lynette Hirschman, Richard E. Korf, Stephen E. Levinson, Daniel P. Miranker, N. H. Morgan, Sergei Nirenburg, Tomaso Poggio, Edward M. Riseman, Craig Stanfil, Salvatore J. Stolfo, Steven L. Tanimoto, Charles C. Weems: Report on Workshop on High Performance Computing and Communications for Grand Challenge Applications: Computer Vision, Speech and Natural Language Processing, and Artificial Intelligence. IEEE Trans. Knowl. Data Eng. (TKDE) 5(1):138-154 (1993)
+80	EE	Thomas S. Huang, Peter Stucki: Introduction to the Special Section on 3-D Modeling in Image Analysis. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 15(6):529-530 (1993)
+79	EE	Yuncai Liu, Thomas S. Huang: Vehicle-Type Motion Estimation From Multi-Frame Images. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 15(8):802-808 (1993)
+78	EE	Juyang Weng, Narendra Ahuja, Thomas S. Huang: Optimal Motion and Structure Estimation. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 15(9):864-884 (1993)
+1992
+77	EE	Thang C. Nguyen, Thomas S. Huang: Image Blurring Effects Due to Depth Discontinuities: Blurring that Creates Emergent Image Details. ECCV 1992:347-362
+76	EE	Juyang Weng, Thomas S. Huang, Narendra Ahuja: Object Recognition by a Self-Organizing Neural Network which Grows Adaptively. ICPIA 1992:32-33
+75	EE	Juyang Weng, Thomas S. Huang, Narendra Ahuja: Motion and Structure from Line Correspondences; Closed-Form Solution, Uniqueness, and Optimization. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 14(3):318-336 (1992)
+74	EE	Juyang Weng, Narendra Ahuja, Thomas S. Huang: Matching Two Perspective Views. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 14(8):806-825 (1992)
+73	EE	Thang C. Nguyen, Thomas S. Huang: Image blurring effects due to depth discontinuities: blurring that creates emergent image details. Image Vision Comput. (IVC) 10(10):689-698 (1992)
+72	EE	Mun K. Leung, Thomas S. Huang: Estimating three-dimensional vehicle motion in an outdoor scene using stereo image sequences. Int. J. Imaging Systems and Technology (IMST) 4(2):80-97 (1992)
+71	EE	Sanjoy K. Mishra, Chandra Kambhamettu, Dmitry B. Goldgof, Thomas S. Huang: Curvature-based nonrigid motion analysis from three-dimensional correspondences. Int. J. Imaging Systems and Technology (IMST) 4(3):214-225 (1992)
+70	EE	Dmitry B. Goldgof, Hua Lee, Thomas S. Huang: Matching and motion estimation of three-dimensional point and line sets using eigenstructure without correspondences. Pattern Recognition (PR) 25(3):271-286 (1992)
+69	EE	Yuncai Liu, Thomas S. Huang: Three-dimensional motion determination from real scene images using straight line correspondences. Pattern Recognition (PR) 25(6):617-639 (1992)
+1991
+68	EE	Homer H. Chen, Thomas S. Huang: Using Motion from Orthographic Views to Verify 3-D Point Matches. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 13(9):872-878 (1991)
+67	EE	Mun K. Leung, Thomas S. Huang: An Integrated Approach to 3D Motion Analysis and Object Recognition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 13(10):1075-1084 (1991)
+66	EE	Steven D. Blostein, Thomas S. Huang: Detecting small, moving objects in image sequences using sequential hypothesis testing. IEEE Transactions on Signal Processing (TSP) 39(7):1611-1629 (1991)
+65	EE	Juyang Weng, Narendra Ahuja, Thomas S. Huang: Motion and structure from point correspondences with error estimation: planar surfaces. IEEE Transactions on Signal Processing (TSP) 39(12):2691-2717 (1991)
+64	EE	Xinhua Zhuang, Yunxin Zhao, Thomas S. Huang: A neural net algorithm for multidimensional maximum entropy spectrum estimation. Neural Networks (NN) 4(5):619-626 (1991)
+63	EE	Yuncai Liu, Thomas S. Huang: Determining straight line correspondences from intensity images. Pattern Recognition (PR) 24(6):489-504 (1991)
+62	EE	Mun K. Leung, Thomas S. Huang: Detecting the wheel pattern of a vehicle using stereo images. Pattern Recognition (PR) 24(12):1139-1151 (1991)
+1990
+61	   	Thomas S. Huang: Computer Vision. Advances in Computer Graphics 1990:141-173
+60	EE	Chia-Hoang Lee, Thomas S. Huang: Finding point correspondence and determining motion of a rigid object from two weak perspective views. Computer Vision, Graphics, and Image Processing (CVGIP) 52(3):309-327 (1990)
+59	   	Chia-Hoang Lee, Thomas S. Huang: Finding point correspondences and determining motion of a rigid object from two weak perspective views. Computer Vision, Graphics, and Image Processing (CVGIP) 51(3):371 (1990)
+58	EE	Chang Wen Chen, Thomas S. Huang: Epicardial motion and deformation estimation from coronary artery bifurcation points. ICCV 1990:456-459
+57	EE	Yuncai Liu, Thomas S. Huang, Olivier D. Faugeras: Determination of Camera Location from 2-D to 3-D Line and Point Correspondences. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 12(1):28-37 (1990)
+56	EE	Homer H. Chen, Thomas S. Huang: Matching 3-D Line Segments with Applications to Multiple-Object Motion Estimation. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 12(10):1002-1008 (1990)
+1989
+55	EE	Juyang Weng, Thomas S. Huang, Narendra Ahuja: Motion and Structure From Two Perspective Views: Algorithms, Error Analysis, and Error Estimation. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 11(5):451-476 (1989)
+54	EE	Thomas S. Huang, C. H. Lee: Motion and Structure from Orthographic Projections. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 11(5):536-540 (1989)
+53	EE	Jorge L. C. Sanz, Thomas S. Huang: Image Representation by Sign Information. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 11(7):729-738 (1989)
+52	EE	Dmitry B. Goldgof, Thomas S. Huang, Hua Lee: A Curvature-Based Approach to Terrain Recognition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 11(11):1213-1217 (1989)
+51	EE	Thomas S. Huang, Olivier D. Faugeras: Some Properties of the E Matrix in Two-View Motion Estimation. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 11(12):1310-1312 (1989)
+1988
+50	EE	Yuncai Liu, Thomas S. Huang: A linear algorithm for motion estimation using straight line correspondences. Computer Vision, Graphics, and Image Processing (CVGIP) 44(1):35-57 (1988)
+49	EE	Yuncai Liu, Thomas S. Huang: Estimation of rigid body motion using straight line correspondences. Computer Vision, Graphics, and Image Processing (CVGIP) 43(1):37-52 (1988)
+48	EE	Xinhua Zhuang, Thomas S. Huang, Narendra Ahuja, Robert M. Haralick: A simplified linear optic flow-motion algorithm. Computer Vision, Graphics, and Image Processing (CVGIP) 42(3):334-344 (1988)
+47	EE	Homer H. Chen, Thomas S. Huang: A survey of construction and manipulation of octrees. Computer Vision, Graphics, and Image Processing (CVGIP) 43(3):409-431 (1988)
+46	EE	Juyang Weng, Narendra Ahuja, Thomas S. Huang: Two-view Matching. ICCV 1988:64-73
+45	EE	Xinhua Zhuang, Thomas S. Huang, Robert M. Haralick: A simple procedure to solve motion and structure from three orthographic views. IEEE J. Rob. Autom. (TROB) 4(2):236-239 (1988)
+44	EE	Steven D. Blostein, Thomas S. Huang: Correction to "Error Analysis in Stereo Determination of 3-D Point Positions". IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 10(5):765 (1988)
+43	EE	Homer H. Chen, Thomas S. Huang: Maximal matching of 3-D points for multiple-object motion estimation. Pattern Recognition (PR) 21(2):75-90 (1988)
+42	EE	Thomas S. Huang, Y. S. Shim: Linear Algorithm for Motion Estimation: How to Handle Degenerate Cases. Pattern Recognition 1988:439-447
+1987
+41	   	Thomas S. Huang: Dynamic Scene Analysis and Motion Estimation. ASST 1987:64-72
+40	EE	Alan Conrad Bovik, Thomas S. Huang, David C. Munson: The Effect of Median Filtering on Edge Estimation and Detection. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 9(2):181-194 (1987)
+39	EE	Juyang Weng, Thomas S. Huang, Narendra Ahuja: 3-D Motion Estimation, Understanding, and Prediction from Noisy Image Sequences. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 9(3):370-389 (1987)
+38	EE	W. K. Gu, J. Y. Yang, Thomas S. Huang: Matching Perspective Views of a Polyhedron Using Circuits. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 9(3):390-400 (1987)
+37	EE	K. S. Arun, Thomas S. Huang, Steven D. Blostein: Least-Squares Fitting of Two 3-D Point Sets. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 9(5):698-700 (1987)
+36	EE	Steven D. Blostein, Thomas S. Huang: Error Analysis in Stereo Determination of 3-D Point Positions. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 9(6):752-765 (1987)
+35	EE	Toshifumi Tsukiyama, Thomas S. Huang: Motion stereo for navigation of autonomous vehicles in man-made environments. Pattern Recognition (PR) 20(1):105-113 (1987)
+34	EE	Jean-Pierre Gambotto, Thomas S. Huang: Motion analysis of isolated targets in infrared image sequences. Pattern Recognition Letters (PRL) 5(5):357-363 (1987)
+1986
+33	EE	Alan C. Bovik, Thomas S. Huang, David C. Munson: Nonparametric tests for edge detection in noise. Pattern Recognition (PR) 19(3):209-219 (1986)
+1985
+32	EE	W. K. Gu, Thomas S. Huang: Connected Line Drawing Extraction from a Perspective View of a Polyhedron. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 7(4):422-430 (1985)
+1984
+31	EE	Jia-Qi Fang, Thomas S. Huang: Solving three-dimensional small-rotation motion equations: Uniqueness, algorithms, and numerical results. Computer Vision, Graphics, and Image Processing (CVGIP) 26(2):183-206 (1984)
+30	EE	Irwin Scollar, Bernd Weidner, Thomas S. Huang: Image enhancement using the median and the interquartile distance. Computer Vision, Graphics, and Image Processing (CVGIP) 25(2):236-251 (1984)
+29	EE	B. L. Yen, Thomas S. Huang: Solving for 3D motion parameters of a rigid body by a vector geometrical approach: Uniqueness and numerical results. ICASSP 1984:267-270
+28	EE	Jorge L. C. Sanz, Thomas S. Huang: Band-limited signal extrapolation in the presence of noise. ICASSP 1984:638-641
+27	EE	Roger Y. Tsai, Thomas S. Huang: Uniqueness and Estimation of Three-Dimensional Motion Parameters of Rigid Objects with Curved Surfaces. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 6(1):13-27 (1984)
+26	EE	Jia-Qi Fang, Thomas S. Huang: Some Experiments on Estimating the 3-D Motion Parameters of a Rigid Body from Two Consecutive Image Frames. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 6(5):545-554 (1984)
+25	EE	J. K. Cheng, Thomas S. Huang: Image registration by matching relational structures. Pattern Recognition (PR) 17(1):149-159 (1984)
+1983
+24	   	Jia-Qi Fang, Thomas S. Huang: Solving three-dimensional small-rotation motion equations: Uniqueness, algorithms, and numerical results. Computer Vision, Graphics, and Image Processing (CVGIP) 22(2):310 (1983)
+23	EE	B. L. Yen, Thomas S. Huang: Determining 3-D motion and structure of a rigid body using straight line correspondences. ICASSP 1983:118-121
+22	EE	Alan C. Bovik, Thomas S. Huang, David C. Munson Jr.: Image restoration using order-constrained least-squares methods. ICASSP 1983:828-831
+21	EE	Irwin Scollar, Thomas S. Huang, Bernd Weidner: Image enhancement using the median and the interquartile distance. ICASSP 1983:836-839
+20	   	Jia-Qi Fang, Thomas S. Huang: Estimating 3-0 Movement of a Rigid Object: Experimental Results. IJCAI 1983:1035-1037
+19	EE	Thomas S. Huang, Roger Y. Tsai, J. K. Cheng, L. M. Buckler, H. A. Johnson: Toward automatic undersea search using pattern recognition techniques. Pattern Recognition (PR) 16(3):307-318 (1983)
+1982
+18	EE	Jia-Qi Fang, Thomas S. Huang: A Corner Finding Algorithm for Image Analysis and Registration. AAAI 1982:46-49
+17	EE	Thomas S. Huang, Y. P. Hsu, Roger Y. Tsai: Interframe coding with general two-dimensional motion compensation. ICASSP 1982:464-466
+16	EE	Roger Y. Tsai, Thomas S. Huang: Uniqueness and estimation of three-dimensional motion parameters of a rigid planar patch from three perspective views. ICASSP 1982:834-838
+15	EE	D. Hayner, S. Renjen, Thomas S. Huang, W. Kenneth Jenkins: Algorithms and experimental results on image reconstruction from limited data. ICASSP 1982:1557-1560
+14	EE	Alan C. Bovik, Thomas S. Huang, David C. Munson Jr.: Nonlinear filtering using linear combinations of order statistics. ICASSP 1982:2067-2070
+1981
+13	EE	Thomas S. Huang, Roger Y. Tsai: Three-dimensional motion estimation from image-space shifts. ICASSP 1981:1136-1139
+12	EE	J. K. Cheng, Thomas S. Huang: A subgraph isomorphism algorithm using resolution. Pattern Recognition (PR) 13(5):371-379 (1981)
+1980
+11	EE	Roger Y. Tsai, Thomas S. Huang: Moving image restoration and registration. ICASSP 1980:418-421
+10	EE	Gregory Y. Tang, Thomas S. Huang: Using the creation machine to locate airplanes on aerial photos. Pattern Recognition (PR) 12(6):431-441 (1980)
+1979
+9	EE	Gregory Y. Tang, Thomas S. Huang: A Syntactic-Semantic Approach to Image Understanding and Creation. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 1(2):135-144 (1979)
+1977
+8	   	Thomas S. Huang, Irwin Scollar, Bernd Weidner, G. Tang: An installation for interactive transfer of information from oblique aerial photos to maps. Digital Image Processing 1977:198-211
+1975
+7	EE	Thomas S. Huang: Bounds on the bit rate of linear runlength codes (Corresp.). IEEE Transactions on Information Theory (TIT) 21(6):707-708 (1975)
+1974
+6	EE	Thomas S. Huang: An upper bound on the entropy of run-length coding (Corresp.). IEEE Transactions on Information Theory (TIT) 20(5):675-676 (1974)
+1971
+5	EE	Grant B. Anderson, Thomas S. Huang: Frequency-domain image errors. Pattern Recognition (PR) 3(2):185-192 (1971)
+1970
+4	   	Thomas S. Huang: Introduction to the special issue on image enhancement. Pattern Recognition (PR) 2(2):67-68 (1970)
+1969
+3	EE	Grant B. Anderson, Thomas S. Huang: Errors in frequency-domain processing of images. AFIPS Spring Joint Computing Conference 1969:173-185
+[more]
+Hits 1 - 817 of 819 for author:thomas_s_huang: (PageUp  / PageDown  for next/previous hits)

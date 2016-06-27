@@ -1,0 +1,588 @@
+
+NOTE: The DBLP search has moved
+CompleteSearch DBLP has moved to the new domain www.dblp.org. Please update any links or bookmarks you might have set accordingly. The pages under www. informatik.uni-trier.de will eventually be moved there, too. There will be a separate notification about that.
+dblp.uni-trier.de
+CompleteSearch DBLP
+
+Feedback     Help a DBLP mirror with extended search capabilities maintained by Hannah Bast, University of Freiburg (formerly MPII Saarbrücken)
+ 
+zoomed in on 515 documents ... NEW: get these search results as XML, JSON, JSONP
+
+Refine by WORD
+Rama Chellappa, the AUTHOR(515)
+
+Refine by AUTHOR
+Rama Chellappa(515)
+Vishal M. Patel(44)
+Pavan K. Turaga(33)
+Shaohua Kevin Zhou(33)
+[top 4] [top 50] [top 250]
+
+Refine by VENUE
+ICIP(63)
+ICASSP(61)
+IEEE Trans. Pattern Anal. Mach. Intell. (PAMI)(53)
+IEEE Transactions on Image Processing (TIP)(47)
+[top 4] [top 50] [all 90]
+
+Refine by YEAR
+2015(1)
+2014(27)
+2013(30)
+2012(31)
+[top 4] [all 35]
+
+Refine by TYPE
+Conference(298)
+Journal(206)
+CoRR(8)
+Book(2)
+[top 4] [all 5]
+2015
+515	EE	Nazre Batool, Rama Chellappa: Fast detection of facial wrinkles based on Gabor features using image morphology and geometric constraints. Pattern Recognition (PR) 48(3):642-658 (2015)
+2014
+514	EE	Ming Du, Rama Chellappa: Video-Based Face Recognition Using the Intra-Personal/Extra-Personal Difference Dictionary. BMVC 2014
+513	EE	Raviteja Vemulapalli, Felipe Arrate, Rama Chellappa: Human Action Recognition by Representing 3D Skeletons as Points in a Lie Group. CVPR 2014:588-595
+512	EE	Garrett A. Warnell, Sourabh Bhattacharya, Rama Chellappa, Tamer Basar: Adaptive-Rate Compressive Sensing Using Side Information. CoRR abs/1401.0583 (2014)
+511	EE	Raviteja Vemulapalli, Vinay Praneeth Boda, Rama Chellappa: MKL-RT: Multiple Kernel Learning for Ratio-trace Problems via Convex Optimization. CoRR abs/1410.4470 (2014)
+510	EE	Rama Chellappa, Pavan K. Turaga: Feature Selection. Computer Vision, A Reference Guide 2014:291-294
+509	EE	Kota Hara, Rama Chellappa: Growing Regression Forests by Classification: Applications to Object Pose Estimation. ECCV 2014:552-567
+508	EE	Xavier Gibert, Vishal M. Patel, Demetrio Labate, Rama Chellappa: Discrete shearlet transform on GPU with applications in anomaly detection and denoising. EURASIP J. Adv. Sig. Proc. (EJASP) 2014:64 (2014)
+507	EE	Chan-Su Lee, Rama Chellappa: Sparse localized facial motion dictionary learning for facial expression recognition. ICASSP 2014:3548-3552
+506	EE	Ching-Hui Chen, Julien Favre, Gregorij Kurillo, Thomas P. Andriacchi, Ruzena Bajcsy, Rama Chellappa: Camera Networks for Healthcare, Teleimmersion, and Surveillance. IEEE Computer (COMPUTER) 47(5):26-36 (2014)
+505	EE	Vishal M. Patel, Glenn R. Easley, Rama Chellappa, Nasser M. Nasrabadi: Separated Component-Based Restoration of Speckled SAR Images. IEEE T. Geoscience and Remote Sensing (TGRS) 52(2):1019-1029 (2014)
+504	EE	Jaishanker K. Pillai, Maria Puertas, Rama Chellappa: Cross-Sensor Iris Recognition through Kernel Learning. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 36(1):73-85 (2014)
+503	EE	Ming-Yu Liu, Oncel Tuzel, Srikumar Ramalingam, Rama Chellappa: Entropy-Rate Clustering: Cluster Analysis via Maximizing a Submodular Function Subject to a Matroid Constraint. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 36(1):99-112 (2014)
+502	EE	Sumit Shekhar, Vishal M. Patel, Nasser M. Nasrabadi, Rama Chellappa: Joint Sparse Representation for Robust Multimodal Biometrics Recognition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 36(1):113-126 (2014)
+501	EE	Qiang Qiu, Vishal M. Patel, Rama Chellappa: Information-Theoretic Dictionary Learning for Image Classification. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 36(11):2173-2184 (2014)
+500	EE	Raghuraman Gopalan, Ruonan Li, Rama Chellappa: Unsupervised Adaptation Across Domain Shifts by Generating Intermediate Data Representations. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 36(11):2288-2302 (2014)
+499	EE	Ming Du, Aswin C. Sankaranarayanan, Rama Chellappa: Robust Face Recognition From Multi-View Videos. IEEE Transactions on Image Processing (TIP) 23(3):1105-1117 (2014)
+498	EE	Ashish Shrivastava, Vishal M. Patel, Ramalingam Chellappa: Multiple Kernel Learning for Sparse Representation-Based Classification. IEEE Transactions on Image Processing (TIP) 23(7):3013-3024 (2014)
+497	EE	Sima Taheri, Qiang Qiu, Rama Chellappa: Structure-Preserving Sparse Decomposition for Facial Expression Analysis. IEEE Transactions on Image Processing (TIP) 23(8):3590-3603 (2014)
+496	EE	Nazre Batool, Rama Chellappa: Detection and Inpainting of Facial Wrinkles Using Texture Orientation Fields and Markov Random Field Modeling. IEEE Transactions on Image Processing (TIP) 23(9):3773-3788 (2014)
+495	EE	Yi-Chen Chen, Vishal M. Patel, Rama Chellappa, P. Jonathon Phillips: Ambiguously Labeled Learning Using Dictionaries. IEEE Transactions on Information Forensics and Security (TIFS) 9(12):2076-2088 (2014)
+494	EE	David A. Shaw, Rama Chellappa: Domain adaptation methods for robust pattern recognition. ITA 2014:1-7
+493	EE	Dong Xu, Rama Chellappa, Trevor Darrell, Hal Daumé III: Guest Editor's Introduction to the Special Issue on Domain Adaptation for Vision Applications. International Journal of Computer Vision (IJCV) 109(1-2):1-2 (2014)
+492	EE	Jingjing Zheng, Zhuolin Jiang, Rama Chellappa, P. Jonathon Phillips: Submodular Attribute Selection for Action Recognition in Video. NIPS 2014:1341-1349
+491	EE	Ruonan Li, Pavan K. Turaga, Anuj Srivastava, Rama Chellappa: Differential geometric representations and algorithms for some pattern recognition and computer vision problems. Pattern Recognition Letters (PRL) 43:3-16 (2014)
+490	EE	Mohammed E. Fathy, Vishal M. Patel, Tom Yeh, Yangmuzi Zhang, Rama Chellappa, Larry S. Davis: Screen-based active user authentication. Pattern Recognition Letters (PRL) 42:122-127 (2014)
+489	EE	Qiang Qiu, Jie Ni, Rama Chellappa: Dictionary-Based Domain Adaptation Methods for the Re-identification of Faces. Person Re-Identification 2014:269-285
+488	EE	Yi-Chen Chen, Vishal M. Patel, Rama Chellappa, P. Jonathon Phillips: Adaptive representations for video-based face recognition across pose. WACV 2014:984-991
+2013
+487	EE	Yi-Chen Chen, Vishal M. Patel, Jaishanker K. Pillai, Rama Chellappa, P. Jonathon Phillips: Dictionary Learning from Ambiguously Labeled Data. CVPR 2013:353-360
+486	EE	Sumit Shekhar, Vishal M. Patel, Hien Van Nguyen, Rama Chellappa: Generalized Domain-Adaptive Dictionaries. CVPR 2013:361-368
+485	EE	Jie Ni, Qiang Qiu, Rama Chellappa: Subspace Interpolation via Dictionary Learning for Unsupervised Domain Adaptation. CVPR 2013:692-699
+484	EE	Raviteja Vemulapalli, Jaishanker K. Pillai, Rama Chellappa: Kernel Learning for Extrinsic Classification of Manifold Features. CVPR 2013:1782-1789
+483	EE	Kota Hara, Rama Chellappa: Computationally Efficient Regression on a Dependency Graph for Human Pose Estimation. CVPR 2013:3390-3397
+482	EE	Qiang Qiu, Rama Chellappa: Compositional Dictionaries for Domain Adaptive Face Recognition. CoRR abs/1308.0271 (2013)
+481	EE	Kota Hara, Rama Chellappa: K-ary Regression Forests for Continuous Pose and Direction Estimation. CoRR abs/1312.6430 (2013)
+480	EE	Qiang Qiu, Zhuolin Jiang, Rama Chellappa: Sparse Dictionary-based Attributes for Action Recognition and Summarization. CoRR abs/1308.0290 (2013)
+479	EE	Rama Chellappa, Baba C. Vemuri: Special Section in Celebration of Professor J.K. Aggarwal. Computer Vision and Image Understanding (CVIU) 117(10):1203 (2013)
+478	EE	Yi-Chen Chen, Vishal M. Patel, Sumit Shekhar, Rama Chellappa, P. Jonathon Phillips: Video-based face recognition via joint sparse representation. FG 2013:1-8
+477	EE	Nazre Batool, Sima Taheri, Rama Chellappa: Assessment of facial wrinkles as a soft biometrics. FG 2013:1-7
+476	EE	Jaishanker K. Pillai, Vishal M. Patel, Rama Chellappa, Nalini K. Ratha: Robust and Secure Iris Recognition. Handbook of Iris Recognition 2013:183-204
+475	EE	Ruonan Li, Rama Chellappa: Spatiotemporal Alignment of Visual Signals on a Special Manifold. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 35(3):697-715 (2013)
+474	EE	Sima Taheri, Aswin C. Sankaranarayanan, Rama Chellappa: Joint Albedo Estimation and Pose Tracking from Video. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 35(7):1674-1689 (2013)
+473	EE	Priyanka Vageeswaran, Kaushik Mitra, Rama Chellappa: Blur and Illumination Robust Face Recognition via Set-Theoretic Characterization. IEEE Transactions on Image Processing (TIP) 22(4):1362-1372 (2013)
+472	EE	Huy Tho Ho, Rama Chellappa: Pose-Invariant Face Recognition Using Markov Random Fields. IEEE Transactions on Image Processing (TIP) 22(4):1573-1584 (2013)
+471	EE	Wilman W. W. Zou, Pong C. Yuen, Rama Chellappa: Low-Resolution Face Tracker Robust to Illumination Variations. IEEE Transactions on Image Processing (TIP) 22(5):1726-1739 (2013)
+470	EE	Yi-Chen Chen, Challa S. Sastry, Vishal M. Patel, P. Jonathon Phillips, Rama Chellappa: In-Plane Rotation and Scale Invariant Clustering Using Dictionaries. IEEE Transactions on Image Processing (TIP) 22(6):2166-2180 (2013)
+469	EE	Channarayapatna Shivaram Vijay, Chandramouli Paramanand, Ambasamudram Narayanan Rajagopalan, Rama Chellappa: Non-Uniform Deblurring in HDR Image Reconstruction. IEEE Transactions on Image Processing (TIP) 22(10):3739-3750 (2013)
+468	EE	Hien Van Nguyen, Vishal M. Patel, Nasser M. Nasrabadi, Rama Chellappa: Design of Non-Linear Kernel Dictionaries for Object Recognition. IEEE Transactions on Image Processing (TIP) 22(12):5123-5135 (2013)
+467	EE	Noboru Babaguchi, Andrea Cavallaro, Rama Chellappa, Frédéric Dufaux, Liang Wang: Guest Editorial: Special issue on intelligent video surveillance for public security and personal privacy. IEEE Transactions on Information Forensics and Security (TIFS) 8(10):1559-1561 (2013)
+466	EE	Kaushik Mitra, Ashok Veeraraghavan, Rama Chellappa: Analysis of Sparse Regularization Based Robust Regression Approaches. IEEE Transactions on Signal Processing (TSP) 61(5):1249-1257 (2013)
+465	EE	Vishal M. Patel, Tom Yeh, Mohammed E. Fathy, Yangmuzi Zhang, Yan Chen, Rama Chellappa, Larry S. Davis: Screen Fingerprints: A Novel Modality for Active Authentication. IT Professional (ITPRO) 15(4):38-42 (2013)
+464	EE	Vishal M. Patel, Qiang Qiu, Rama Chellappa: Dictionaries for image-based recognition. ITA 2013:1-8
+463	EE	Ruonan Li, Rama Chellappa, Shaohua Kevin Zhou: Recognizing Interactive Group Activities Using Temporal Interaction Matrices and Their Riemannian Statistics. International Journal of Computer Vision (IJCV) 101(2):305-328 (2013)
+462	EE	Venkatesh Saligrama, Ery Arias-Castro, Rama Chellappa, Alfred O. Hero, Robert Nowak, Venugopal V. Veeravalli: Introduction to the issue on anomalous pattern discovery for spatial, temporal, networked, and high-dimensional signals. J. Sel. Topics Signal Processing (JSTSP) 7(1):1-3 (2013)
+461	EE	Aswin C. Sankaranarayanan, Pavan K. Turaga, Rama Chellappa, Richard G. Baraniuk: Compressive Acquisition of Linear Dynamical Systems. SIAM J. Imaging Sciences (SIAMIS) 6(4):2109-2133 (2013)
+460	EE	Vishal M. Patel, Rama Chellappa: Sparse Representations and Compressive Sensing for Imaging and Vision Springer 2013
+459	EE	David A. Shaw, Rama Chellappa: Regression on manifolds using data-dependent regularization with applications in computer vision. Statistical Analysis and Data Mining (SADM) 6(6):519-528 (2013)
+458	EE	Sima Taheri, Vishal M. Patel, Rama Chellappa: Component-Based Recognition of Facesand Facial Expressions. T. Affective Computing (TAFFCO) 4(4):360-371 (2013)
+2012
+457	EE	Ashish Shrivastava, Hien Van Nguyen, Vishal M. Patel, Rama Chellappa: Design of Non-Linear Discriminative Dictionaries for Image Classification. ACCV 2012:660-674
+456	EE	Jingjing Zheng, Zhuolin Jiang, P. Jonathon Phillips, Rama Chellappa: Cross-View Action Recognition via a Transferable Dictionary Pair. BMVC 2012:1-11
+455	EE	Qiang Qiu, Rama Chellappa: A Unified Approach for Modeling and Recognition of Individual Actions and Group Activities CoRR abs/1208.4398 (2012)
+454	EE	Aswin C. Sankaranarayanan, Pavan K. Turaga, Rama Chellappa, Richard G. Baraniuk: Compressive Acquisition of Dynamic Scenes CoRR abs/1201.4895 (2012)
+453	EE	Qiang Qiu, Vishal M. Patel, Rama Chellappa: Information-theoretic Dictionary Learning for Image Classification CoRR abs/1208.3687 (2012)
+452	EE	Qiang Qiu, Vishal M. Patel, Pavan K. Turaga, Rama Chellappa: Domain Adaptive Dictionary Learning. ECCV 2012:631-645
+451	EE	Tao Wu, Rama Chellappa: Age Invariant Face Verification with Relative Craniofacial Growth Model. ECCV 2012:58-71
+450	EE	Hien Van Nguyen, Vishal M. Patel, Nasser M. Nasrabadi, Rama Chellappa: Sparse Embedding: A Framework for Sparsity Promoting Dimensionality Reduction. ECCV 2012:414-427
+449	EE	Yi-Chen Chen, Vishal M. Patel, P. Jonathon Phillips, Rama Chellappa: Dictionary-Based Face Recognition from Video. ECCV 2012:766-779
+448	EE	Ming Du, Rama Chellappa: Face Association across Unconstrained Video Frames Using Conditional Random Fields. ECCV 2012:167-180
+447	EE	Nazre Batool, Rama Chellappa: Modeling and Detection of Wrinkles in Aging Human Faces Using Marked Point Processes. ECCV Workshops 2012:178-188
+446	EE	Sumit Shekhar, Vishal M. Patel, Nasser M. Nasrabadi, Rama Chellappa: Joint Sparsity-Based Robust Multimodal Biometrics Recognition. ECCV Workshops 2012:365-374
+445	EE	Ming-Yu Liu, Oncel Tuzel, Ashok Veeraraghavan, Yuichi Taguchi, Tim K. Marks, Rama Chellappa: Fast object localization and pose estimation in heavy clutter for robotic bin picking. I. J. Robotic Res. (IJRR) 31(8):951-973 (2012)
+444	EE	Yi-Chen Chen, Challa S. Sastry, Vishal M. Patel, P. Jonathon Phillips, Rama Chellappa: Rotation invariant simultaneous clustering and dictionary learning. ICASSP 2012:1053-1056
+443	EE	Garrett A. Warnell, Dikpal Reddy, Rama Chellappa: Adaptive rate compressive sensing for background subtraction. ICASSP 2012:1477-1480
+442	EE	Pavleen Thukral, Kaushik Mitra, Rama Chellappa: A hierarchical approach for human age estimation. ICASSP 2012:1529-1532
+441	EE	Hien Van Nguyen, Vishal M. Patel, Nasser M. Nasrabadi, Rama Chellappa: Kernel dictionary learning. ICASSP 2012:2021-2024
+440	EE	Nitesh Shroff, Ashok Veeraraghavan, Yuichi Taguchi, Oncel Tuzel, Amit K. Agrawal, Rama Chellappa: Variable focus video: Reconstructing depth and video for dynamic scenes. ICCP 2012:1-9
+439	EE	Huy Tho Ho, Rama Chellappa: Automatic head pose estimation using randomly projected dense SIFT descriptors. ICIP 2012:153-156
+438	EE	Yi-Chen Chen, Vishal M. Patel, Rama Chellappa, P. Jonathon Phillips: Salient view selection based on sparse representation. ICIP 2012:649-652
+437	EE	Nazre Batool, Rama Chellappa: A Markov Point Process model for wrinkles in human faces. ICIP 2012:1809-1812
+436	EE	Ashish Shrivastava, Jaishanker K. Pillai, Vishal M. Patel, Rama Chellappa: Learning discriminative dictionaries with partially labeled data. ICIP 2012:3113-3116
+435	EE	Jingjing Zheng, Ming-Yu Liu, Rama Chellappa, P. Jonathon Phillips: A Grassmann manifold-based domain adaptation approach. ICPR 2012:2095-2099
+434	EE	Raghuraman Gopalan, Sima Taheri, Pavan K. Turaga, Rama Chellappa: A Blur-Robust Descriptor with Applications to Face Recognition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 34(6):1220-1226 (2012)
+433	EE	Vishal M. Patel, Ray Maleh, Anna C. Gilbert, Rama Chellappa: Gradient-Based Image Recovery Methods From Incomplete Fourier Measurements. IEEE Transactions on Image Processing (TIP) 21(1):94-105 (2012)
+432	EE	Vishal M. Patel, Tao Wu, Soma Biswas, P. Jonathon Phillips, Rama Chellappa: Dictionary-Based Face Recognition Under Variable Lighting and Pose. IEEE Transactions on Information Forensics and Security (TIFS) 7(3):954-965 (2012)
+431	EE	Tao Wu, Pavan K. Turaga, Rama Chellappa: Age Estimation and Face Verification Across Aging Using Landmarks. IEEE Transactions on Information Forensics and Security (TIFS) 7(6):1780-1788 (2012)
+430	EE	Raghuraman Gopalan, Tsai Hong, Michael Shneier, Ramalingam Chellappa: A Learning Approach Towards Detection and Tracking of Lane Markings. IEEE Transactions on Intelligent Transportation Systems (TITS) 13(3):1088-1098 (2012)
+429	EE	Rama Chellappa: Introduction. Image Vision Comput. (IVC) 30(6-7):379 (2012)
+428	EE	Rama Chellappa: Mathematical statistics and computer vision. Image Vision Comput. (IVC) 30(8):467-468 (2012)
+427	EE	Rama Chellappa, Jie Ni, Vishal M. Patel: Remote identification of faces: Problems, prospects, and progress. Pattern Recognition Letters (PRL) 33(14):1849-1859 (2012)
+2011
+426	EE	Vishal M. Patel, Ramalingam Chellappa: Sparse Representations, Compressive Sensing and dictionaries for pattern recognition. ACPR 2011:325-329
+425	EE	Rama Chellappa, Pavan K. Turaga: Advances in Video-Based Biometrics. Advances in Computers (AC) 83:183-203 (2011)
+424	EE	Dikpal Reddy, Ashok Veeraraghavan, Rama Chellappa: P2C2: Programmable pixel compressive camera for high speed imaging. CVPR 2011:329-336
+423	EE	Ming-Yu Liu, Oncel Tuzel, Srikumar Ramalingam, Rama Chellappa: Entropy rate superpixel segmentation. CVPR 2011:2097-2104
+422	EE	Mohamed F. Abdelkader, Wael Abd-Almageed, Anuj Srivastava, Rama Chellappa: Silhouette-based gesture and action recognition via modeling trajectories on Riemannian shape manifolds. Computer Vision and Image Understanding (CVIU) 115(3):439-455 (2011)
+421	EE	Soma Biswas, Rama Chellappa: Face Recognition from Still Images and Video. Encyclopedia of Cryptography and Security (2nd Ed.) 2011:437-444
+420	EE	Rama Chellappa, Pavan K. Turaga: Recent advances in age and height estimation from still images and video. FG 2011:91-96
+419	EE	Sima Taheri, Pavan K. Turaga, Rama Chellappa: Towards view-invariant expression analysis using analytic shape manifolds. FG 2011:306-313
+418	EE	Rama Chellappa, Ming Du, Pavan K. Turaga, Shaohua Kevin Zhou: Face Tracking and Recognition in Video. Handbook of Face Recognition 2011:323-351
+417	EE	Qiang Qiu, Zhuolin Jiang, Rama Chellappa: Sparse dictionary-based representation and recognition of action attributes. ICCV 2011:707-714
+416	EE	Raghuraman Gopalan, Ruonan Li, Rama Chellappa: Domain adaptation for object recognition: An unsupervised approach. ICCV 2011:999-1006
+415	EE	Zhengwu Zhang, Eric Klassen, Anuj Srivastava, Pavan K. Turaga, Rama Chellappa: Blurring-invariant Riemannian metrics for comparing signals and images. ICCV 2011:1770-1775
+414	EE	Rama Chellappa: The evolution of stochastic grammars for representation and recognition of activities in videos. ICCV Workshops 2011:688
+413	EE	Vishal M. Patel, Tao Wu, Soma Biswas, P. Jonathon Phillips, Rama Chellappa: Illumination robust dictionary-based face recognition. ICIP 2011:777-780
+412	EE	Wilman W. W. Zou, Rama Chellappa, Pong C. Yuen: Face tracking in low resolution videos under illumination variations. ICIP 2011:781-784
+411	EE	Wei Zhang, Yanlin Guo, Reuven Meth, Harvey Sokoloff, Art Pope, Thomas M. Strat, Rama Chellappa: Variable remapping of images from very different sources. ICIP 2011:1501-1504
+410	EE	Vishal M. Patel, Glenn R. Easley, Rama Chellappa: Component-based restoration of speckled images. ICIP 2011:2797-2800
+409	EE	Rama Chellappa, Andrea Cavallaro, Ying Wu, Caifeng Shan, Yun Fu, Kari Pulli: Special Issue on Video Analysis on Resource-Limited Systems. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 21(10):1349-1352 (2011)
+408	EE	Mahesh Ramachandran, Ashok Veeraraghavan, Rama Chellappa: A Fast Bilinear Structure from Motion Algorithm Using a Video Sequence and Inertial Sensors. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 33(1):186-193 (2011)
+407	EE	Jaishanker K. Pillai, Vishal M. Patel, Rama Chellappa, Nalini K. Ratha: Secure and Robust Iris Recognition Using Random Projections and Sparse Representations. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 33(9):1877-1893 (2011)
+406	EE	Pavan K. Turaga, Ashok Veeraraghavan, Anuj Srivastava, Rama Chellappa: Statistical Computations on Grassmann and Stiefel Manifolds for Image and Video-Based Recognition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 33(11):2273-2286 (2011)
+405	EE	Jie Ni, Pavan K. Turaga, Vishal M. Patel, Rama Chellappa: Example-Driven Manifold Priors for Image Deconvolution. IEEE Transactions on Image Processing (TIP) 20(11):3086-3096 (2011)
+404	EE	Sumit Shekhar, Vishal M. Patel, Rama Chellappa: Synthesis-based recognition of low resolution faces. IJCB 2011:1-6
+403	   	Venu Madhav Govindu, Rama Chellappa: Feature-based image to image registration. Image Registration for Remote Sensing 2011:215-239
+402	EE	Sinisa Todorovic, Rama Chellappa: Editorial. International Journal of Computer Vision (IJCV) 93(2):115-116 (2011)
+401	EE	Nitesh Shroff, Pavan K. Turaga, Rama Chellappa: Manifold Precis: An Annealing Technique for Diverse Sampling of Manifolds. NIPS 2011:154-162
+400	EE	Raghuraman Gopalan, William Robson Schwartz, Rama Chellappa, Ankur Srivastava: Face Detection. Visual Analysis of Humans 2011:71-90
+399	EE	Vishal M. Patel, Jaishanker K. Pillai, Rama Chellappa: Image and Video-Based Biometrics. Visual Analysis of Humans 2011:437-454
+2010
+398	EE	Pavan K. Turaga, Rama Chellappa, Ashok Veeraraghavan: Advances in Video-Based Human Activity Analysis: Challenges and Approaches. Advances in Computers (AC) 80:237-290 (2010)
+397	EE	Ming-Yu Liu, Oncel Tuzel, Ashok Veeraraghavan, Rama Chellappa: Fast directional chamfer matching. CVPR 2010:1696-1703
+396	EE	Kaushik Mitra, Ashok Veeraraghavan, Rama Chellappa: Robust RVM regression using sparse outlier model. CVPR 2010:1887-1894
+395	EE	Nitesh Shroff, Pavan K. Turaga, Rama Chellappa: Moving vistas: Exploiting motion for describing scenes. CVPR 2010:1911-1918
+394	EE	Ruonan Li, Rama Chellappa: Group motion segmentation using a Spatio-Temporal Driving Force Model. CVPR 2010:2038-2045
+393	EE	Soma Biswas, Rama Chellappa: Pose-robust albedo estimation from a single image. CVPR 2010:2683-2690
+392	EE	Aswin C. Sankaranarayanan, Pavan K. Turaga, Richard G. Baraniuk, Rama Chellappa: Compressive Acquisition of Dynamic Scenes. ECCV 2010:129-142
+391	EE	Raghuraman Gopalan, Pavan K. Turaga, Rama Chellappa: Articulation-Invariant Representation of Non-planar Shapes. ECCV 2010:286-299
+390	EE	Ruonan Li, Rama Chellappa: Aligning Spatio-Temporal Signals on a Special Manifold. ECCV 2010:547-560
+389	EE	Vishal M. Patel, Rama Chellappa, Massimo Tistarelli: Sparse representations and Random Projections for robust and cancelable biometrics. ICARCV 2010:1-6
+388	EE	Pavan K. Turaga, Soma Biswas, Rama Chellappa: The role of geometry in age estimation. ICASSP 2010:946-949
+387	EE	Jaishanker K. Pillai, Vishal M. Patel, Rama Chellappa, Nalini K. Ratha: Sectored Random Projections for Cancelable Iris Biometrics. ICASSP 2010:1838-1841
+386	EE	Kaushik Mitra, Ashok Veeraraghavan, Rama Chellappa: Robust regression using sparse learning for high dimensional parameter estimation problems. ICASSP 2010:3846-3849
+385	EE	Vishal M. Patel, Nasser M. Nasrabadi, Rama Chellappa: Automatic target recognition based on simultaneous sparse representation. ICIP 2010:1377-1380
+384	EE	Jie Ni, Rama Chellappa: Evaluation of state-of-the-art algorithms for remote face recognition. ICIP 2010:1581-1584
+383	EE	Ruonan Li, Rama Chellappa: Recognizing offensive strategies from football videos. ICIP 2010:4585-4588
+382	EE	Ming-Yu Liu, Oncel Tuzel, Ashok Veeraraghavan, Rama Chellappa, Amit K. Agrawal, Haruhisa Okuda: Pose estimation in heavy clutter using a multi-flash camera. ICRA 2010:2028-2035
+381	EE	Rama Chellappa, Padmanabhan Anandan, A. N. Rajagopalan, P. J. Narayanan, Philip H. S. Torr: Seventh Indian Conference on Computer Vision, Graphics and Image Processing, ICVGIP '10, Chennai, India, December 12-15, 2010 ICVGIP 2010
+380	EE	Pavan K. Turaga, Rama Chellappa: Nearest-neighbor search algorithms on non-Euclidean manifolds for computer vision applications. ICVGIP 2010:282-289
+379	EE	Rama Chellappa, Pawan Sinha, P. Jonathon Phillips: Face Recognition by Computers and Humans. IEEE Computer (COMPUTER) 43(2):46-55 (2010)
+378	EE	Feng Guo, Rama Chellappa: Video Metrology Using a Single Camera. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 32(7):1329-1335 (2010)
+377	EE	Hao Wu, Aswin C. Sankaranarayanan, Rama Chellappa: Online Empirical Evaluation of Tracking Algorithms. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 32(8):1443-1458 (2010)
+376	EE	Massimiliano Albanese, Rama Chellappa, Naresh P. Cuntoor, Vincenzo Moscato, Antonio Picariello, V. S. Subrahmanian, Octavian Udrea: PADS: A Probabilistic Activity Detection Framework for Video Data. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 32(12):2246-2261 (2010)
+375	EE	Jie Shao, Shaohua Kevin Zhou, Rama Chellappa: Robust Height Estimation of Moving Objects From Uncalibrated Videos. IEEE Transactions on Image Processing (TIP) 19(8):2221-2232 (2010)
+374	EE	Rama Chellappa, Wendi Rabiner Heinzelman, Janusz Konrad, Dan Schonfeld, Marilyn Wolf: Special Section on Distributed Camera Networks: Sensing, Processing, Communication, and Implementation. IEEE Transactions on Image Processing (TIP) 19(10):2513-2515 (2010)
+373	EE	Soma Biswas, Gaurav Aggarwal, Rama Chellappa: An Efficient and Robust Algorithm for Shape Indexing and Retrieval. IEEE Transactions on Multimedia (TMM) 12(5):372-385 (2010)
+372	EE	Nitesh Shroff, Pavan K. Turaga, Rama Chellappa: Video Précis: Highlighting Diverse Aspects of Videos. IEEE Transactions on Multimedia (TMM) 12(8):853-868 (2010)
+371	EE	Joshua B. Broadwater, Rama Chellappa: Adaptive threshold estimation via extreme value theory. IEEE Transactions on Signal Processing (TSP) 58(2):490-500 (2010)
+370	EE	Yang Ran, Qinfen Zheng, Rama Chellappa, Thomas M. Strat: Applications of a Simple Characterization of Human Gait in Surveillance. IEEE Transactions on Systems, Man, and Cybernetics, Part B (TSMC) 40(4):1009-1020 (2010)
+369	EE	Vishal M. Patel, Glenn R. Easley, Dennis M. Healy, Rama Chellappa: Compressed Synthetic Aperture Radar. J. Sel. Topics Signal Processing (JSTSP) 4(2):244-254 (2010)
+368	EE	Kaushik Mitra, Sameer Sheorey, Rama Chellappa: Large-Scale Matrix Factorization with Missing Data under Additional Constraints. NIPS 2010:1651-1659
+367	EE	Pavan K. Turaga, Ashok Veeraraghavan, Anuj Srivastava, Rama Chellappa: Statistical Analysis on Manifolds and Its Applications to Video Analysis. Video Search and Mining 2010:115-144
+366	EE	Massimiliano Albanese, Pavan K. Turaga, Rama Chellappa, Andrea Pugliese, V. S. Subrahmanian: Semantic Video Content Analysis. Video Search and Mining 2010:147-176
+2009
+365	EE	Dikpal Reddy, Amit K. Agrawal, Rama Chellappa: Enforcing integrability by error correction using l1-minimization. CVPR 2009:2350-2357
+364	EE	Pavan K. Turaga, Rama Chellappa: Locally time-invariant models of human activities using trajectories on the grassmannian. CVPR 2009:2435-2441
+363	EE	Ruonan Li, Rama Chellappa, Shaohua Kevin Zhou: Learning multi-modal densities on Discriminative Temporal Interaction Manifold for group activity recognition. CVPR 2009:2450-2457
+362	EE	Pavan K. Turaga, Ashok Veeraraghavan, Rama Chellappa: Unsupervised view and rate invariant clustering of video sequences. Computer Vision and Image Understanding (CVIU) 113(3):353-371 (2009)
+361	EE	Aswin C. Sankaranarayanan, Robert Patro, Pavan K. Turaga, Amitabh Varshney, Rama Chellappa: Modeling and Visualization of Human Activities for Multicamera Networks. EURASIP J. Image and Video Processing (EJIVP) 2009 (2009)
+360	EE	Rama Chellappa, Gaurav Aggarwal, Shaohua Kevin Zhou: Face Recognition, Video-Based. Encyclopedia of Biometrics 2009:366-372
+359	EE	Rama Chellappa, Ashok Veeraraghavan, Narayanan Ramanathan: Gait Biometrics, Overview. Encyclopedia of Biometrics 2009:628-633
+358	EE	Rama Chellappa, Aswin C. Sankaranarayanan: Surveillance. Encyclopedia of Biometrics 2009:1309-1313
+357	EE	Rama Chellappa, Aswin C. Sankaranarayanan, Ashok Veeraraghavan, Pavan K. Turaga: Statistical Methods and Models for Video-Based Tracking, Modeling, and Recognition. Foundations and Trends in Signal Processing (FTSIG) 3(1-2):1-151 (2009)
+356	EE	Ruonan Li, Rama Chellappa: Recognizing coordinated multi-object activities using a dynamic event ensemble model. ICASSP 2009:3541-3544
+355	EE	William Robson Schwartz, Raghuraman Gopalan, Rama Chellappa, Larry S. Davis: Robust Human Detection under Occlusion by Integrating Face and Person Detectors. ICB 2009:970-979
+354	EE	Narayanan Ramanathan, Rama Chellappa: How would you look as you age? ICIP 2009:53-56
+353	EE	Vishal M. Patel, Glenn R. Easley, Dennis M. Healy Jr., Rama Chellappa: Compressed sensing for Synthetic Aperture Radar imaging. ICIP 2009:2141-2144
+352	EE	Vishal M. Patel, Glenn R. Easley, Rama Chellappa, Dennis M. Healy: Enhancing sparsity using gradients for compressive sensing. ICIP 2009:3033-3036
+351	EE	Zhanfeng Yue, David Guarino, Rama Chellappa: Moving Object Verification in Airborne Video Sequences. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 19(1):77-89 (2009)
+350	EE	Soma Biswas, Gaurav Aggarwal, Rama Chellappa: Robust Estimation of Albedo for Illumination-Invariant Matching and Shape Recovery. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 31(5):884-899 (2009)
+349	EE	Jian Li, Shaohua Kevin Zhou, Rama Chellappa: Appearance Modeling Using a Geometric Transform. IEEE Transactions on Image Processing (TIP) 18(4):889-902 (2009)
+348	EE	Ashok Veeraraghavan, Anuj Srivastava, Amit K. Roy Chowdhury, Rama Chellappa: Rate-Invariant Recognition of Humans and Their Activities. IEEE Transactions on Image Processing (TIP) 18(6):1326-1339 (2009)
+347	EE	Aravind Sundaresan, Rama Chellappa: Multicamera Tracking of Articulated Human Motion Using Shape and Motion Cues. IEEE Transactions on Image Processing (TIP) 18(9):2114-2126 (2009)
+346	EE	Volkan Cevher, Rama Chellappa, James H. McClellan: Vehicle Speed Estimation Using Acoustic Wave Patterns. IEEE Transactions on Signal Processing (TSP) 57(1):30-47 (2009)
+345	EE	Sankalita Saha, Vida Kianzad, Jason Schlessman, Gaurav Aggarwal, Shuvra S. Bhattacharyya, Rama Chellappa, Wayne Wolf: An architectural level design methodology for smart camera applications. IJES 4(1):83-97 (2009)
+344	EE	Narayanan Ramanathan, Rama Chellappa, Soma Biswas: Computational methods for modeling facial aging: A survey. J. Vis. Lang. Comput. (VLC) 20(3):131-144 (2009)
+2008
+343	EE	Umut Akdemir, Pavan K. Turaga, Rama Chellappa: An ontology based approach for activity recognition from video. ACM Multimedia 2008:709-712
+342	EE	Pavan K. Turaga, Ashok Veeraraghavan, Rama Chellappa: Statistical analysis on Stiefel and Grassmann manifolds with applications in computer vision. CVPR 2008
+341	EE	Volkan Cevher, Aswin C. Sankaranarayanan, Marco F. Duarte, Dikpal Reddy, Richard G. Baraniuk, Rama Chellappa: Compressive Sensing for Background Subtraction. ECCV 2008:155-168
+340	EE	Zhanfeng Yue, Wenyi Zhao, Rama Chellappa: Pose-Encoded Spherical Harmonics for Face Recognition and Synthesis Using a Single Image. EURASIP J. Adv. Sig. Proc. (EJASP) 2008 (2008)
+339	EE	Hankyu Moon, Rama Chellappa: 3D Shape-Encoded Particle Filter for Object Tracking and Its Application to Human Body Tracking. EURASIP J. Image and Video Processing (EJIVP) 2008 (2008)
+338	EE	Mohamed F. Abdelkader, Amit K. Roy Chowdhury, Rama Chellappa, Umut Akdemir: Activity Representation Using 3D Shape Models. EURASIP J. Image and Video Processing (EJIVP) 2008 (2008)
+337	EE	Narayanan Ramanathan, Rama Chellappa: Modeling shape and textural variations in aging faces. FG 2008:1-8
+336	EE	Volkan Cevher, Aswin C. Sankaranarayanan, Rama Chellappa: Factorized variational approximations for acoustic multi source localization. ICASSP 2008:2409-2412
+335	EE	Volkan Cevher, Ali Cafer Gurbuz, James H. McClellan, Rama Chellappa: Compressive wireless arrays for bearing estimation. ICASSP 2008:2497-2500
+334	EE	Gaurav Aggarwal, Nalini K. Ratha, Ruud M. Bolle, Rama Chellappa: Multi-biometric cohort analysis for biometric fusion. ICASSP 2008:5224-5227
+333	EE	Dikpal Reddy, Aswin C. Sankaranarayanan, Volkan Cevher, Rama Chellappa: Compressed sensing for multi-view tracking and 3-D voxel reconstruction. ICIP 2008:221-224
+332	EE	Aswin C. Sankaranarayanan, Rama Chellappa: Stochastic fusion of multi-view gradient fields. ICIP 2008:1324-1327
+331	EE	Pavan K. Turaga, Rama Chellappa: Learning action dictionaries from video. ICIP 2008:1704-1707
+330	EE	Kaushik Mitra, Rama Chellappa: A Scalable Projective Bundle Adjustment Algorithm using the L infinity Norm. ICVGIP 2008:79-86
+329	EE	Pavan K. Turaga, Rama Chellappa, V. S. Subrahmanian, Octavian Udrea: Machine Recognition of Human Activities: A Survey. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 18(11):1473-1488 (2008)
+328	EE	Ashok Veeraraghavan, Rama Chellappa, Mandyam V. Srinivasan: Shape-and-Behavior Encoded Tracking of Bee Dances. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 30(3):463-476 (2008)
+327	EE	Aravind Sundaresan, Rama Chellappa: Model Driven Segmentation of Articulating Humans in Laplacian Eigenspace. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 30(10):1771-1785 (2008)
+326	EE	Naresh P. Cuntoor, B. Yegnanarayana, Rama Chellappa: Activity Modeling Using Event Probability Sequences. IEEE Transactions on Image Processing (TIP) 17(4):594-607 (2008)
+325	EE	Aswin C. Sankaranarayanan, Ankur Srivastava, Rama Chellappa: Algorithmic and Architectural Optimizations for Computationally Efficient Particle Filtering. IEEE Transactions on Image Processing (TIP) 17(5):737-748 (2008)
+324	EE	Massimiliano Albanese, Rama Chellappa, Naresh P. Cuntoor, Vincenzo Moscato, Antonio Picariello, V. S. Subrahmanian, Octavian Udrea: A Constrained Probabilistic Petri Net Framework for Human Activity Detection in Video. IEEE Transactions on Multimedia (TMM) 10(6):982-996 (2008)
+323	EE	Massimiliano Albanese, Rama Chellappa, Naresh P. Cuntoor, Vincenzo Moscato, Antonio Picariello, V. S. Subrahmanian, Octavian Udrea: A Constrained Probabilistic Petri Net Framework for Human Activity Detection in Video. IEEE Transactions on Multimedia (TMM) 10(8):1429-1443 (2008)
+322	EE	Zhanfeng Yue, Rama Chellappa: Synthesis of Silhouettes and Visual Hull Reconstruction for Articulated Humans. IEEE Transactions on Multimedia (TMM) 10(8):1565-1577 (2008)
+2007
+321	EE	Soma Biswas, Gaurav Aggarwal, Rama Chellappa: Efficient Indexing For Articulation Invariant Shape Matching And Retrieval. CVPR 2007
+320	EE	Naresh P. Cuntoor, Rama Chellappa: Epitomic Representation of Human Activities. CVPR 2007
+319	EE	Pavan K. Turaga, Ashok Veeraraghavan, Rama Chellappa: From Videos to Verbs: Mining Videos for Activities using a Cascade of Dynamical Systems. CVPR 2007
+318	EE	Rama Chellappa, Amit K. Roy Chowdhury, Amit A. Kale: Human Identification using Gait and Face. CVPR 2007
+317	EE	Hao Wu, Aswin C. Sankaranarayanan, Rama Chellappa: In Situ Evaluation of Tracking Algorithms Using Time Reversed Chains. CVPR 2007
+316	EE	Gaurav Aggarwal, Soma Biswas, Rama Chellappa: Symmetric Objects are Hardly Ambiguous. CVPR 2007
+315	EE	Naresh P. Cuntoor, Rama Chellappa: Mixed-State Models for Nonstationary Multiobject Activities. EURASIP J. Adv. Sig. Proc. (EJASP) 2007 (2007)
+314	EE	Haiying Liu, Rama Chellappa: Markerless Monocular Tracking of Articulated Human Motion. ICASSP 2007:693-696
+313	EE	Kaustav Nandy, Rama Chellappa: Simulation and Analysis of Human Walking Motion. ICASSP 2007:797-800
+312	EE	Naresh P. Cuntoor, Rama Chellappa: Coarse-to-Fine Event Model for Human Activities. ICASSP 2007:813-816
+311	EE	Volkan Cevher, Rama Chellappa, James H. McClellan: Joint Acoustic-Video Fingerprinting of Vehicles, Part I. ICASSP 2007:745-748
+310	EE	Volkan Cevher, Feng Guo, Aswin C. Sankaranarayanan, Rama Chellappa: Joint Acoustic-Video Fingerprinting of Vehicles, Part II. ICASSP 2007:749-752
+309	EE	Mahesh Ramachandran, Ashok Veeraraghavan, Rama Chellappa: Fast Bilinear SfM with Side Information. ICCV 2007:1-8
+308	EE	Hao Wu, Rama Chellappa, Aswin C. Sankaranarayanan, Shaohua Kevin Zhou: Robust Visual Tracking Using the Time-Reversibility Constraint. ICCV 2007:1-8
+307	EE	Soma Biswas, Gaurav Aggarwal, Rama Chellappa: Robust Estimation of Albedo for Illumination-invariant Matching and Shape Recovery. ICCV 2007:1-8
+306	EE	Rama Chellappa, Gaurav Aggarwal: Video Biometrics. ICIAP 2007:363-370
+305	EE	Shaohua Kevin Zhou, Gaurav Aggarwal, Rama Chellappa, David W. Jacobs: Appearance Characterization of Linear Lambertian Objects, Generalized Photometric Stereo, and Illumination-Invariant Face Recognition. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 29(2):230-245 (2007)
+304	EE	Joshua B. Broadwater, Rama Chellappa: Hybrid Detectors for Subpixel Targets. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 29(11):1891-1903 (2007)
+303	EE	Seong-Wook Joo, Rama Chellappa: A Multiple-Hypothesis Approach for Multiobject Visual Tracking. IEEE Transactions on Image Processing (TIP) 16(11):2849-2854 (2007)
+302	EE	Bir Bhanu, Nalini K. Ratha, B. V. K. Vijaya Kumar, Rama Chellappa, Josef Bigün: Guest Editorial: Special Issue on Human Detection and Recognition. IEEE Transactions on Information Forensics and Security (TIFS) 2(3-2):489-490 (2007)
+301	EE	Volkan Cevher, Aswin C. Sankaranarayanan, James H. McClellan, Rama Chellappa: Target Tracking Using a Joint Acoustic Video System. IEEE Transactions on Multimedia (TMM) 9(4):715-727 (2007)
+300	EE	Ayan Chakrabarti, A. N. Rajagopalan, Rama Chellappa: Super-Resolution of Face Images Using Kernel PCA-Based Prior. IEEE Transactions on Multimedia (TMM) 9(4):888-892 (2007)
+299	EE	Joshua B. Broadwater, Rama Chellappa, Amit Banerjee, Philippe Burlina: Kernel fully constrained least squares abundance estimates. IGARSS 2007:4041-4044
+2006
+298	EE	Aravind Sundaresan, Rama Chellappa: Multi-camera Tracking of Articulated Human Motion Using Motion and Shape Cues. ACCV 2006:131-140
+297	EE	Naresh P. Cuntoor, Rama Chellappa: Key Frame-Based Activity Representation Using Antieigenvalues. ACCV 2006:499-508
+296	EE	Aravind Sundaresan, Rama Chellappa: Acquisition of Articulated Human Body Models Using Multiple Cameras. AMDO 2006:78-89
+295	EE	Narayanan Ramanathan, Rama Chellappa: Modeling Age Progression in Young Faces. CVPR 2006:387-394
+294	EE	Amit K. Agrawal, Ramesh Raskar, Rama Chellappa: Edge Suppression by Gradient Field Transformation Using Cross-Projection Tensors. CVPR 2006:2301-2308
+293	EE	Volker Krüger, Shaohua Kevin Zhou, Rama Chellappa: Integrating Video Information over Time. Example: Face Recognition from Video. Cognitive Vision Systems 2006:127-144
+292	EE	Amit K. Agrawal, Ramesh Raskar, Rama Chellappa: What Is the Range of Surface Reconstructions from a Gradient Field? ECCV 2006:578-591
+291	EE	Feng Guo, Rama Chellappa: Video Mensuration Using a Stationary Camera. ECCV 2006:164-176
+290	EE	Ashok Veeraraghavan, Mandyam V. Srinivasan, Rama Chellappa, Emily Baird, Richard Lamont: Motion Based Correspondence for 3D Tracking of Multiple Dim Objects. ICASSP 2006:669-672
+289	EE	Joshua B. Broadwater, Rama Chellappa: An Adaptive Threshold Method for Hyperspectral Target Detection. ICASSP 2006:1201-1204
+288	EE	Mahesh Ramachandran, Rama Chellappa: Stabilization and Mosaicing of Airborne Videos. ICIP 2006:345-348
+287	EE	Soma Biswas, Gaurav Aggarwal, Rama Chellappa: Invariant Geometric Representation of 3D Point Clouds for Registration and Matching. ICIP 2006:1209-1212
+286	EE	Jie Shao, Rama Chellappa, Fatih Porikli: Shape-Regulated Particle Filtering for Tracking Non-Rigid Objects. ICIP 2006:2813-2816
+285	EE	Seong-Wook Joo, Rama Chellappa: Recognition of Multi-Object Events Using Attribute Grammars. ICIP 2006:2897-2900
+284	EE	Aravind Sundaresan, Rama Chellappa: Segmentation and Probabilistic Registration of Articulated Body Models. ICPR 2006:92-96
+283	EE	Yang Ran, Rama Chellappa, Qinfen Zheng: Finding Gait in Space and Time. ICPR 2006:586-589
+282	EE	Mohamed F. Abdelkader, Rama Chellappa, Qinfen Zheng, LipChen Alex Chan: Integrated Motion Detection and Tracking for Visual Surveillance. ICVS 2006:28
+281	EE	Zhanfeng Yue, Rama Chellappa, David Guarino: Moving Object Verification from Airborne Video. ICVS 2006:29
+280	EE	Shaohua Kevin Zhou, Rama Chellappa: From Sample Similarity to Ensemble Similarity: Probabilistic Distance Measures in Reproducing Kernel Hilbert Space. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 28(6):917-929 (2006)
+279	EE	Amit K. Agrawal, Rama Chellappa: Robust ego-motion estimation and 3-D model refinement using surface parallax. IEEE Transactions on Image Processing (TIP) 15(5):1215-1225 (2006)
+278	EE	Namrata Vaswani, Rama Chellappa: Principal Components Null Space Analysis for Image and Video Classification. IEEE Transactions on Image Processing (TIP) 15(7):1816-1830 (2006)
+277	EE	Narayanan Ramanathan, Rama Chellappa: Face Verification Across Age Progression. IEEE Transactions on Image Processing (TIP) 15(11):3349-3361 (2006)
+276	EE	Jian Li, Rama Chellappa: Structure From Planar Motion. IEEE Transactions on Image Processing (TIP) 15(11):3466-3477 (2006)
+275	EE	Aaron F. Bobick, Rama Chellappa, Larry S. Davis: Editorial. International Journal of Computer Vision (IJCV) 70(1):5-6 (2006)
+274	EE	Vasu Parameswaran, Rama Chellappa: View Invariance for Human Action Recognition. International Journal of Computer Vision (IJCV) 66(1):83-101 (2006)
+273	EE	Wenyi Zhao, Rama Chellappa, Peter O. Stubler: Face Processing: Advanced Modeling and Methods. J. Electronic Imaging (JEI) 15(4):049901 (2006)
+2005
+272	EE	Zhanfeng Yue, Wenyi Zhao, Rama Chellappa: Pose-Encoded Spherical Harmonics for Robust Face Recognition Using a Single Image. AMFG 2005:229-243
+271	EE	Zhanfeng Yue, Rama Chellappa: Synthesis of Novel Views of Moving Objects in Airborne Video. BMVC 2005
+270	EE	Vida Kianzad, Sankalita Saha, Jason Schlessman, Gaurav Aggarwal, Shuvra S. Bhattacharyya, Wayne Wolf, Rama Chellappa: An architectural level design methodology for embedded face detection. CODES ISSS 2005:136-141
+269	EE	Narayanan Ramanathan, Rama Chellappa: Face Verification across Age Progression. CVPR 2005:462-469
+268	EE	Vasu Parameswaran, Rama Chellappa: Human action-recognition using mutual invariants. Computer Vision and Image Understanding (CVIU) 98(2):294-324 (2005)
+267	EE	Jie Shao, Shaohua Kevin Zhou, Rama Chellappa: Tracking Algorithm Using Background-Foreground Motion Models and Multiple Cues. ICASSP 2005:233-236
+266	EE	Zhanfeng Yue, Rama Chellappa: Pose-Normalized View Synthesis From Silhouettes. ICASSP 2005:569-572
+265	EE	Amit K. Agrawal, Rama Chellappa: Moving Object Segmentation and Dynamic Scene Reconstruction Using Two Frames. ICASSP 2005:705-708
+264	EE	Naresh P. Cuntoor, B. Yegnanarayana, Rama Chellappa: Interpretation of State Sequences in HMM for Activity Representation. ICASSP 2005:709-712
+263	EE	Mahesh Ramachandran, Shaohua Kevin Zhou, Divya Jhalani, Rama Chellappa: A method for converting a smiling face to a neutral face with applications to face recognition. ICASSP 2005:977-980
+262	EE	Aswin C. Sankaranarayanan, Rama Chellappa, Ankur Srivastava: Algorithmic and Architectural Design Methodology for Particle Filters in Hardware. ICCD 2005:275-280
+261	EE	Amit K. Agrawal, Rama Chellappa, Ramesh Raskar: An Algebraic Approach to Surface Reconstruction from Gradient Fields. ICCV 2005:174-181
+260	EE	Gaurav Aggarwal, Rama Chellappa: Face Recognition in the Presence of Multiple Illumination Sources. ICCV 2005:1169-1176
+259	EE	Jian Li, Shaohua Kevin Zhou, Rama Chellappa: Appearance Modeling Under Geometric Context. ICCV 2005:1252-1259
+258	EE	Aswin C. Sankaranarayanan, Rama Chellappa, Qinfen Zheng: Tracking objects in video using motion and appearance models. ICIP 2005:394-397
+257	EE	Ashok Veeraraghavan, Amit K. Roy Chowdhury, Rama Chellappa: Matching Shape Sequences in Video with Applications in Human Movement Analysis. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 27(12):1896-1909 (2005)
+256	EE	Gang Qian, Rama Chellappa, Qinfen Zheng: Bayesian algorithms for simultaneous structure from motion estimation of multiple independently moving objects. IEEE Transactions on Image Processing (TIP) 14(1):94-109 (2005)
+255	EE	A. N. Rajagopalan, Rama Chellappa, Nathan Koterba: Background learning for robust face recognition with PCA in the presence of clutter. IEEE Transactions on Image Processing (TIP) 14(6):832-843 (2005)
+254	EE	Amit K. Roy Chowdhury, Rama Chellappa: Statistical bias in 3-D reconstruction from a monocular video. IEEE Transactions on Image Processing (TIP) 14(8):1057-1062 (2005)
+253	EE	Namrata Vaswani, Amit K. Roy Chowdhury, Rama Chellappa: "Shape Activity": A Continuous-State HMM for Moving/Deforming Shapes With Application to Abnormal Activity Detection. IEEE Transactions on Image Processing (TIP) 14(10):1603-1616 (2005)
+252	EE	Joshua B. Broadwater, Reuven Meth, Rama Chellappa: Average relative radiance transform for subpixel detection. IGARSS 2005:3565-3568
+251	EE	Rama Chellappa, Ashok Veeraraghavan, Gaurav Aggarwal: Pattern Recognition in Video. PReMI 2005:11-20
+250	EE	Gaurav Aggarwal, Ashok Veeraraghavan, Rama Chellappa: 3D Facial Pose Tracking in Uncalibrated Videos. PReMI 2005:515-520
+249	EE	Amit K. Agrawal, Rama Chellappa: Fusing Depth and Video Using Rao-Blackwellized Particle Filter. PReMI 2005:521-526
+248	EE	Rama Chellappa, Amit K. Roy Chowdhury, Shaohua Kevin Zhou: Recognition of Humans and Their Activities Using Video Morgan & Claypool Publishers 2005
+247	EE	Amit K. Agrawal, Rama Chellappa: Ego-Motion Estimation and 3D Model Refinement in Scenes with Varying Illumination. WACV/MOTION 2005:140-146
+246	EE	Jian Li, Rama Chellappa: A Factorization Method for Structure from Planar Motion. WACV/MOTION 2005:154-159
+2004
+245	EE	Himaanshu Gupta, Amit K. Roy Chowdhury, Rama Chellappa: Contour-based 3D Face Modeling from a Monocular Video. BMVC 2004:1-10
+244	EE	Ashok Veeraraghavan, Amit K. Roy Chowdhury, Rama Chellappa: Role of Shape and Kinematics in Human Movement Analysis. CVPR 2004:730-737
+243	EE	Vasu Parameswaran, Rama Chellappa: View Independent Human Body Pose Estimation from a Single Perspective Image. CVPR 2004:16-22
+242	EE	Shaohua Kevin Zhou, Rama Chellappa: Probabilistic Identity Characterization for Face Recognition. CVPR 2004:805-812
+241	EE	Gang Qian, Rama Chellappa: Bayesian self-calibration of a moving camera. Computer Vision and Image Understanding (CVIU) 95(3):287-316 (2004)
+240	EE	Shaohua Kevin Zhou, Rama Chellappa, David W. Jacobs: Characterization of Human Faces under Illumination Variations Using Rank, Integrability, and Symmetry Constraints. ECCV 2004:588-601
+239	EE	Shaohua Kevin Zhou, Rama Chellappa: Illuminating Light Field: Image-based Face Recognition Across Illuminations and Poses. FGR 2004:229-234
+238	EE	Shaohua Kevin Zhou, Rama Chellappa, Baback Moghaddam: Intra-Personal Kernel Space for Face Recognition. FGR 2004:235-240
+237	EE	Zhanfeng Yue, Shaohua Kevin Zhou, Rama Chellappa: Robust two-camera tracking using homography. ICASSP 2004:1-4
+236	EE	Amit K. Agrawal, Rama Chellappa: 3D model refinement using surface-parallax. ICASSP 2004:285-288
+235	EE	Jie Shao, Shaohua Kevin Zhou, Rama Chellappa: Appearance-based tracking and recognition using the 3D trilinear tensor. ICASSP 2004:613-616
+234	EE	Rama Chellappa, Gang Qian, Qinfen Zheng: Vehicle detection and tracking using acoustic and video sensors. ICASSP 2004:793-796
+233	EE	Amit A. Kale, Amit K. Roy Chowdhury, Rama Chellappa: Fusion of gait and face for human identification. ICASSP 2004:901-904
+232	EE	Aravind Sundaresan, Rama Chellappa, Amit K. Roy Chowdhury: Multiple view tracking of humans modelled by kinematic chains. ICIP 2004:1009-1012
+231	EE	Jie Shao, Shaohua Kevin Zhou, Rama Chellappa: Simultaneous background and foreground modeling for tracking in surveillance video. ICIP 2004:1053-1056
+230	EE	Gang Qian, Rama Chellappa, Qinfen Zheng: Robust bayesian cameras motion estimation using random sampling. ICIP 2004:1361-1364
+229	   	Narayanan Ramanathan, Rama Chellappa, Amit K. Roy Chowdhury: Facial similarity across age disguise illumination and pose. ICIP 2004:1999-2002
+228	EE	Amit K. Agrawal, Rama Chellappa: Robust ego-motion estimation and 3d model refinement using depth based parallax model. ICIP 2004:2483-2486
+227	EE	Namrata Vaswani, Rama Chellappa: Classification Probability Analysis of Principal Component Null Space Analysis. ICPR 2004:240-243
+226	EE	Gaurav Aggarwal, Amit K. Roy Chowdhury, Rama Chellappa: A System Identification Approach for Video-based Face Recognition. ICPR 2004:175-178
+225	EE	Shaohua Kevin Zhou, Rama Chellappa: Multiple-Exemplar Discriminant Analysis for Face Recognition. ICPR 2004:191-194
+224	   	Amit K. Roy Chowdhury, Rama Chellappa, Umut Akdemir: Activity Representation Using 3D Shape Models. ICVGIP 2004:22-27
+223	EE	Rama Chellappa, David J. Kriegman: Introduction of New Associate Editor. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 26(4):433- (2004)
+222	EE	Rama Chellappa, David J. Kriegman: Introduction of New Associate Editors. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 26(5):529 (2004)
+221	EE	Rama Chellappa, David J. Kriegman: In Memoriam, Azriel Rosenfeld(1931-2004). IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 26(6):673 (2004)
+220	EE	Amit K. Roy Chowdhury, Rama Chellappa: An information theoretic criterion for evaluating the quality of 3-D reconstructions from video. IEEE Transactions on Image Processing (TIP) 13(7):960-973 (2004)
+219	EE	Amit A. Kale, Aravind Sundaresan, A. N. Rajagopalan, Naresh P. Cuntoor, Amit K. Roy Chowdhury, Volker Krüger, Rama Chellappa: Identification of humans using gait. IEEE Transactions on Image Processing (TIP) 13(9):1163-1173 (2004)
+218	EE	Shaohua Kevin Zhou, Rama Chellappa, Baback Moghaddam: Visual tracking and recognition using appearance-adaptive models in particle filters. IEEE Transactions on Image Processing (TIP) 13(11):1491-1506 (2004)
+217	EE	Amit K. Roy Chowdhury, Rama Chellappa, Trish Keaton: Wide baseline image registration with application to 3-D face modeling. IEEE Transactions on Multimedia (TMM) 6(3):423-434 (2004)
+216	EE	Joshua B. Broadwater, Reuven Meth, Rama Chellappa: A hybrid algorithm for subpixel detection in hyperspectral imagery. IGARSS 2004:1601-1604
+215	EE	Gang Qian, Rama Chellappa: Structure from Motion Using Sequential Monte Carlo Methods. International Journal of Computer Vision (IJCV) 59(1):5-31 (2004)
+2003
+214	EE	Wen-Yi Zhao, Rama Chellappa, P. Jonathon Phillips, Azriel Rosenfeld: Face recognition: A literature survey. ACM Comput. Surv. (CSUR) 35(4):399-458 (2003)
+213	EE	Shaohua Kevin Zhou, Rama Chellappa: Rank Constrained Recognition under Unknown Illuminations. AMFG 2003:11-18
+212	EE	A. N. Rajagopalan, Rama Chellappa, Nathan Koterba: Robust Face Recognition in the Presence of Clutter. AVBPA 2003:1-9
+211	EE	Amit A. Kale, Naresh P. Cuntoor, B. Yegnanarayana, A. N. Rajagopalan, Rama Chellappa: Gait Analysis for Human Identification. AVBPA 2003:706-714
+210	EE	Amit A. Kale, Amit K. Roy Chowdhury, Rama Chellappa: Towards a View Invariant Gait Recognition Algorithm. AVSS 2003:143-150
+209	EE	Vasu Parameswaran, Rama Chellappa: View Invariants for Human Action Recognition. CVPR 2003:613-619
+208	EE	Namrata Vaswani, Amit K. Roy Chowdhury, Rama Chellappa: Activity Recognition Using the Dynamics of the Configuration of Interacting Objects. CVPR 2003:633-642
+207	EE	Amit K. Roy Chowdhury, Rama Chellappa: Face reconstruction from monocular video using uncertainty analysis and a generic model. Computer Vision and Image Understanding (CVIU) 91(1-2):188-213 (2003)
+206	EE	Shaohua Kevin Zhou, Volker Krüger, Rama Chellappa: Probabilistic recognition of human faces from video. Computer Vision and Image Understanding (CVIU) 91(1-2):214-245 (2003)
+205	EE	Naresh P. Cuntoor, Amit A. Kale, Rama Chellappa: Combining multiple evidences for gait recognition. ICASSP 2003:33-36
+204	EE	Shaohua Kevin Zhou, Rama Chellappa: Simultaneous tracking and recognition of human faces from video. ICASSP 2003:225-228
+203	EE	Namrata Vaswani, Amit K. Roy Chowdhury, Rama Chellappa: Statistical shape theory for activity modeling. ICASSP 2003:493-496
+202	EE	Amit K. Roy Chowdhury, Amit A. Kale, Rama Chellappa: Video synthesis of arbitrary views for approximately planar scenes. ICASSP 2003:497-500
+201	EE	M. B. Capellades, David S. Doermann, Daniel DeMenthon, Rama Chellappa: An appearance based approach for human and object tracking. ICIP 2003:85-88
+200	EE	Aravind Sundaresan, Amit K. Roy Chowdhury, Rama Chellappa: A hidden Markov model based framework for recognition of humans from gait sequences. ICIP 2003:93-96
+199	EE	Takashi Yamamoto, Rama Chellappa: Shape and motion driven particle filtering for human body tracking. ICME 2003:61-64
+198	EE	Naresh P. Cuntoor, Amit A. Kale, Rama Chellappa: Combining multiple evidences for gait recognition. ICME 2003:113-116
+197	EE	Shaohua Kevin Zhou, Rama Chellappa: Simultaneous tracking and recognition of human faces from video. ICME 2003:129-132
+196	EE	Namrata Vaswani, Amit K. Roy Chowdhury, Rama Chellappa: Statistical shape theory for activity modeling. ICME 2003:181-184
+195	EE	Shaohua Kevin Zhou, Rama Chellappa, Baback Moghaddam: Adaptive visual tracking and recognition using particle filters. ICME 2003:349-352
+194	EE	Amit A. Kale, Amit K. Roy Chowdhury, Rama Chellappa: Video based rendering of planar dynamic scenes. ICME 2003:477-480
+193	EE	Zhanfeng Yue, Liang Zhao, Rama Chellappa: View synthesis of articulating humans using visual hull. ICME 2003:489-492
+192	EE	Rama Chellappa, David J. Kriegman: Introduction of New Associate Editors. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 25(2):145-146 (2003)
+191	EE	Rama Chellappa, David J. Kriegman: Editorial - State of the Transactions. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 25(3):289 (2003)
+190	EE	Rama Chellappa, David J. Kriegman: Introduction of New Associate Editor. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 25(5):529 (2003)
+189	EE	Rama Chellappa, David J. Kriegman: Introduction of New Associate Editor. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 25(8):929 (2003)
+188	EE	Rama Chellappa, David J. Kriegman: Introduction of New Associate Editors. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 25(10):1201 (2003)
+187	EE	Haiying Liu, Rama Chellappa, Azriel Rosenfeld: Accurate dense optical flow estimation using adaptive structure tensors and a parametric model. IEEE Transactions on Image Processing (TIP) 12(10):1170-1180 (2003)
+186	EE	Amit K. Roy Chowdhury, Rama Chellappa: Stochastic Approximation and Rate-Distortion Analysis for Robust Structure and Motion Estimation. International Journal of Computer Vision (IJCV) 55(1):27-53 (2003)
+2002
+185	EE	Gang Qian, Rama Chellappa: Bayesian Self-Calibration of a Moving Camera. ECCV 2002:277-293
+184	EE	Shaohua Kevin Zhou, Rama Chellappa: Probabilistic Human Recognition from Video. ECCV 2002:681-697
+183	EE	Shaohua Kevin Zhou, Volker Krüger, Rama Chellappa: Face Recognition from Video: A CONDENSATION Approach. FGR 2002:221-228
+182	EE	Amit K. Roy Chowdhury, Rama Chellappa: Towards a criterion for evaluating the quality of 3D reconstructions. ICASSP 2002:3321-3324
+181	EE	Haiying Liu, Azriel Rosenfeld, Rama Chellappa: Two-frame multi-scale optical flow estimation using wavelet decomposition. ICASSP 2002:3588-3591
+180	EE	Amit A. Kale, Naresh P. Cuntoor, Rama Chellappa: A framework for activity-specific human identification. ICASSP 2002:3660-3663
+179	EE	Rama Chellappa, Shaohua Kevin Zhou, Baoxin Li: Bayesian methods for face recognition from video. ICASSP 2002:4068-4071
+178	EE	Shaohua Kevin Zhou, Volker Krüger, Rama Chellappa: Probabilistic recognition of human faces from video. ICIP 2002:41-44
+177	EE	Gang Qian, Rama Chellappa, Qinfen Zheng: Bayesian structure from motion using inertial information. ICIP 2002:425-428
+176	EE	Amit K. Roy Chowdhury, Rama Chellappa, Sandeep Krishnamurthy, Tai Vo: 3D face reconstruction from video using a generic model. ICME 2002:449-452
+175	EE	Shaohua Kevin Zhou, Rama Chellappa: A Robust Algorithm for Probabilistic Human Recognition From. ICPR 2002:226-229
+174	EE	Haiying Liu, Rama Chellappa, Azriel Rosenfeld: Accurate Dense Optical Flow Estimation Using Adaptive Structure Tensors and a Parametric Model. ICPR 2002:291-294
+173	EE	Vasu Parameswaran, Rama Chellappa: Quasi-Invariants for Human Action Representation and Recognition. ICPR 2002:307-310
+172	EE	Gang Qian, Rama Chellappa, Qinfen Zheng: A Bayesian Approach to Simultaneous Motion Estimation of Multiple Independently Moving Objects. ICPR 2002:309-
+171	EE	Rama Chellappa, David J. Kriegman: State of the Transactions. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 24(5):577-578 (2002)
+170	EE	Rama Chellappa, David J. Kriegman: Introduction of New Associate Editors. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 24(8):1009 (2002)
+169	EE	Rama Chellappa, David J. Kriegman: Introduction of New Associate Editor. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 24(10):1297 (2002)
+168	EE	Baoxin Li, Rama Chellappa: A generic approach to simultaneous tracking and verification in video. IEEE Transactions on Image Processing (TIP) 11(5):530-544 (2002)
+167	EE	Hankyu Moon, Rama Chellappa, Azriel Rosenfeld: Optimal edge-based shape detection. IEEE Transactions on Image Processing (TIP) 11(11):1209-1227 (2002)
+166	EE	Amit K. Roy Chowdhury, Rama Chellappa, Trish Keaton: Wide baseline image registration using prior information. IEEE Workshop on Multimedia Signal Processing 2002:37-40
+165	EE	Hankyu Moon, Rama Chellappa, Azriel Rosenfeld: Performance analysis of a simple vehicle detection algorithm. Image Vision Comput. (IVC) 20(1):1-13 (2002)
+164	EE	Himaanshu Gupta, Amit K. Agrawal, Tarun Pruthi, Chandra Shekhar, Rama Chellappa: An Experimental Evaluation of Linear and Kernel-Based Methods for Face Recognition. WACV 2002:13-18
+2001
+163	EE	Yonatan Wexler, Rama Chellappa: View Synthesis using Convex and Visual Hulls. BMVC 2001:1-10
+162	EE	Baoxin Li, Rama Chellappa, Qinfen Zheng, Sandor Z. Der, Nasser M. Nasrabadi, LipChen Alex Chan, Lin-Cheng Wang: Experimental Evaluation of FLIR ATR Approaches - A Comparative Study. Computer Vision and Image Understanding (CVIU) 84(1):5-24 (2001)
+161	EE	Gang Qian, Rama Chellappa: Moving targets detection using sequential importance sampling. ICASSP 2001:1537-1540
+160	EE	Namrata Vaswani, Rama Chellappa: Best view selection and compression of moving objects in IR sequences. ICASSP 2001:1617-1620
+159	EE	Amit K. Roy Chowdhury, Rama Chellappa: A robust algorithm for fusing noisy depth estimates using stochastic approximation. ICASSP 2001:1653-1656
+158	   	Hankyu Moon, Rama Chellappa, Azriel Rosenfeld: 3D Object Tracking Using Shape-Encoded Particle Propagation. ICCV 2001:307-314
+157	   	Gang Qian, Rama Chellappa: Structure From Motion Using Sequential Monte Carlo Methods. ICCV 2001:614-621
+156	EE	Hankyu Moon, Rama Chellappa, Azriel Rosenfeld: Tracking of human activities using shape-encoded particle propagation. ICIP 2001:357-360
+155	EE	Rama Chellappa, Amit K. Roy Chowdhury: Robust estimation of depth and motion using stochastic approximation. ICIP 2001:642-645
+154	EE	Rama Chellappa: Editorial. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 23(1):1-2 (2001)
+153	EE	Rama Chellappa: Introduction of New Associate Editors. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 23(1):3-4 (2001)
+152	EE	Rama Chellappa: Introduction of New Associate Editors. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 23(3):241 (2001)
+151	EE	Rama Chellappa: Introduction of New Associate Editors. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 23(6):545 (2001)
+150	EE	Rama Chellappa: Introduction of New Associate Editors. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 23(8):785 (2001)
+149	EE	Rama Chellappa: Introduction of New Associate Editors. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 23(12):1337 (2001)
+148	EE	Baoxin Li, Rama Chellappa, Qinfen Zheng, Sandor Z. Der: Model-based temporal object verification using video. IEEE Transactions on Image Processing (TIP) 10(6):897-908 (2001)
+147	EE	Wen-Yi Zhao, Rama Chellappa: Symmetric Shape-from-Shading Using Self-ratio Image. International Journal of Computer Vision (IJCV) 45(1):55-75 (2001)
+2000
+146	EE	Wen-Yi Zhao, Rama Chellappa: Illumination-Insensitive Face Recognition Using Symmetric Shape-from-Shading. CVPR 2000:1286-1293
+145	EE	Baoxin Li, Rama Chellappa: Simultaneous Tracking and Verification via Sequential Posterior Estimation. CVPR 2000:2110-2117
+144	EE	Wenyi Zhao, Rama Chellappa: SFS Based View Synthesis for Robust Face Recognition. FG 2000:285-293
+143	EE	Wen-Yi Zhao, Rama Chellappa: Robust Image Based Face Recognition. ICIP 2000:41-44
+142	EE	Baoxin Li, Rama Chellappa: Gabor Attributes Tracking for Face Verification. ICIP 2000:45-48
+141	EE	Wen-Yi Zhao, Rama Chellappa: 3D Model Enhanced Face Recognition. ICIP 2000:50-53
+140	EE	Hassan Shekarforoush, Rama Chellappa: A Multi-Fractal Formalism for Stabilization, Object Detection and Tracking in Flir Sequences. ICIP 2000:78-81
+139	EE	Gang Qian, Qinfen Zheng, Rama Chellappa: Reduction of Inherent Ambiguities in Structure from Motion Problem Using Inertial Data. ICIP 2000:204-207
+138	EE	A. N. Rajagopalan, Rama Chellappa: Higher-Order Spectral Analysis of Human Motion. ICIP 2000:230-233
+137	EE	A. N. Rajagopalan, Rama Chellappa: Vehicle Detection and Tracking in Video. ICIP 2000:351-354
+136	EE	Amit Banerjee, Rama Chellappa: Tumor Detection in Digital Mammograms. ICIP 2000:432-435
+135	EE	Gang Qian, Amit A. Kale, Rama Chellappa: Robust Estimation of Motion and Structure Using a Discrete Hinfinity Filter. ICIP 2000:616-619
+134	EE	Hankyu Moon, Rama Chellappa, Azriel Rosenfeld: Optimal Shape Detection. ICIP 2000:885-888
+133	EE	Douglas Ayers, Rama Chellappa: Scenario Recognition from Video Using a Hierarchy of Dynamic Belief Networks. ICPR 2000:1835-1838
+132	EE	Wenyi Zhao, Dinkar Bhat, Nagaraj Nandhakumar, Rama Chellappa: A reliable descriptor for face objects in visual content. Sig. Proc.: Image Comm. (SPIC) 16(1-2):123-136 (2000)
+1999
+131	EE	Reuven Meth, Rama Chellappa: Feature matching and target recognition in synthetic aperture radar imagery. ICASSP 1999:3333-3336
+130	EE	Baoxin Li, Rama Chellappa, Qinfen Zheng, Sandor Z. Der: Dynamic object identification and verification using video. ICASSP 1999:3337-3340
+129	EE	Sridhar Srinivasan, Rama Chellappa: Fast structure from motion recovery applied to 3D image stabilization. ICASSP 1999:3357-3360
+128	EE	A. N. Rajagopalan, Philippe Burlina, Rama Chellappa: Higher Order Statistical Learning for Vehicle Detection in Images. ICCV 1999:1204-1209
+127	EE	Rama Chellappa, Gang Qian, Sridhar Srinivasan: Structure from Motion: Sparse Versus Dense Correspondence Methods. ICIP 1999:492-499
+126	EE	Amit Banerjee, Philippe Burlina, Rama Chellappa: Adaptive target detection in foliage-penetrating SAR images using alpha-stable models. IEEE Transactions on Image Processing (TIP) 8(12):1823-1831 (1999)
+125	EE	Chandra Shekhar, Sabine Moisan, Régis Vincent, Philippe Burlina, Rama Chellappa: Knowledge-based control of vision systems. Image Vision Comput. (IVC) 17(9):667-683 (1999)
+124	EE	Chandra Shekhar, Venu Govindu, Rama Chellappa: Multisensor image registration by feature consensus. Pattern Recognition (PR) 32(1):39-52 (1999)
+1998
+123	EE	Wen-Yi Zhao, Rama Chellappa, Nagaraj Nandhakumar: Empirical Performance Analysis of Linear Discriminant Classifiers. CVPR 1998:164-169
+122	EE	Qinfen Zheng, Sandor Z. Der, Rama Chellappa: Model-Based Target Recognition in Pulsed Ladar Imagery. CVPR 1998:515-520
+121	EE	Hongche Liu, Tsai-Hong Hong, Martin Herman, Rama Chellappa: Motion-Model-Based Boundary Extraction and a Real-Time Implementation. Computer Vision and Image Understanding (CVIU) 70(1):87-100 (1998)
+120	EE	Hongche Liu, Tsai-Hong Hong, Martin Herman, Ted Camus, Rama Chellappa: Accuracy vs Efficiency Trade-offs in Optical Flow Algorithms. Computer Vision and Image Understanding (CVIU) 72(3):271-286 (1998)
+119	EE	Omid E. Kia, David S. Doermann, Azriel Rosenfeld, Rama Chellappa: Symbolic Compression and Processing of Document Images. Computer Vision and Image Understanding (CVIU) 70(3):335-349 (1998)
+118	EE	Sridhar Srinivasan, Rama Chellappa: Optical Flow Using Overlapped Basis Functions for Solving Global Motion Problems. ECCV 1998:288-304
+117	   	Wen-Yi Zhao, Rama Chellappa, Arvind Krishnaswamy: Discriminant Analysis of Principal Components for Face Recognition. FG 1998:336-341
+116	EE	Reuven Meth, Rama Chellappa, Shyam Kuttikkad: Target aspect estimation from single and multi-pass SAR images. ICASSP 1998:2745-2748
+115	EE	Carlos Morimoto, Rama Chellappa: Evaluation of image stabilization algorithms. ICASSP 1998:2789-2792
+114	EE	Amit Banerjee, Philippe Burlina, Rama Chellappa, Rohit Kapoor: Frequency Dependence of ATD Performance in Foliage-Penetrating SAR Images. ICIP 1998:578-582
+113	EE	William Phillips, Stuart R. DeGraaf, Rama Chellappa: Enhanced Segmentation of SAR Images using Non-Fourier Imaging. ICIP 1998:583-586
+112	EE	Murari Srinivasan, Rama Chellappa: Multiple Description Subband Coding. ICIP 1998:684-688
+111	   	Hassan Shekarforoush, Rama Chellappa: Blind Estimation of PSF for Out of Focus Video Data. ICIP 1998:742-745
+110	EE	Venu Govindu, Chandra Shekhar, Rama Chellappa: Using geometric properties for correspondence-less image alignment. ICPR 1998:37-41
+109	EE	Chandra Shekhar, Rama Chellappa: Experimental evaluation of two criteria for pattern comparison and alignment. ICPR 1998:146-153
+108	EE	Chandra Shekhar, Sabine Moisan, Régis Vincent, Philippe Burlina, Rama Chellappa: Use of Knowledge-Based Control for Vision Systems. IEA/AIE (Vol. 2) 1998:427-436
+107	EE	Murari Srinivasan, Rama Chellappa: Adaptive source-channel subband video coding for wireless channels. IEEE Journal on Selected Areas in Communications (JSAC) 16(9):1830-1839 (1998)
+106	EE	Oh-Jin Kwon, Rama Chellappa: Region adaptive subband image coding. IEEE Transactions on Image Processing (TIP) 7(5):632-648 (1998)
+105	EE	Rama Chellappa, Kunihiko Fukushima, Aggelos K. Katsaggelos, Sun-Yuan Kung, Yann LeCun, Nasser M. Nasrabadi, Tomaso Poggio: Guest Editorial Applications Of Artificial Neural Networks To Image Processing. IEEE Transactions on Image Processing (TIP) 7(8):1093-1096 (1998)
+104	EE	Kamran Etemad, Rama Chellappa: Separability-based multiscale basis selection and feature extraction for signal and image classification. IEEE Transactions on Image Processing (TIP) 7(10):1453-1465 (1998)
+103	EE	Philippe Burlina, Rama Chellappa: Temporal Analysis of Motion in Video Sequences through Predictive Operators. International Journal of Computer Vision (IJCV) 28(2):175-192 (1998)
+1997
+102	EE	Kamran Etemad, Rama Chellappa: Discriminant Analysis for Recognition of Human Face Images (Invited Paper). AVBPA 1997:127-142
+101	EE	Carlos Morimoto, Rama Chellappa: Fast 3D Stabilization and Mosaic Construction. CVPR 1997:660-665
+100	EE	Rama Chellappa, Anitesh Barua, Andrew B. Whinston: An Electronic Infrastructure for a Virtual University. Commun. ACM (CACM) 40(9):56-58 (1997)
+99	EE	Vasu Parameswaran, Philippe Burlina, Rama Chellappa: Performance analysis and learning approaches for vehicle detection and counting in aerial images. ICASSP 1997:2753-2756
+98	EE	Murari Srinivasan, Rama Chellappa: Joint source-channel subband coding of images. ICASSP 1997:2925-2928
+97	EE	William Phillips, Rama Chellappa: SAR target detection algorithms on linear SIMD arrays. ICASSP 1997:4101-4104
+96	EE	Carlos Morimoto, Philippe Burlina, Rama Chellappa: Video Coding Using Hybrid Motion Compensation. ICIP 1997:89-92
+95	EE	S. Mathieu-Marni, Shyam Kuttikkad, Rama Chellappa: Context-Aided False Alarm Reduction for SAR Automatic Target Recognition. ICIP 1997:885-888
+94	EE	Sridhar Srinivasan, Rama Chellappa: Image Stabilization and Mosaicking Using the Overlapped Basis Optical Flow Field. ICIP 1997:356-359
+93	EE	Reuven Meth, Rama Chellappa: Stability and sensitivity of topographic features for SAR target characterization. ICIP 1997:464-467
+92	EE	Yi-Sheng Yao, Rama Chellappa: Selective stabilization of images acquired by unmanned ground vehicles. IEEE T. Robotics and Automation (TROB) 13(5):693-708 (1997)
+91	EE	Kamran Etemad, David S. Doermann, Rama Chellappa: Multiscale Segmentation of Unstructured Document Pages Using Soft Decision Integration. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 19(1):92-96 (1997)
+90	EE	Sandor Z. Der, Rama Chellappa: Probe-based automatic target recognition in infrared imagery. IEEE Transactions on Image Processing (TIP) 6(1):92-102 (1997)
+89	EE	Santhana Krishnamachari, Rama Chellappa: Multiresolution Gauss-Markov random field models for texture segmentation. IEEE Transactions on Image Processing (TIP) 6(2):251-267 (1997)
+88	EE	Philippe Burlina, Rama Chellappa: A spectral attentional mechanism tuned to object configurations. IEEE Transactions on Image Processing (TIP) 6(8):1117-1128 (1997)
+87	EE	Kie B. Eom, Rama Chellappa: Noncooperative target classification using hierarchical modeling of high-range resolution radar signatures. IEEE Transactions on Signal Processing (TSP) 45(9):2318-2327 (1997)
+86	EE	Hongche Liu, Tsai-Hong Hong, Martin Herman, Rama Chellappa: A General Motion Model and Spatio-Temporal Filters for Computing Optical Flow. International Journal of Computer Vision (IJCV) 22(2):141-172 (1997)
+85	EE	Murari Srinivasan, Rama Chellappa, Philippe Burlina: Adaptive source-channel subband video coding for wireless channels. MMSP 1997:407-412
+1996
+84	EE	Philippe Burlina, Bruce Lin, Rama Chellappa: On a spectral attentional mechanism. CVPR 1996:120-127
+83	EE	Hongche Liu, Tsai-Hong Hong, Martin Herman, Rama Chellappa: Accuracy vs. Efficiency Trade-offs in Optical Flow Algorithms. ECCV 1996:174-183
+82	EE	Kamran Etemad, Ramalingam Chellappa: Face recognition using discriminant eigenvectors. ICASSP 1996:2148-2151
+81	EE	Reuven Meth, Ramalingam Chellappa: Target indexing in synthetic aperture radar imagery using topographic features. ICASSP 1996:2152-2155
+80	EE	Xiaopeng Zhang, Philippe Burlina, Qinfen Zheng, Ramalingam Chellappa: Automatic image-to-site model registration. ICASSP 1996:2164-2167
+79	EE	Fady Alajaji, Philippe Burlina, Rama Chellappa: MAP decoding of gray-level images over binary channels with memory. ICIP 1996:29-32
+78	EE	Stephen B. Balakirsky, Rama Chellappa: Performance characterization of image stabilization algorithms. ICIP 1996:413-416
+77	EE	Carlos Morimoto, Philippe Burlina, Rama Chellappa, Yi-Sheng Yao: Performance analysis of model-based video coding. ICIP 1996:279-282
+76	EE	Carlos Morimoto, Ramalingam Chellappa: Fast electronic digital image stabilization. ICPR 1996:284-288
+75	EE	Yi-Sheng Yao, Ramalingam Chellappa: Selective stabilization of images acquired by unmanned ground vehicles. ICPR 1996:289-292
+74	EE	Hongche Liu, Tsai-Hong Hong, Martin Herman, Rama Chellappa: Image gradient evolution-a visual cue for collision avoidance. ICPR 1996:446-450
+73	EE	Chandra Shekhar, Shyam Kuttikkad, Ramalingam Chellappa, Monique Thonnat: Knowledge-based integration of IU algorithms. ICPR 1996:599-605
+72	EE	Philippe Burlina, Rama Chellappa: Analyzing Looming Motion Components From Their Spatiotemporal Spectral Signature. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 18(10):1029-1033 (1996)
+71	EE	Santhana Krishnamachari, Rama Chellappa: Delineating buildings by grouping lines with MRFs. IEEE Transactions on Image Processing (TIP) 5(1):164-168 (1996)
+70	EE	B. S. Manjunath, Chandra Shekhar, Rama Chellappa: A new approach to image feature detection with applications. Pattern Recognition (PR) 29(4):627-640 (1996)
+69	EE	Carlos Morimoto, Rama Chellappa: Fast Electronic Digital Image Stabilization for Off-Road Navigation. Real-Time Imaging (RTI) 2(5):285-296 (1996)
+68	EE	Stephen B. Balakirsky, Rama Chellappa: Performance Characterization of Image Stabilization Algorithms. Real-Time Imaging (RTI) 2(5):297-313 (1996)
+1995
+67	EE	Oh-Jin Kwon, Ramalingam Chellappa, Carlos Morimoto: Motion compensated subband coding of video acquired from a moving platform. ICASSP 1995:2185-2188
+66	EE	Santhana Krishnamachari, Ramalingam Chellappa: Multiresolution GMRF models for texture segmentation. ICASSP 1995:2407-2410
+65	EE	Kamran Etemad, Ramalingam Chellappa: Dimensionality reduction of multi-scale feature spaces using a separability criterion. ICASSP 1995:2547-2550
+64	EE	Yi-Sheng Yao, Philippe Burlina, Rama Chellappa, Ting-Hu Wu: Electronic image stabilization using multiple visual cues. ICIP 1995:191-194
+63	EE	Hongche Liu, Tsai-Hong Hong, Martin Herman, Rama Chellappa: Spatio-temporal filters for transparent motion segmentation. ICIP 1995:464-467
+62	EE	Santhana Krishnamachari, Rama Chellappa: GMRF models and wavelet decomposition for texture segmentation. ICIP 1995:568-571
+61	EE	Yi-Sheng Yao, Rama Chellappa: Model-based Vehicular Motion and Structure Estimation. ICRA 1995:1707-1712
+60	EE	Yi-Sheng Yao, Rama Chellappa: Tracking a dynamic set of feature points. IEEE Transactions on Image Processing (TIP) 4(10):1382-1395 (1995)
+59	EE	David A. Bader, Joseph JáJá, Rama Chellappa: Scalable data parallel algorithms for texture synthesis using Gibbs random fields. IEEE Transactions on Image Processing (TIP) 4(10):1456-1460 (1995)
+58	EE	Qinfen Zheng, Rama Chellappa: Automatic feature point extraction and tracking in image sequences for arbitrary camera motion. International Journal of Computer Vision (IJCV) 15(1-2):31-76 (1995)
+57	EE	Ting-Hu Wu, Rama Chellappa, Qinfen Zheng: Experiments on estimating egomotion and structure parameters using long monocular image sequences. International Journal of Computer Vision (IJCV) 15(1-2):77-103 (1995)
+56	EE	V. Venkateswar, Rama Chellappa: Hierarchical stereo and motion correspondence using feature groupings. International Journal of Computer Vision (IJCV) 15(3):245-269 (1995)
+1994
+55	EE	Philippe Burlina, Rama Chellappa: Time-to-X: analysis of motion through temporal parameters. CVPR 1994:461-468
+54	EE	C. L. Lin, Qinfen Zheng, Ramalingam Chellappa, Larry S. Davis, Xiaopeng Zhang: Site model supported monitoring of aerial images. CVPR 1994:694-699
+53	EE	Sandor Z. Der, Rama Chellappa: Probe based recognition of targets in infrared images. CVPR 1994:870-875
+52	EE	Kie-Bum Eom, Rama Chellappa: Hierarchical stochastic modelling for speech compression. ICASSP 1994:61-64
+51	EE	Ying Wang, Rama Chellappa, Qinfen Zheng: Detection of point targets in high resolution synthetic aperture radar images. ICASSP 1994:9-12
+50	EE	Santhana Krishnamachari, Rama Chellappa: An energy minimization approach to building detection in aerial images. ICASSP 1994:13-16
+49	EE	Qinfen Zheng, Rama Chellappa: Automatic Registration of Oblique Aerial Images. ICIP 1994:218-222
+48	EE	Philippe Burlina, Rama Chellappa: Spatio-temporal Moments and Generalized Spectral Analysis of Divergent Images for Motion Estimation. ICIP 1994:328-332
+47	EE	Shyam Kuttikkad, Rama Chellappa: Non-Gaussian CFAR Techniques for Target Detection in High Resolution SAR Images. ICIP 1994:910-914
+46	EE	Oh-Jin Kwon, Rama Chellappa: Region Based Subband Image Coding Scheme. ICIP 1994:859-863
+45	EE	Kamran Etemad, Rama Chellappa: Separability Based Tree Structured Local Basis Selection for Texture Classification. ICIP 1994:441-445
+44	EE	Hayit Greenspan, Rodney M. Goodman, Rama Chellappa, Charles H. Anderson: Learning Texture Discrimination Rules in a Multiresolution System. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 16(9):894-901 (1994)
+43	EE	James L. Blue, Gerald T. Candela, Patrick Grother, Rama Chellappa, Charles L. Wilson: Evaluation of pattern classifiers for fingerprint and OCR applications. Pattern Recognition (PR) 27(4):485-501 (1994)
+1993
+42	EE	Mohamed Abdel-Mottaleb, Rama Chellappa, Azriel Rosenfeld: Binocular motion stereo using MAP estimation. CVPR 1993:321-327
+41	EE	Qinfen Zheng, Rama Chellappa: Automatic feature point extraction and tracking in image sequences for unknown camera motion. ICCV 1993:335-339
+40	EE	Qinfen Zheng, Rama Chellappa: A computational vision approach to image registration. IEEE Transactions on Image Processing (TIP) 2(3):311-326 (1993)
+39	EE	B. S. Manjunath, Rama Chellappa: A unified approach to boundary perception: edges, textures, and illusory contours. IEEE Transactions on Neural Networks (TNN) 4(1):96-108 (1993)
+38	EE	Ji-Chien Lee, Bing J. Sheu, Wai-Chi Fang, Rama Chellappa: VLSI neuroprocessors for video motion detection. IEEE Transactions on Neural Networks (TNN) 4(2):178-191 (1993)
+37	EE	Josiane Zerubia, Rama Chellappa: Mean field annealing using compound Gauss-Markov random fields for edge detection and image estimation. IEEE Transactions on Neural Networks (TNN) 4(4):703-709 (1993)
+36	EE	Ji-Chien Lee, Bing J. Sheu, Rama Chellappa: A mixed-signal VLSI competitive neuroprocessor for video motion detection. VLSI Signal Processing (VLSISP) 6(1):57-66 (1993)
+35	EE	Ji-Chien Lee, Bing J. Sheu, Rama Chellappa: A VLSI neuroprocessor for image restoration using analog computing-based systolic architecture. VLSI Signal Processing (VLSISP) 5(2-3):185-199 (1993)
+1992
+34	EE	Ji-Chien Lee, Bing J. Sheu, Joongho Choi, Ramalingam Chellappa: A mixed-signal VLSI neuroprocessor for image restoration. IEEE Trans. Circuits Syst. Video Techn. (TCSV) 2(3):319-324 (1992)
+33	EE	Gem-Sun Jason Young, Rama Chellappa: Statistical Analysis of Inherent Ambiguities in Recovering 3-D Motion from a Noisy Flow Field. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 14(10):995-1013 (1992)
+32	EE	V. Venkateswar, Rama Chellappa: Extraction of Straight Lines in Aerial Images. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 14(11):1111-1114 (1992)
+31	EE	Eric J. M. Rignot, Rama Chellappa: Segmentation of polarimetric synthetic aperture radar data. IEEE Transactions on Image Processing (TIP) 1(3):281-300 (1992)
+30	EE	Chandra Shekhar, Rama Chellappa: Passive ranging using a moving camera. J. Field Robotics (JFR) 9(6):729-752 (1992)
+29	EE	Taiho Kanaoka, Rama Chellappa, Matsubuchi Yoshitaka, Shingo Tomita: A higher-order neural network for distortion invariant pattern recognition. Pattern Recognition Letters (PRL) 13(12):837-841 (1992)
+1991
+28	EE	B. S. Manjunath, Rama Chellappa: Unsupervised Texture Segmentation Using Markov Random Field Models. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 13(5):478-482 (1991)
+27	EE	Ted J. Broida, Rama Chellappa: Estimating the Kinematics and Structure of a Rigid Object from a Sequence of Monocular Images. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 13(6):497-513 (1991)
+26	EE	Qinfen Zheng, Rama Chellappa: Estimation of Illuminant Direction, Albedo, and Shape from Shading. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 13(7):680-702 (1991)
+25	EE	Hayit Greenspan, Rodney M. Goodman, Rama Chellappa: Combined Neural Network and Rule-Based Framework for Probabilistic Pattern Recognition and Discovery. NIPS 1991:444-451
+1990
+24	EE	Robert T. Frankot, Rama Chellappa: Estimation of Surface Topography from SAR Imagery Using Shape from Shading Techniques. Artif. Intell. (AI) 43(3):271-310 (1990)
+23	EE	B. S. Manjunath, Tal Simchony, Rama Chellappa: Stochastic and deterministic networks for texture segmentation. IEEE Trans. Acoustics, Speech, and Signal Processing (TSP) 38(6):1039-1049 (1990)
+22	EE	Tal Simchony, Rama Chellappa, M. Shao: Direct Analytical Methods for Solving Poisson Equations in Computer Vision Problems. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 12(5):435-446 (1990)
+21	EE	Gem-Sun Jason Young, Rama Chellappa: 3-D Motion Estimation Using a Sequence of Noisy Stereo Images: Models, Estimation, and Uniqueness Results. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 12(8):735-759 (1990)
+20	EE	Richard R. Hansen Jr., Ramalingam Chellappa: Noncausal 2-D spectrum estimation for direction finding. IEEE Transactions on Information Theory (TIT) 36(1):108-125 (1990)
+19	EE	Tal Simchony, Ramalingam Chellappa, Ze'ev Lichtenstein: Relaxation algorithms for MAP estimation of gray-level images with multiplicative noise. IEEE Transactions on Information Theory (TIT) 36(3):608-613 (1990)
+1989
+18	EE	Yi-Tong Zhou, V. Venkateswar, Rama Chellappa: Edge Detection and Linear Feature Extraction Using a 2-D Random Field Model. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 11(1):84-95 (1989)
+17	EE	Tal Simchony, Ramalingam Chellappa, Ze'ev Lichtenstein: Pyramid implementation of optimal-step conjugate-search algorithms for some low-level vision problems. IEEE Transactions on Systems, Man, and Cybernetics (TSMC) 19(6):1408-1425 (1989)
+1988
+16	EE	Tal Simchony, Rama Chellappa, Ze'ev Lichtenstein: Pyramid Implementation Of Optimal Step Conjugate Search Algorithms For Some Computer Vision Problems. ICCV 1988:580-590
+15	EE	Robert T. Frankot, Rama Chellappa: A Method for Enforcing Integrability in Shape from Shading Algorithms. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 10(4):439-451 (1988)
+1987
+14	EE	C. C. Lin, Rama Chellappa: Classification of Partial 2-D Shapes Using Fourier Descriptors. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 9(5):686-690 (1987)
+1986
+13	EE	Ted J. Broida, Rama Chellappa: Estimation of Object Motion Parameters from Noisy Images. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 8(1):90-99 (1986)
+12	EE	Govind Sharma, Ramalingam Chellappa: Two-dimensional spectrum estimation using noncausal autoregressive models. IEEE Transactions on Information Theory (TIT) 32(2):268-275 (1986)
+1985
+11	EE	Govind Sharma, Ramalingam Chellappa: A model-based approach for estimation of two-dimensional maximum entropy power spectra. IEEE Transactions on Information Theory (TIT) 31(1):90-99 (1985)
+10	EE	Rama Chellappa, Sangit Chatterjee, R. Bagdazian: Texture synthesis and compression using Gaussian-Markov random field models. IEEE Transactions on Systems, Man, and Cybernetics (TSMC) 15(2):298-303 (1985)
+1984
+9	EE	Govind Sharma, Ramalingam Chellappa: An iterative algorithm for robust 2-D spectrum estimation. ICASSP 1984:150-153
+8	EE	Ramalingam Chellappa, Govind Sharma: A model based approach for 2-D MEPS analysis. ICASSP 1984:154-157
+7	EE	Rama Chellappa, Sangit Chatterjee: Classification of textures using Markov random field models. ICASSP 1984:694-697
+6	EE	Rama Chellappa, R. Bagdazian: Fourier Coding of Image Boundaries. IEEE Trans. Pattern Anal. Mach. Intell. (PAMI) 6(1):102-105 (1984)
+1983
+5	EE	Rama Chellappa, Govind Sharma: Two-dimensional spectral estimation using spatial autoregressive models. ICASSP 1983:855-858
+4	EE	Rangasami L. Kashyap, Ramalingam Chellappa: Estimation and choice of neighbors in spatial-interaction models of images. IEEE Transactions on Information Theory (TIT) 29(1):60-72 (1983)
+3	EE	Rangasami L. Kashyap, Ramalingam Chellappa: Correction to 'Estimation and choice of Neighbors in Spatial-Interaction Models of Images'. IEEE Transactions on Information Theory (TIT) 29(4):629- (1983)
+[more]
+Hits 1 - 513 of 515 for author:rama_chellappa: (PageUp  / PageDown  for next/previous hits)
